@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_application_title__",
+  "description": "__MSG_application_description__",
+  "version": "0.0.1",
+  "default_locale": "en",
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "action": {
+    "default_title": "__MSG_action_title__"
+  },
+  "author": "ryan.luu@ryanluu.dev",
+  "permissions": ["scripting", "activeTab"],
+  "commands": {
+    "_execute_action": {
+      "suggested_key": {
+        "default": "Ctrl+B",
+        "mac": "Command+B"
+      }
+    }
+  }
+}

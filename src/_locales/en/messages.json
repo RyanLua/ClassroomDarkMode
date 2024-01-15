@@ -1,0 +1,14 @@
+{
+  "application_title": {
+    "message": "Classroom Dark Mode",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "application_description": {
+    "message": "Dark mode for Google Classroom",
+    "description": "The description of the application, displayed in the web store."
+  },
+  "action_title": {
+    "message": "Click to toggle darkmode on Google Classroom",
+    "description": "The title of the action, displayed when the extension icon is hovered over."
+  }
+}
