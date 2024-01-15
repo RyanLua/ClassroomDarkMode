@@ -81,7 +81,7 @@ body {
   border-color: var(--bd-color);
 }
 .SZ0kZe {
-  border-top: 0.0625rem solid var(--bd-color);
+  border-color: var(--bd-color);
 }
 .oBSRLe {
   color: var(--font-secondary-color);
@@ -104,7 +104,7 @@ body {
 }
 .mwJvDe .KEDCCd {
   background-color: var(--bg-color);
-  border-bottom: 0.0625rem solid var(--bd-color);
+  border-color: var(--bd-color);
 }
 
 /* Submenu */
@@ -142,15 +142,15 @@ body {
 
 /* People */
 .ycbm1d {
-  border-top: 0.0625rem solid var(--bd-color);
+  border-color: var(--bd-color);
 }
 .d6CWTd {
-  border-top: 0.0625rem solid var(--bd-color);
+  border-color: var(--bd-color);
 }
 
 /* Feed */
 .s2g3Xd {
-  border-top: 0.0625rem solid var(--bd-color);
+  border-color: var(--bd-color);
 }
 
 /* Settings */
