@@ -1,26 +1,10 @@
-/* 
-Copyright 2022 Google LLC
-
-Licensed under the Apache License, Version 2.0 (the "License") !important;
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    https://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-*/
-
 :root {
-  color-scheme: dark !important;
-  --bg-color: #202124 !important;
-  --bd-color: #606367 !important;
-  --font-color: rgba(255, 255, 255, 0.87) !important;
-  --hover-color: rgba(255, 255, 255, 1) !important;
-  --font-secondary-color: #9aa0a6 !important;
+  color-scheme: dark;
+  --bg-color: #202124;
+  --bd-color: #606367;
+  --font-color: rgba(255, 255, 255, 0.87);
+  --hover-color: rgba(255, 255, 255, 1);
+  --font-secondary-color: #9aa0a6;
 }
 
 h1,
@@ -31,51 +15,51 @@ h5,
 h6,
 p,
 div {
-  color: var(--font-color) !important !
+  color: var(--font-color);
 }
 
 /* Background */
 body {
-  background-color: var(--bg-color) !important;
+  background-color: var(--bg-color);
 }
 
 /* Navbar */
 .joJglb {
-  background: var(--bg-color) !important;
-  border-color: var(--bd-color) !important;
+  background: var(--bg-color);
+  border-color: var(--bd-color);
 }
 .z3vRcc-J3yWx {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Sidebar */
 .ETRkCe {
-  background-color: var(--bg-color) !important;
+  background-color: var(--bg-color);
 }
 .Tabkde .OX4Vcb {
-  background-color: var(--bg-color) !important;
+  background-color: var(--bg-color);
 }
 .F4Ol1b .Tabkde {
-  border-color: var(--bd-color) !important;
+  border-color: var(--bd-color);
 }
 .asQXV {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 .Du1LZe {
-  border-color: var(--bd-color) !important;
+  border-color: var(--bd-color);
 }
 .VfPpkd-rymPhb-clz4Ic {
-  background-color: rgba(255, 255, 255, 0.12) !important;
+  background-color: rgba(255, 255, 255, 0.12);
 }
 
 /* Classroom Text */
 .rpo4wf-J3yWx {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Hamburger */
 .NMm5M {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Apps */
@@ -83,102 +67,107 @@ body {
 .gb_Sc svg,
 .gb_ed .gb_md,
 .gb_4c .gb_md {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Join Classroom */
 .xiutKc > .I7OXgf {
-  background-color: var(--bg-color) !important;
+  background-color: var(--bg-color);
 }
 
 /* Card */
 .Aopndd {
-  background-color: var(--bg-color) !important;
-  border-color: var(--bd-color) !important;
+  background-color: var(--bg-color);
+  border-color: var(--bd-color);
 }
 .SZ0kZe {
-  border-top: 0.0625rem solid var(--bd-color) !important;
+  border-top: 0.0625rem solid var(--bd-color);
 }
 .oBSRLe {
-  color: var(--font-secondary-color) !important;
+  color: var(--font-secondary-color);
 }
 .apFsO.onkcGd,
 .apFsO.onkcGd:visited {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Classroom tabs */
 .F4Ol1b .KEDCCd {
-  border-color: var(--bd-color) !important;
-  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color);
+  background-color: var(--bg-color);
 }
 .wZTANe .J1raN {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 .wZTANe .J1raN:hover {
-  color: var(--hover-color) !important;
+  color: var(--hover-color);
 }
 .mwJvDe .KEDCCd {
-  background-color: var(--bg-color) !important;
-  border-bottom: 0.0625rem solid var(--bd-color) !important;
+  background-color: var(--bg-color);
+  border-bottom: 0.0625rem solid var(--bd-color);
 }
 
 /* Submenu */
 .VfPpkd-xl07Ob-XxIAqe {
-  background-color: var(--bg-color) !important;
+  background-color: var(--bg-color);
 }
 .q6oraf .VfPpkd-StrnGf-rymPhb {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Classroom announcements */
 body {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 .dDKhVc {
-  color: var(--font-secondary-color) !important;
+  color: var(--font-secondary-color);
 }
 
 /* Upcoming */
 .d4Fe0d {
-  background-color: var(--bg-color) !important;
-  border-color: var(--bd-color) !important;
+  background-color: var(--bg-color);
+  border-color: var(--bd-color);
 }
 .EZrbnd {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 .sdDCme {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Topics */
 .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-uusGie-fmcmS {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* People */
 .ycbm1d {
-  border-top: 0.0625rem solid var(--bd-color) !important;
+  border-top: 0.0625rem solid var(--bd-color);
 }
 .d6CWTd {
-  border-top: 0.0625rem solid var(--bd-color) !important;
+  border-top: 0.0625rem solid var(--bd-color);
 }
 
 /* Feed */
 .s2g3Xd {
-  border-top: 0.0625rem solid var(--bd-color) !important;
+  border-top: 0.0625rem solid var(--bd-color);
 }
 
 /* Settings */
 .tLDEHd {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 .z3vRcc,
 .tDxNLe {
-  color: var(--font-color) !important;
+  color: var(--font-color);
 }
 
 /* Context menu */
 .JPdR6b {
-  background: var(--bg-color) !important;
+  background: var(--bg-color);
+}
+
+/* Classwork */
+.tUJKGd:not(:first-child) {
+  border-color: var(--bd-color);
 }
