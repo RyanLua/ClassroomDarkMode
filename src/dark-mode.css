@@ -14,6 +14,7 @@
   --teal-hover: rgba(53, 121, 129, 0.12);
   --purple-hover: rgba(109, 44, 180, 0.12);
   --white-hover: rgba(255, 255, 255, 0.12);
+  --grey-hover: rgba(255, 255, 255, 0.04);
 }
 
 h1,
@@ -62,6 +63,11 @@ body {
 }
 
 /* Sidebar hover */
+.Xi8cpb:hover .LlcfK,
+.qr5cDe:hover .LlcfK {
+  background-color: var(--grey-hover);
+}
+
 .S3aLQd.bFjUmb-Ysl7Fe,
 .S3aLQd .bFjUmb-Ysl7Fe,
 .S3aLQd.CNpREd.bFjUmb-Ysl7Fe,
