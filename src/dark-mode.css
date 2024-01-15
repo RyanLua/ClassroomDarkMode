@@ -201,6 +201,9 @@ body {
 .dDKhVc {
   color: var(--font-secondary-color);
 }
+.xPAMbf {
+  border-color: var(--bd-color);
+}
 
 /* Upcoming */
 .d4Fe0d {
@@ -249,4 +252,23 @@ body {
 /* Classwork */
 .tUJKGd:not(:first-child) {
   border-color: var(--bd-color);
+}
+.JZINBb {
+  border-color: var(--bd-color);
+}
+
+/* Calendar */
+.RIDjNe {
+  border-color: var(--bd-color);
+}
+
+/* Comment */
+.q1Kmyc {
+  border-color: var(--bd-color);
+  color: var(--font-secondary-color);
+}
+
+.xVPuB .snByac,
+.vnnr5e .snByac {
+  color: var(--font-secondary-color);
 }
