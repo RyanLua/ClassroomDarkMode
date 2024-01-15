@@ -15,7 +15,7 @@ h5,
 h6,
 p,
 div {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* Background */
