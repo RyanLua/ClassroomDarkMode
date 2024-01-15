@@ -7,13 +7,13 @@
   --hover-color: rgba(255, 255, 255, 1);
   --font-secondary-color: #9aa0a6;
 
-  --blue-hover: rgb(50, 101, 203, 0.12);
-  --green-hover: rgb(19, 115, 51, 0.12);
-  --pink-hover: rgb(169, 36, 112, 0.12);
-  --orange-hover: rgb(182, 105, 37, 0.12);
-  --teal-hover: rgb(53, 121, 129, 0.12);
-  --purple-hover: rgb(109, 44, 180, 0.12);
-  --grey-hover: rgb(50, 101, 203, 0.12);
+  --blue-hover: rgba(50, 101, 203, 0.12);
+  --green-hover: rgba(19, 115, 51, 0.12);
+  --pink-hover: rgba(169, 36, 112, 0.12);
+  --orange-hover: rgba(182, 105, 37, 0.12);
+  --teal-hover: rgba(53, 121, 129, 0.12);
+  --purple-hover: rgba(109, 44, 180, 0.12);
+  --white-hover: rgba(255, 255, 255, 0.12);
 }
 
 h1,
@@ -58,7 +58,7 @@ body {
   border-color: var(--bd-color);
 }
 .VfPpkd-rymPhb-clz4Ic {
-  background-color: rgba(255, 255, 255, 0.12);
+  background-color: var(--white-hover);
 }
 
 /* Sidebar hover */
