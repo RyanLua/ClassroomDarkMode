@@ -1,10 +1,19 @@
 :root {
   color-scheme: dark;
+
   --bg-color: #202124;
   --bd-color: #606367;
   --font-color: rgba(255, 255, 255, 0.87);
   --hover-color: rgba(255, 255, 255, 1);
   --font-secondary-color: #9aa0a6;
+
+  --blue-hover: rgb(50, 101, 203, 0.12);
+  --green-hover: rgb(19, 115, 51, 0.12);
+  --pink-hover: rgb(169, 36, 112, 0.12);
+  --orange-hover: rgb(182, 105, 37, 0.12);
+  --teal-hover: rgb(53, 121, 129, 0.12);
+  --purple-hover: rgb(109, 44, 180, 0.12);
+  --grey-hover: rgb(50, 101, 203, 0.12);
 }
 
 h1,
@@ -50,6 +59,55 @@ body {
 }
 .VfPpkd-rymPhb-clz4Ic {
   background-color: rgba(255, 255, 255, 0.12);
+}
+
+/* Sidebar hover */
+.S3aLQd.bFjUmb-Ysl7Fe,
+.S3aLQd .bFjUmb-Ysl7Fe,
+.S3aLQd.CNpREd.bFjUmb-Ysl7Fe,
+.S3aLQd.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--teal-hover);
+}
+.ee1HBc.bFjUmb-Ysl7Fe,
+.ee1HBc .bFjUmb-Ysl7Fe,
+.ee1HBc.CNpREd.bFjUmb-Ysl7Fe,
+.ee1HBc.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--blue-hover);
+}
+
+.WFUiUb.bFjUmb-Ysl7Fe,
+.WFUiUb .bFjUmb-Ysl7Fe,
+.WFUiUb.CNpREd.bFjUmb-Ysl7Fe,
+.WFUiUb.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--green-hover);
+}
+
+.zvzLKc.bFjUmb-Ysl7Fe,
+.zvzLKc .bFjUmb-Ysl7Fe,
+.zvzLKc.CNpREd.bFjUmb-Ysl7Fe,
+.zvzLKc.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--pink-hover);
+}
+
+.g2MItd.bFjUmb-Ysl7Fe,
+.g2MItd .bFjUmb-Ysl7Fe,
+.g2MItd.CNpREd.bFjUmb-Ysl7Fe,
+.g2MItd.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--orange-hover);
+}
+
+.Mupove.bFjUmb-Ysl7Fe,
+.Mupove .bFjUmb-Ysl7Fe,
+.Mupove.CNpREd.bFjUmb-Ysl7Fe,
+.Mupove.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--purple-hover);
+}
+
+.UvHKof.bFjUmb-Ysl7Fe,
+.UvHKof .bFjUmb-Ysl7Fe,
+.UvHKof.CNpREd.bFjUmb-Ysl7Fe,
+.UvHKof.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--grey-hover);
 }
 
 /* Classroom Text */
