@@ -15,6 +15,9 @@
   --purple-hover: rgba(109, 44, 180, 0.12);
   --white-hover: rgba(255, 255, 255, 0.12);
   --grey-hover: rgba(255, 255, 255, 0.04);
+
+  --shadow-heavy: rgba(0, 0, 0, 0.3);
+  --shadow-medium: rgba(0, 0, 0, 0.15);
 }
 
 h1,
