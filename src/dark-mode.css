@@ -157,6 +157,12 @@ body {
 .apFsO.onkcGd:visited {
   color: var(--font-color);
 }
+.rZXyy.YwNp1,
+.rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ):hover,
+.rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ):focus {
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy),
+    0 2px 6px 2px var(--shadow-medium);
+}
 
 /* Classroom tabs */
 .F4Ol1b .KEDCCd {
@@ -182,7 +188,13 @@ body {
   color: var(--font-color);
 }
 
-/* Classroom announcements */
+/* Announce */
+.GWZ7yf {
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy),
+    0 2px 6px 2px var(--shadow-medium);
+}
+
+/* Stream */
 body {
   color: var(--font-color);
 }
