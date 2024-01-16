@@ -7,6 +7,7 @@
   --font-color: rgba(255, 255, 255, 0.87);
   --hover-color: rgba(255, 255, 255, 1);
   --font-secondary-color: #9aa0a6;
+  --icon-color: #9aa0a6
 
   --blue-hover: rgba(50, 101, 203, 0.12);
   --green-hover: rgba(19, 115, 51, 0.12);
@@ -291,6 +292,12 @@ body {
 .z80M1.FwR7Pc {
   background-color: var(--white-hover) !important;
 }
+.s8kOBc .VfPpkd-rymPhb-fpDzbe-fmcmS {
+  color: var(--font-color) !important;
+}
+.s8kOBc .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd {
+  background-color: var(--white-hover) !important;
+}
 
 /* Calendar */
 .RIDjNe {
@@ -342,7 +349,8 @@ body {
 .LqHDgc {
   border-color: var(--bd-color) !important;
 }
-.A6dC2c, .saYe1e {
+.A6dC2c,
+.saYe1e {
   color: var(--font-color) !important;
 }
 
