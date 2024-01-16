@@ -389,6 +389,16 @@ body {
 .ee1HBc .ZoT1D:hover .idtp4e {
   background-color: var(--blue-hover) !important;
 }
+.ee1HBc .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.ee1HBc .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.ee1HBc .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.ee1HBc .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.ee1HBc .ZoT1D:focus-within.boxOzd,
+.ee1HBc .ZoT1D:focus-within.idtp4e,
+.ee1HBc .ZoT1D :focus-within.boxOzd,
+.ee1HBc .ZoT1D :focus-within.idtp4e {
+  background-color: var(--blue-hover) !important;
+}
 .WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
 .WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
 .WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
@@ -397,6 +407,16 @@ body {
 .WFUiUb .ZoT1D:hover.idtp4e,
 .WFUiUb .ZoT1D:hover .j6KDAd,
 .WFUiUb .ZoT1D:hover .idtp4e {
+  background-color: var(--green-hover) !important;
+}
+.WFUiUb .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.WFUiUb .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.WFUiUb .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.WFUiUb .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.WFUiUb .ZoT1D:focus-within.boxOzd,
+.WFUiUb .ZoT1D:focus-within.idtp4e,
+.WFUiUb .ZoT1D :focus-within.boxOzd,
+.WFUiUb .ZoT1D :focus-within.idtp4e {
   background-color: var(--green-hover) !important;
 }
 .zvzLKc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
@@ -409,6 +429,16 @@ body {
 .zvzLKc .ZoT1D:hover .idtp4e {
   background-color: var(--pink-hover) !important;
 }
+.zvzLKc .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.zvzLKc .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.zvzLKc .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.zvzLKc .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.zvzLKc .ZoT1D:focus-within.boxOzd,
+.zvzLKc .ZoT1D:focus-within.idtp4e,
+.zvzLKc .ZoT1D :focus-within.boxOzd,
+.zvzLKc .ZoT1D :focus-within.idtp4e {
+  background-color: var(--pink-hover) !important;
+}
 .g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
 .g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
 .g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
@@ -417,6 +447,16 @@ body {
 .g2MItd .ZoT1D:hover.idtp4e,
 .g2MItd .ZoT1D:hover .j6KDAd,
 .g2MItd .ZoT1D:hover .idtp4e {
+  background-color: var(--orange-hover) !important;
+}
+.g2MItd .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.g2MItd .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.g2MItd .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.g2MItd .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.g2MItd .ZoT1D:focus-within.boxOzd,
+.g2MItd .ZoT1D:focus-within.idtp4e,
+.g2MItd .ZoT1D :focus-within.boxOzd,
+.g2MItd .ZoT1D :focus-within.idtp4e {
   background-color: var(--orange-hover) !important;
 }
 .S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
@@ -429,6 +469,16 @@ body {
 .S3aLQd .ZoT1D:hover .idtp4e {
   background-color: var(--teal-hover) !important;
 }
+.S3aLQd .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.S3aLQd .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.S3aLQd .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.S3aLQd .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.S3aLQd .ZoT1D:focus-within.boxOzd,
+.S3aLQd .ZoT1D:focus-within.idtp4e,
+.S3aLQd .ZoT1D :focus-within.boxOzd,
+.S3aLQd .ZoT1D :focus-within.idtp4e {
+  background-color: var(--teal-hover) !important;
+}
 .Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
 .Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
 .Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
@@ -439,6 +489,16 @@ body {
 .Mupove .ZoT1D:hover .idtp4e {
   background-color: var(--purple-hover) !important;
 }
+.Mupove .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.Mupove .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.Mupove .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.Mupove .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.Mupove .ZoT1D:focus-within.boxOzd,
+.Mupove .ZoT1D:focus-within.idtp4e,
+.Mupove .ZoT1D :focus-within.boxOzd,
+.Mupove .ZoT1D :focus-within.idtp4e {
+  background-color: var(--purple-hover) !important;
+}
 .UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
 .UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
 .UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
@@ -447,6 +507,16 @@ body {
 .UvHKof .ZoT1D:hover.idtp4e,
 .UvHKof .ZoT1D:hover .j6KDAd,
 .UvHKof .ZoT1D:hover .idtp4e {
+  background-color: var(--gray-hover) !important;
+}
+.UvHKof .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
+.UvHKof .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
+.UvHKof .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
+.UvHKof .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.UvHKof .ZoT1D:focus-within.boxOzd,
+.UvHKof .ZoT1D:focus-within.idtp4e,
+.UvHKof .ZoT1D :focus-within.boxOzd,
+.UvHKof .ZoT1D :focus-within.idtp4e {
   background-color: var(--gray-hover) !important;
 }
 
