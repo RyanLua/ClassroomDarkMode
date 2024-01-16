@@ -165,7 +165,7 @@ body {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
-.Niache{
+.Niache {
   border-color: var(--bd-color) !important;
 }
 .SZ0kZe {
@@ -338,6 +338,12 @@ body {
 .z3vRcc,
 .tDxNLe {
   color: var(--font-color) !important;
+}
+.cSyPgb {
+  color: var(--font-secondary-color) !important;
+}
+.E5f6Vd {
+  border-color: var(--bd-color) !important;
 }
 
 /* Context menu */
