@@ -11,13 +11,5 @@
     "default_title": "__MSG_action_title__"
   },
   "author": "ryan.luu@ryanluu.dev",
-  "permissions": ["scripting", "activeTab"],
-  "commands": {
-    "_execute_action": {
-      "suggested_key": {
-        "default": "Ctrl+B",
-        "mac": "Command+B"
-      }
-    }
-  }
+  "permissions": ["scripting", "activeTab"]
 }
