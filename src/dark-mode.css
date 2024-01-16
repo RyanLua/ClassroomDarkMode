@@ -2,10 +2,13 @@
   color-scheme: dark;
 
   --bg-color: #202124;
+  --bg-secondary-color: #525355;
   --bd-color: #606367;
+  --bd-secondary-color: rgba(255, 255, 255, 0.12);
   --font-color: rgba(255, 255, 255, 0.87);
   --hover-color: rgba(255, 255, 255, 1);
   --font-secondary-color: #9aa0a6;
+  --icon-color: #9aa0a6;
 
   --blue-hover: rgba(50, 101, 203, 0.12);
   --green-hover: rgba(19, 115, 51, 0.12);
@@ -14,7 +17,7 @@
   --teal-hover: rgba(53, 121, 129, 0.12);
   --purple-hover: rgba(109, 44, 180, 0.12);
   --white-hover: rgba(255, 255, 255, 0.12);
-  --grey-hover: rgba(255, 255, 255, 0.04);
+  --gray-hover: rgba(255, 255, 255, 0.04);
 
   --shadow-heavy: rgba(0, 0, 0, 0.3);
   --shadow-medium: rgba(0, 0, 0, 0.15);
@@ -33,100 +36,106 @@ div {
 
 /* Background */
 body {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color) !important;
 }
 
 /* Navbar */
 .joJglb {
-  background: var(--bg-color);
-  border-color: var(--bd-color);
+  background: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
 }
 .z3vRcc-J3yWx {
-  color: var(--font-color);
+  color: var(--font-color) !important;
+}
+.gKkZCe {
+  border-color: var(--bd-color) !important;
 }
 
 /* Sidebar */
 .ETRkCe {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color) !important;
 }
 .Tabkde .OX4Vcb {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color) !important;
 }
 .F4Ol1b .Tabkde {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 .asQXV {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 .Du1LZe {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 .VfPpkd-rymPhb-clz4Ic {
-  background-color: var(--white-hover);
+  background-color: var(--white-hover) !important;
 }
 
 /* Sidebar hover */
 .Xi8cpb:hover .LlcfK,
 .qr5cDe:hover .LlcfK {
-  background-color: var(--grey-hover);
+  background-color: var(--gray-hover) !important;
 }
 
 .S3aLQd.bFjUmb-Ysl7Fe,
 .S3aLQd .bFjUmb-Ysl7Fe,
 .S3aLQd.CNpREd.bFjUmb-Ysl7Fe,
 .S3aLQd.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--teal-hover);
+  background-color: var(--teal-hover) !important;
 }
 .ee1HBc.bFjUmb-Ysl7Fe,
 .ee1HBc .bFjUmb-Ysl7Fe,
 .ee1HBc.CNpREd.bFjUmb-Ysl7Fe,
 .ee1HBc.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--blue-hover);
+  background-color: var(--blue-hover) !important;
 }
 
 .WFUiUb.bFjUmb-Ysl7Fe,
 .WFUiUb .bFjUmb-Ysl7Fe,
 .WFUiUb.CNpREd.bFjUmb-Ysl7Fe,
 .WFUiUb.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--green-hover);
+  background-color: var(--green-hover) !important;
 }
 
 .zvzLKc.bFjUmb-Ysl7Fe,
 .zvzLKc .bFjUmb-Ysl7Fe,
 .zvzLKc.CNpREd.bFjUmb-Ysl7Fe,
 .zvzLKc.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--pink-hover);
+  background-color: var(--pink-hover) !important;
 }
 
 .g2MItd.bFjUmb-Ysl7Fe,
 .g2MItd .bFjUmb-Ysl7Fe,
 .g2MItd.CNpREd.bFjUmb-Ysl7Fe,
 .g2MItd.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--orange-hover);
+  background-color: var(--orange-hover) !important;
 }
 
 .Mupove.bFjUmb-Ysl7Fe,
 .Mupove .bFjUmb-Ysl7Fe,
 .Mupove.CNpREd.bFjUmb-Ysl7Fe,
 .Mupove.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--purple-hover);
+  background-color: var(--purple-hover) !important;
 }
 
 .UvHKof.bFjUmb-Ysl7Fe,
 .UvHKof .bFjUmb-Ysl7Fe,
 .UvHKof.CNpREd.bFjUmb-Ysl7Fe,
 .UvHKof.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--grey-hover);
+  background-color: var(--white-hover) !important;
 }
 
 /* Classroom Text */
 .rpo4wf-J3yWx {
-  color: var(--font-color);
+  color: var(--font-color) !important;
+}
+.A6dC2c-J3yWx {
+  color: var(--font-color) !important;
 }
 
 /* Hamburger */
 .NMm5M {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* Apps */
@@ -134,50 +143,59 @@ body {
 .gb_Sc svg,
 .gb_ed .gb_md,
 .gb_4c .gb_md {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* Join Classroom */
 .xiutKc > .I7OXgf {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color) !important;
+}
+.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd {
+  color: var(--font-color) !important;
+}
+.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc {
+  color: var(--font-color) !important;
+}
+.I7OXgf {
+  background-color: var(--bg-color) !important;
 }
 
 /* Card */
 .Aopndd {
-  background-color: var(--bg-color);
-  border-color: var(--bd-color);
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
 }
 .SZ0kZe {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 .oBSRLe {
-  color: var(--font-secondary-color);
+  color: var(--font-secondary-color) !important;
 }
 .apFsO.onkcGd,
 .apFsO.onkcGd:visited {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 .rZXyy.YwNp1,
 .rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ):hover,
 .rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ):focus {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
-    0 2px 6px 2px var(--shadow-medium);
+    0 2px 6px 2px var(--shadow-medium) !important;
 }
 
 /* Classroom tabs */
 .F4Ol1b .KEDCCd {
-  border-color: var(--bd-color);
-  background-color: var(--bg-color);
+  border-color: var(--bd-color) !important;
+  background-color: var(--bg-color) !important;
 }
 .wZTANe .J1raN {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 .wZTANe .J1raN:hover {
-  color: var(--hover-color);
+  color: var(--hover-color) !important;
 }
 .mwJvDe .KEDCCd {
-  background-color: var(--bg-color);
-  border-color: var(--bd-color);
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
 }
 
 /* Tab hover */
@@ -219,93 +237,182 @@ body {
 
 /* Submenu */
 .VfPpkd-xl07Ob-XxIAqe {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color) !important;
 }
 .q6oraf .VfPpkd-StrnGf-rymPhb {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* Announce */
 .GWZ7yf {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
-    0 2px 6px 2px var(--shadow-medium);
+    0 2px 6px 2px var(--shadow-medium) !important;
 }
 
 /* Stream */
 body {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 .dDKhVc {
-  color: var(--font-secondary-color);
+  color: var(--font-secondary-color) !important;
 }
 .xPAMbf {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
+}
+
+/* Stream hover */
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.S3aLQd .ZoT1D:hover.j6KDAd,
+.S3aLQd .ZoT1D:hover.idtp4e,
+.S3aLQd .ZoT1D:hover .j6KDAd,
+.S3aLQd .ZoT1D:hover .idtp4e {
+  background-color: var(--teal-hover) !important;
+}
+.S3aLQd .UISY8d-Ysl7Fe:hover,
+.S3aLQd.MymH0d:hover .UISY8d-Ysl7Fe,
+.S3aLQd .MymH0d:hover .UISY8d-Ysl7Fe {
+  background-color: var(--teal-hover) !important;
 }
 
 /* Upcoming */
 .d4Fe0d {
-  background-color: var(--bg-color);
-  border-color: var(--bd-color);
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
 }
 .EZrbnd {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 .sdDCme {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* Topics */
 .ReCbLb:not(.VfPpkd-O1htCb-OWXEXe-OWB6Me) .VfPpkd-uusGie-fmcmS {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* People */
 .ycbm1d {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 .d6CWTd {
-  border-color: var(--bd-color);
+  border-color: var(--bd-secondary-color) !important;
 }
 
 /* Feed */
 .s2g3Xd {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 
 /* Settings */
 .tLDEHd {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 .z3vRcc,
 .tDxNLe {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 /* Context menu */
 .JPdR6b {
-  background: var(--bg-color);
+  background: var(--bg-color) !important;
 }
 
 /* Classwork */
 .tUJKGd:not(:first-child) {
-  border-color: var(--bd-color);
+  border-color: var(--bd-secondary-color) !important;
 }
 .JZINBb {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
+}
+.ar1wE .eqqrO,
+.ySjuvd .eqqrO {
+  border-color: var(--bd-color) !important;
+}
+.Rj2Mlf:not(:disabled) {
+  border-color: var(--bd-color) !important;
+}
+.V8apv {
+  background-color: var(--gray-hover) !important;
+}
+.UvHKof .n42Gr:not(:disabled) {
+  color: var(--font-color) !important;
+}
+.poFWNe {
+  background-color: var(--bg-secondary-color) !important;
+}
+.z80M1.FwR7Pc {
+  background-color: var(--white-hover) !important;
+}
+.s8kOBc .VfPpkd-rymPhb-fpDzbe-fmcmS {
+  color: var(--font-color) !important;
+}
+.s8kOBc .VfPpkd-rymPhb-ibnC6b.VfPpkd-rymPhb-ibnC6b-OWXEXe-gk6SMd {
+  background-color: var(--white-hover) !important;
 }
 
 /* Calendar */
 .RIDjNe {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 
 /* Comment */
 .q1Kmyc {
-  border-color: var(--bd-color);
-  color: var(--font-secondary-color);
+  border-color: var(--bd-color) !important;
+  color: var(--font-secondary-color) !important;
 }
 
 .xVPuB .snByac,
 .vnnr5e .snByac {
-  color: var(--font-secondary-color);
+  color: var(--font-secondary-color) !important;
+}
+
+/* Archived classes */
+.onkcGd,
+.onkcGd:visited,
+.OGhwGf,
+.OGhwGf:visited {
+  color: var(--font-color) !important;
+}
+.WufxEd .ynt9Dc {
+  background-color: var(--bg-color) !important;
+}
+.ZNE4y {
+  border-color: var(--bd-color) !important;
+}
+.LjDxcd:not(:disabled) {
+  color: var(--font-color) !important;
+}
+.T8rTjd {
+  color: var(--font-secondary-color) !important;
+}
+
+/* Class settings */
+.feojCc {
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+}
+.gpeXDe {
+  border-color: var(--bd-color) !important;
+}
+.meyvr {
+  border-color: var(--bd-color) !important;
+}
+.LqHDgc {
+  border-color: var(--bd-color) !important;
+}
+.A6dC2c,
+.saYe1e {
+  color: var(--font-color) !important;
+}
+
+/* Customize */
+.YhQJj {
+  background-color: var(--bg-color) !important;
+}
+.Kjnxrf:not(:disabled) {
+  background-color: var(--bg-color) !important;
 }
