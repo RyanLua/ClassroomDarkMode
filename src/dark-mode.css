@@ -203,6 +203,16 @@ body {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
+.kYtXye .UISY8d-Ysl7Fe:hover,
+.kYtXye.MymH0d:hover .UISY8d-Ysl7Fe,
+.kYtXye .MymH0d:hover .UISY8d-Ysl7Fe {
+  background-color: var(--blue-hover) !important;
+}
+.kYtXye .P3W0Dd-Ysl7Fe:focus,
+.kYtXye.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.kYtXye .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--blue-hover) !important;
+}
 
 /* Tab hover */
 .ee1HBc .UISY8d-Ysl7Fe:hover,
