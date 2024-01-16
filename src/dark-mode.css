@@ -16,7 +16,7 @@
   --teal-hover: rgba(53, 121, 129, 0.12);
   --purple-hover: rgba(109, 44, 180, 0.12);
   --white-hover: rgba(255, 255, 255, 0.12);
-  --grey-hover: rgba(255, 255, 255, 0.04);
+  --gray-hover: rgba(255, 255, 255, 0.04);
 
   --shadow-heavy: rgba(0, 0, 0, 0.3);
   --shadow-medium: rgba(0, 0, 0, 0.15);
@@ -73,7 +73,7 @@ body {
 /* Sidebar hover */
 .Xi8cpb:hover .LlcfK,
 .qr5cDe:hover .LlcfK {
-  background-color: var(--grey-hover) !important;
+  background-color: var(--gray-hover) !important;
 }
 
 .S3aLQd.bFjUmb-Ysl7Fe,
@@ -121,7 +121,7 @@ body {
 .UvHKof .bFjUmb-Ysl7Fe,
 .UvHKof.CNpREd.bFjUmb-Ysl7Fe,
 .UvHKof.CNpREd .bFjUmb-Ysl7Fe {
-  background-color: var(--grey-hover) !important;
+  background-color: var(--white-hover) !important;
 }
 
 /* Classroom Text */
