@@ -2,6 +2,7 @@
   color-scheme: dark;
 
   --bg-color: #202124;
+  --bg-secondary-color: #525355;
   --bd-color: #606367;
   --font-color: rgba(255, 255, 255, 0.87);
   --hover-color: rgba(255, 255, 255, 1);
@@ -281,6 +282,12 @@ body {
 .UvHKof .n42Gr:not(:disabled) {
   color: var(--font-color) !important;
 }
+.poFWNe {
+  background-color: var(--bg-secondary-color) !important;
+}
+.z80M1.FwR7Pc {
+  background-color: var(--white-hover) !important;
+}
 
 /* Calendar */
 .RIDjNe {
@@ -295,5 +302,25 @@ body {
 
 .xVPuB .snByac,
 .vnnr5e .snByac {
+  color: var(--font-secondary-color) !important;
+}
+
+/* Archived classes */
+.onkcGd,
+.onkcGd:visited,
+.OGhwGf,
+.OGhwGf:visited {
+  color: var(--font-color) !important;
+}
+.WufxEd .ynt9Dc {
+  background-color: var(--bg-color) !important;
+}
+.ZNE4y {
+  border-color: var(--bd-color) !important;
+}
+.LjDxcd:not(:disabled) {
+  color: var(--font-color) !important;
+}
+.T8rTjd {
   color: var(--font-secondary-color) !important;
 }
