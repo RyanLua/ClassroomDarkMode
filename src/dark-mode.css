@@ -202,37 +202,72 @@ body {
 .ee1HBc .UISY8d-Ysl7Fe:hover,
 .ee1HBc.MymH0d:hover .UISY8d-Ysl7Fe,
 .ee1HBc .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--blue-hover);
+  background-color: var(--blue-hover) !important;
+}
+.ee1HBc .P3W0Dd-Ysl7Fe:focus,
+.ee1HBc.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.ee1HBc .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--blue-hover) !important;
 }
 .WFUiUb .UISY8d-Ysl7Fe:hover,
 .WFUiUb.MymH0d:hover .UISY8d-Ysl7Fe,
 .WFUiUb .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--green-hover);
+  background-color: var(--green-hover) !important;
+}
+.WFUiUb .P3W0Dd-Ysl7Fe:focus,
+.WFUiUb.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.WFUiUb .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--green-hover) !important;
 }
 .zvzLKc .UISY8d-Ysl7Fe:hover,
 .zvzLKc.MymH0d:hover .UISY8d-Ysl7Fe,
 .zvzLKc .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--pink-hover);
+  background-color: var(--pink-hover) !important;
+}
+.zvzLKc .P3W0Dd-Ysl7Fe:focus,
+.zvzLKc.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.zvzLKc .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--pink-hover) !important;
 }
 .g2MItd .UISY8d-Ysl7Fe:hover,
 .g2MItd.MymH0d:hover .UISY8d-Ysl7Fe,
 .g2MItd .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--orange-hover);
+  background-color: var(--orange-hover) !important;
+}
+.g2MItd .P3W0Dd-Ysl7Fe:focus,
+.g2MItd.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.g2MItd .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--orange-hover) !important;
 }
 .S3aLQd .UISY8d-Ysl7Fe:hover,
 .S3aLQd.MymH0d:hover .UISY8d-Ysl7Fe,
 .S3aLQd .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--teal-hover);
+  background-color: var(--teal-hover) !important;
+}
+.S3aLQd .P3W0Dd-Ysl7Fe:focus,
+.S3aLQd.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.S3aLQd .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--teal-hover) !important;
 }
 .Mupove .UISY8d-Ysl7Fe:hover,
 .Mupove.MymH0d:hover .UISY8d-Ysl7Fe,
 .Mupove .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--purple-hover);
+  background-color: var(--purple-hover) !important;
+}
+.Mupove .P3W0Dd-Ysl7Fe:focus,
+.Mupove.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.Mupove .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--purple-hover) !important;
 }
 .UvHKof .UISY8d-Ysl7Fe:hover,
 .UvHKof.MymH0d:hover .UISY8d-Ysl7Fe,
 .UvHKof .MymH0d:hover .UISY8d-Ysl7Fe {
-  background-color: var(--gray-hover);
+  background-color: var(--gray-hover) !important;
+}
+.UvHKof .P3W0Dd-Ysl7Fe:focus,
+.UvHKof.maXJsd:focus .P3W0Dd-Ysl7Fe,
+.UvHKof .maXJsd:focus .P3W0Dd-Ysl7Fe {
+  background-color: var(--gray-hover) !important;
 }
 
 /* Submenu */
