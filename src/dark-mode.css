@@ -4,10 +4,11 @@
   --bg-color: #202124;
   --bg-secondary-color: #525355;
   --bd-color: #606367;
+  --bd-secondary-color: rgba(255, 255, 255, 0.12);
   --font-color: rgba(255, 255, 255, 0.87);
   --hover-color: rgba(255, 255, 255, 1);
   --font-secondary-color: #9aa0a6;
-  --icon-color: #9aa0a6
+  --icon-color: #9aa0a6;
 
   --blue-hover: rgba(50, 101, 203, 0.12);
   --green-hover: rgba(19, 115, 51, 0.12);
@@ -244,7 +245,7 @@ body {
   border-color: var(--bd-color) !important;
 }
 .d6CWTd {
-  border-color: var(--bd-color) !important;
+  border-color: var(--bd-secondary-color) !important;
 }
 
 /* Feed */
@@ -268,7 +269,7 @@ body {
 
 /* Classwork */
 .tUJKGd:not(:first-child) {
-  border-color: var(--bd-color) !important;
+  border-color: var(--bd-secondary-color) !important;
 }
 .JZINBb {
   border-color: var(--bd-color) !important;
