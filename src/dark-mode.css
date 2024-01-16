@@ -263,6 +263,12 @@ body {
 .Rj2Mlf:not(:disabled) {
   border-color: var(--bd-color) !important;
 }
+.V8apv {
+  background-color: var(--gray-hover) !important;
+}
+.UvHKof .n42Gr:not(:disabled) {
+  color: var(--font-color) !important;
+}
 
 /* Calendar */
 .RIDjNe {
