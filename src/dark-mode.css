@@ -181,6 +181,9 @@ body {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
     0 2px 6px 2px var(--shadow-medium) !important;
 }
+.bHOAdb:empty {
+  border-color: var(--bd-secondary-color);
+}
 
 /* Classroom tabs */
 .F4Ol1b .KEDCCd {
@@ -340,8 +343,11 @@ body {
 }
 
 /* Classwork */
-.lXuxY, .pO6AMc, .PqkECe {
-  box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium);
+.lXuxY,
+.pO6AMc,
+.PqkECe {
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy),
+    0 2px 6px 2px var(--shadow-medium);
 }
 .tUJKGd:not(:first-child) {
   border-color: var(--bd-secondary-color) !important;
@@ -584,4 +590,9 @@ body {
 }
 .Kjnxrf:not(:disabled) {
   background-color: var(--bg-color) !important;
+}
+
+/* To-do */
+.MHxtic:not(:last-child) {
+  border-color: var(--bd-secondary-color) !important;
 }
