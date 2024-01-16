@@ -223,6 +223,23 @@ body {
   border-color: var(--bd-color) !important;
 }
 
+/* Stream hover */
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
+.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.S3aLQd .ZoT1D:hover.j6KDAd,
+.S3aLQd .ZoT1D:hover.idtp4e,
+.S3aLQd .ZoT1D:hover .j6KDAd,
+.S3aLQd .ZoT1D:hover .idtp4e {
+  background-color: var(--teal-hover) !important;
+}
+.S3aLQd .UISY8d-Ysl7Fe:hover,
+.S3aLQd.MymH0d:hover .UISY8d-Ysl7Fe,
+.S3aLQd .MymH0d:hover .UISY8d-Ysl7Fe {
+  background-color: var(--teal-hover) !important;
+}
+
 /* Upcoming */
 .d4Fe0d {
   background-color: var(--bg-color) !important;
