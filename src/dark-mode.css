@@ -44,6 +44,9 @@ body {
 .z3vRcc-J3yWx {
   color: var(--font-color) !important;
 }
+.gKkZCe {
+  border-color: var(--bd-color) !important;
+}
 
 /* Sidebar */
 .ETRkCe {
@@ -139,6 +142,15 @@ body {
 
 /* Join Classroom */
 .xiutKc > .I7OXgf {
+  background-color: var(--bg-color) !important;
+}
+.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-fmcmS-wGMbrd {
+  color: var(--font-color) !important;
+}
+.cfWmIb:not(.VfPpkd-fmcmS-yrriRe-OWXEXe-OWB6Me) .VfPpkd-NLUYnc-V67aGc {
+  color: var(--font-color) !important;
+}
+.I7OXgf {
   background-color: var(--bg-color) !important;
 }
 
