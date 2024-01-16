@@ -165,7 +165,10 @@ body {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
-.Niache {
+.Niache{
+  border-color: var(--bd-color) !important;
+}
+.SZ0kZe {
   border-color: var(--bd-color) !important;
 }
 .oBSRLe {
