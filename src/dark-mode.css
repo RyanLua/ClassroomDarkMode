@@ -127,6 +127,9 @@ body {
 .rpo4wf-J3yWx {
   color: var(--font-color) !important;
 }
+.A6dC2c-J3yWx {
+  color: var(--font-color) !important;
+}
 
 /* Hamburger */
 .NMm5M {
@@ -323,4 +326,30 @@ body {
 }
 .T8rTjd {
   color: var(--font-secondary-color) !important;
+}
+
+/* Class settings */
+.feojCc {
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+}
+.gpeXDe {
+  border-color: var(--bd-color) !important;
+}
+.meyvr {
+  border-color: var(--bd-color) !important;
+}
+.LqHDgc {
+  border-color: var(--bd-color) !important;
+}
+.A6dC2c, .saYe1e {
+  color: var(--font-color) !important;
+}
+
+/* Customize */
+.YhQJj {
+  background-color: var(--bg-color) !important;
+}
+.Kjnxrf:not(:disabled) {
+  background-color: var(--bg-color) !important;
 }
