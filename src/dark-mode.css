@@ -628,3 +628,8 @@ body {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
+
+/* Create class */
+.fyExH {
+  background-color: transparent;
+}
