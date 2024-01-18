@@ -8,6 +8,7 @@
     "service_worker": "service_worker.js"
   },
   "action": {
+    "default_icon": "logo.png",
     "default_title": "__MSG_action_title__"
   },
   "author": "ryan.luu@ryanluu.dev",
