@@ -161,6 +161,7 @@ body {
 }
 .I7OXgf {
   background-color: var(--bg-color) !important;
+  box-shadow: 0 1px 3px 0 var(--shadow-heavy), 0 4px 8px 3px var(--shadow-medium) !important;
 }
 .AeAAkf {
   border-color: var(--bd-color) !important;
