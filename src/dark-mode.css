@@ -50,6 +50,9 @@ body {
 .gKkZCe {
   border-color: var(--bd-color) !important;
 }
+.gb_d[aria-expanded="true"] .gb_i {
+  fill: currentColor;
+}
 
 /* Sidebar */
 .ETRkCe {
