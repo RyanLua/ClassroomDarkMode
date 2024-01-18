@@ -385,7 +385,7 @@ body {
 .pO6AMc,
 .PqkECe {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
-    0 2px 6px 2px var(--shadow-medium);
+    0 2px 6px 2px var(--shadow-medium)
 }
 .tUJKGd:not(:first-child) {
   border-color: var(--bd-secondary-color) !important;
@@ -657,4 +657,18 @@ body {
 /* Create class */
 .fyExH {
   background-color: transparent !important;
+}
+
+/* Your work */
+.ksaOtd {
+  color: var(--font-color) !important;
+}
+.udxSmc {
+  color: var(--font-secondary-color) !important;
+}
+.uQ3ESd {
+  background-color: var(--bg-color) !important;
+}
+.VDj5V {
+  border-color: var(--bd-secondary-color) !important;
 }
