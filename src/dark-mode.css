@@ -305,6 +305,18 @@ body {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
     0 2px 6px 2px var(--shadow-medium) !important;
 }
+.hgjBDc {
+  background-color: var(--bg-color) !important;
+}
+.svNSpd {
+  border-color: var(--bd-secondary-color) !important;
+}
+.vnnr5e .I9OJHe, .vnnr5e .CIy9F {
+  background-color: var(--bg-secondary-color) !important;
+}
+.qk0lee:focus:after {
+  background: var(--bg-color) !important;
+}
 
 /* Stream */
 body {
