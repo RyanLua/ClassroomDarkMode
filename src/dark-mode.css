@@ -592,6 +592,9 @@ body {
 .WufxEd .ynt9Dc .VfPpkd-WLXbod {
   background-color: var(--bg-color) !important;
 }
+.geqPvd .VfPpkd-WLXbod {
+  border-bottom-color: var(--bd-color) !important;
+}
 
 /* Class settings */
 .feojCc {
@@ -637,5 +640,5 @@ body {
 
 /* Create class */
 .fyExH {
-  background-color: transparent;
+  background-color: transparent !important;
 }
