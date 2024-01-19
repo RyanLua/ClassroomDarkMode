@@ -50,6 +50,9 @@ body {
 .gKkZCe {
   border-color: var(--bd-color) !important;
 }
+.gb_d[aria-expanded="true"] .gb_i {
+  fill: currentColor;
+}
 
 /* Sidebar */
 .ETRkCe {
@@ -158,6 +161,10 @@ body {
 }
 .I7OXgf {
   background-color: var(--bg-color) !important;
+  box-shadow: 0 1px 3px 0 var(--shadow-heavy), 0 4px 8px 3px var(--shadow-medium) !important;
+}
+.AeAAkf {
+  border-color: var(--bd-color) !important;
 }
 
 /* Card */
@@ -299,6 +306,18 @@ body {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
     0 2px 6px 2px var(--shadow-medium) !important;
 }
+.hgjBDc {
+  background-color: var(--bg-color) !important;
+}
+.svNSpd {
+  border-color: var(--bd-secondary-color) !important;
+}
+.vnnr5e .I9OJHe, .vnnr5e .CIy9F {
+  background-color: var(--bg-secondary-color) !important;
+}
+.qk0lee:focus:after {
+  background: var(--bg-color) !important;
+}
 
 /* Stream */
 body {
@@ -366,7 +385,7 @@ body {
 .pO6AMc,
 .PqkECe {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
-    0 2px 6px 2px var(--shadow-medium);
+    0 2px 6px 2px var(--shadow-medium)
 }
 .tUJKGd:not(:first-child) {
   border-color: var(--bd-secondary-color) !important;
@@ -404,6 +423,9 @@ body {
 }
 .O9YpHb {
   border: var(--bd-secondary-color) !important;
+}
+.lXuxY, .pO6AMc, .PqkECe {
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium) !important;
 }
 
 /* Classwork hover */
@@ -586,6 +608,9 @@ body {
 .WufxEd .ynt9Dc .VfPpkd-WLXbod {
   background-color: var(--bg-color) !important;
 }
+.geqPvd .VfPpkd-WLXbod {
+  border-bottom-color: var(--bd-color) !important;
+}
 
 /* Class settings */
 .feojCc {
@@ -627,4 +652,23 @@ body {
 .RpYYWb {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
+}
+
+/* Create class */
+.fyExH {
+  background-color: transparent !important;
+}
+
+/* Your work */
+.ksaOtd {
+  color: var(--font-color) !important;
+}
+.udxSmc {
+  color: var(--font-secondary-color) !important;
+}
+.uQ3ESd {
+  background-color: var(--bg-color) !important;
+}
+.VDj5V {
+  border-color: var(--bd-secondary-color) !important;
 }
