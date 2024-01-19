@@ -1,4 +1,4 @@
-# Google Classroom Dark mode
+# Google Classroom Dark Mode
 
 > 🌙 Dark mode for Google Classroom based on Material 2 guidelines and Google Keep.
 
