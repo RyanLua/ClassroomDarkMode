@@ -14,8 +14,7 @@
     }
   ],
   "action": {
-    "default_icon": "logo.png",
-    "default_title": "__MSG_action_title__"
+    "default_icon": "logo.png"
   },
   "author": "ryan.luu@ryanluu.dev"
 }

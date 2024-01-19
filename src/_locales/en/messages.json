@@ -6,17 +6,5 @@
   "application_description": {
     "message": "Dark mode for Google Classroom",
     "description": "The description of the application, displayed in the web store."
-  },
-  "action_title": {
-    "message": "Click to toggle darkmode on Google Classroom",
-    "description": "The title of the action, displayed when the extension icon is hovered over."
-  },
-  "badge_text": {
-    "message": "ON",
-    "description": "The text of the badge, displayed on the extension icon. This badge shows when the extension is active."
-  },
-  "alert_message": {
-    "message": "You must be on Google Classroom to enable dark mode.",
-    "description": "The message displayed when the extension is run on a page that is not Google Classroom."
   }
 }
