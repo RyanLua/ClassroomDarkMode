@@ -21,6 +21,7 @@ An extension that enables dark mode for Google Classroom using custom CSS.
 - [x] Customize appearance
 - [x] Class code/name
 - [x] Create class
+- [x] Move class
 - [ ] Create/reuse post
 - [ ] Create classwork
 - [ ] Class settings
