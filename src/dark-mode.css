@@ -51,7 +51,7 @@ body {
   border-color: var(--bd-color) !important;
 }
 .gb_d[aria-expanded="true"] .gb_i {
-  fill: currentColor;
+  fill: currentColor !important;
 }
 
 /* Sidebar */
@@ -161,7 +161,8 @@ body {
 }
 .I7OXgf {
   background-color: var(--bg-color) !important;
-  box-shadow: 0 1px 3px 0 var(--shadow-heavy), 0 4px 8px 3px var(--shadow-medium) !important;
+  box-shadow: 0 1px 3px 0 var(--shadow-heavy),
+    0 4px 8px 3px var(--shadow-medium) !important;
 }
 .AeAAkf {
   border-color: var(--bd-color) !important;
@@ -192,7 +193,7 @@ body {
     0 2px 6px 2px var(--shadow-medium) !important;
 }
 .bHOAdb:empty {
-  border-color: var(--bd-secondary-color);
+  border-color: var(--bd-secondary-color) !important;
 }
 
 /* Classroom tabs */
@@ -312,7 +313,8 @@ body {
 .svNSpd {
   border-color: var(--bd-secondary-color) !important;
 }
-.vnnr5e .I9OJHe, .vnnr5e .CIy9F {
+.vnnr5e .I9OJHe,
+.vnnr5e .CIy9F {
   background-color: var(--bg-secondary-color) !important;
 }
 .qk0lee:focus:after {
@@ -385,7 +387,7 @@ body {
 .pO6AMc,
 .PqkECe {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
-    0 2px 6px 2px var(--shadow-medium)
+    0 2px 6px 2px var(--shadow-medium) !important;
 }
 .tUJKGd:not(:first-child) {
   border-color: var(--bd-secondary-color) !important;
@@ -424,8 +426,11 @@ body {
 .O9YpHb {
   border: var(--bd-secondary-color) !important;
 }
-.lXuxY, .pO6AMc, .PqkECe {
-  box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium) !important;
+.lXuxY,
+.pO6AMc,
+.PqkECe {
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy),
+    0 2px 6px 2px var(--shadow-medium) !important;
 }
 
 /* Classwork hover */
@@ -645,7 +650,7 @@ body {
 }
 .MHxtic:hover {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
-    0 2px 6px 2px var(--shadow-medium);
+    0 2px 6px 2px var(--shadow-medium) !important;
 }
 
 /* Instructions */
