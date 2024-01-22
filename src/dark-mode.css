@@ -653,10 +653,13 @@ body {
     0 2px 6px 2px var(--shadow-medium) !important;
 }
 
-/* Instructions */
+/* Assignment */
 .RpYYWb {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
+}
+.xSP5ic:not([disabled]), .xSP5ic:not([disabled]).yHy1rc {
+  fill: var(--font-color) !important;
 }
 
 /* Create class */

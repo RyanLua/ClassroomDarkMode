@@ -13,7 +13,7 @@ An extension that enables dark mode for Google Classroom using custom CSS.
 - [x] Archived classes
 - [x] Settings
 - [x] Stream
-- [x] Instructions
+- [x] Assignment
 - [x] Classwork
 - [x] People
 - [x] Announce to class
