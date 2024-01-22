@@ -661,6 +661,9 @@ body {
 .xSP5ic:not([disabled]), .xSP5ic:not([disabled]).yHy1rc {
   fill: var(--font-color) !important;
 }
+.qj5L0 {
+  border-color: var(--bd-secondary-color) !important;
+}
 
 /* Create class */
 .fyExH {
