@@ -676,7 +676,8 @@ body {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
-.xSP5ic:not([disabled]), .xSP5ic:not([disabled]).yHy1rc {
+.xSP5ic:not([disabled]),
+.xSP5ic:not([disabled]).yHy1rc {
   fill: var(--font-color) !important;
 }
 .qj5L0 {
@@ -705,4 +706,46 @@ body {
 /* Class information */
 .IzVHde {
   background-color: var(--bg-color) !important;
+}
+
+/* Student work */
+.Evt7cb,
+.Evt7cb:visited {
+  color: var(--font-color) !important;
+}
+.BQ5ILd {
+  border-color: var(--bd-color) !important;
+}
+.TJtJXb:hover td,
+.tYQn5c:hover td,
+.DC55n:hover td {
+  background: var(--white-hover) !important;
+}
+.DC55n td {
+  background: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+}
+.fKz7Od .TpQm9d {
+  color: var(--font-secondary-color) !important;
+}
+.iLjzDc {
+  color: var(--font-secondary-color) !important;
+}
+.g5FCDc {
+  border-color: var(--bd-color) !important;
+}
+.IMvYId,
+.IMvYId:visited {
+  color: var(--font-secondary-color) !important;
+}
+.a4YS1c {
+  border-color: var(--bd-color) !important;
+}
+.ybOdnf .OA0qNb {
+  background-color: var(--bg-color) !important;
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy),
+    0 2px 6px 2px var(--shadow-medium) !important;
+}
+.CHXfbe {
+  color: var(--font-secondary-color) !important;
 }
