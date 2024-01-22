@@ -187,8 +187,8 @@ body {
   color: var(--font-color) !important;
 }
 .rZXyy.YwNp1,
-.rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ):hover,
-.rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ):focus {
+.rZXyy:not(.u0dx8e):not(.ILo0B):hover,
+.rZXyy:not(.u0dx8e):not(.ILo0B):focus {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
     0 2px 6px 2px var(--shadow-medium) !important;
 }
@@ -437,140 +437,140 @@ body {
 }
 
 /* Classwork hover */
-.ee1HBc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.ee1HBc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.ee1HBc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.ee1HBc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.ee1HBc .tUJKGd:hover.j6KDAd,
+.ee1HBc .tUJKGd:hover.idtp4e,
+.ee1HBc .tUJKGd:hover .j6KDAd,
+.ee1HBc .tUJKGd:hover .idtp4e,
 .ee1HBc .ZoT1D:hover.j6KDAd,
 .ee1HBc .ZoT1D:hover.idtp4e,
 .ee1HBc .ZoT1D:hover .j6KDAd,
 .ee1HBc .ZoT1D:hover .idtp4e {
   background-color: var(--blue-hover) !important;
 }
-.ee1HBc .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.ee1HBc .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.ee1HBc .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.ee1HBc .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.ee1HBc .tUJKGd:focus-within.boxOzd,
+.ee1HBc .tUJKGd:focus-within.idtp4e,
+.ee1HBc .tUJKGd:focus-within.boxOzd,
+.ee1HBc .tUJKGd:focus-within.idtp4e,
 .ee1HBc .ZoT1D:focus-within.boxOzd,
 .ee1HBc .ZoT1D:focus-within.idtp4e,
 .ee1HBc .ZoT1D :focus-within.boxOzd,
 .ee1HBc .ZoT1D :focus-within.idtp4e {
   background-color: var(--blue-hover) !important;
 }
-.WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.WFUiUb .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.WFUiUb .tUJKGd:hover.j6KDAd,
+.WFUiUb .tUJKGd:hover.idtp4e,
+.WFUiUb .tUJKGd:hover .j6KDAd,
+.WFUiUb .tUJKGd:hover .idtp4e,
 .WFUiUb .ZoT1D:hover.j6KDAd,
 .WFUiUb .ZoT1D:hover.idtp4e,
 .WFUiUb .ZoT1D:hover .j6KDAd,
 .WFUiUb .ZoT1D:hover .idtp4e {
   background-color: var(--green-hover) !important;
 }
-.WFUiUb .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.WFUiUb .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.WFUiUb .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.WFUiUb .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.WFUiUb .tUJKGd:focus-within.boxOzd,
+.WFUiUb .tUJKGd:focus-within.idtp4e,
+.WFUiUb .tUJKGd:focus-within.boxOzd,
+.WFUiUb .tUJKGd:focus-within.idtp4e,
 .WFUiUb .ZoT1D:focus-within.boxOzd,
 .WFUiUb .ZoT1D:focus-within.idtp4e,
 .WFUiUb .ZoT1D :focus-within.boxOzd,
 .WFUiUb .ZoT1D :focus-within.idtp4e {
   background-color: var(--green-hover) !important;
 }
-.zvzLKc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.zvzLKc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.zvzLKc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.zvzLKc .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.zvzLKc .tUJKGd:hover.j6KDAd,
+.zvzLKc .tUJKGd:hover.idtp4e,
+.zvzLKc .tUJKGd:hover .j6KDAd,
+.zvzLKc .tUJKGd:hover .idtp4e,
 .zvzLKc .ZoT1D:hover.j6KDAd,
 .zvzLKc .ZoT1D:hover.idtp4e,
 .zvzLKc .ZoT1D:hover .j6KDAd,
 .zvzLKc .ZoT1D:hover .idtp4e {
   background-color: var(--pink-hover) !important;
 }
-.zvzLKc .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.zvzLKc .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.zvzLKc .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.zvzLKc .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.zvzLKc .tUJKGd:focus-within.boxOzd,
+.zvzLKc .tUJKGd:focus-within.idtp4e,
+.zvzLKc .tUJKGd:focus-within.boxOzd,
+.zvzLKc .tUJKGd:focus-within.idtp4e,
 .zvzLKc .ZoT1D:focus-within.boxOzd,
 .zvzLKc .ZoT1D:focus-within.idtp4e,
 .zvzLKc .ZoT1D :focus-within.boxOzd,
 .zvzLKc .ZoT1D :focus-within.idtp4e {
   background-color: var(--pink-hover) !important;
 }
-.g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.g2MItd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.g2MItd .tUJKGd:hover.j6KDAd,
+.g2MItd .tUJKGd:hover.idtp4e,
+.g2MItd .tUJKGd:hover .j6KDAd,
+.g2MItd .tUJKGd:hover .idtp4e,
 .g2MItd .ZoT1D:hover.j6KDAd,
 .g2MItd .ZoT1D:hover.idtp4e,
 .g2MItd .ZoT1D:hover .j6KDAd,
 .g2MItd .ZoT1D:hover .idtp4e {
   background-color: var(--orange-hover) !important;
 }
-.g2MItd .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.g2MItd .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.g2MItd .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.g2MItd .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.g2MItd .tUJKGd:focus-within.boxOzd,
+.g2MItd .tUJKGd:focus-within.idtp4e,
+.g2MItd .tUJKGd:focus-within.boxOzd,
+.g2MItd .tUJKGd:focus-within.idtp4e,
 .g2MItd .ZoT1D:focus-within.boxOzd,
 .g2MItd .ZoT1D:focus-within.idtp4e,
 .g2MItd .ZoT1D :focus-within.boxOzd,
 .g2MItd .ZoT1D :focus-within.idtp4e {
   background-color: var(--orange-hover) !important;
 }
-.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.S3aLQd .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.S3aLQd .tUJKGd:hover.j6KDAd,
+.S3aLQd .tUJKGd:hover.idtp4e,
+.S3aLQd .tUJKGd:hover .j6KDAd,
+.S3aLQd .tUJKGd:hover .idtp4e,
 .S3aLQd .ZoT1D:hover.j6KDAd,
 .S3aLQd .ZoT1D:hover.idtp4e,
 .S3aLQd .ZoT1D:hover .j6KDAd,
 .S3aLQd .ZoT1D:hover .idtp4e {
   background-color: var(--teal-hover) !important;
 }
-.S3aLQd .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.S3aLQd .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.S3aLQd .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.S3aLQd .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.S3aLQd .tUJKGd:focus-within.boxOzd,
+.S3aLQd .tUJKGd:focus-within.idtp4e,
+.S3aLQd .tUJKGd:focus-within.boxOzd,
+.S3aLQd .tUJKGd:focus-within.idtp4e,
 .S3aLQd .ZoT1D:focus-within.boxOzd,
 .S3aLQd .ZoT1D:focus-within.idtp4e,
 .S3aLQd .ZoT1D :focus-within.boxOzd,
 .S3aLQd .ZoT1D :focus-within.idtp4e {
   background-color: var(--teal-hover) !important;
 }
-.Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.Mupove .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.Mupove .tUJKGd:hover.j6KDAd,
+.Mupove .tUJKGd:hover.idtp4e,
+.Mupove .tUJKGd:hover .j6KDAd,
+.Mupove .tUJKGd:hover .idtp4e,
 .Mupove .ZoT1D:hover.j6KDAd,
 .Mupove .ZoT1D:hover.idtp4e,
 .Mupove .ZoT1D:hover .j6KDAd,
 .Mupove .ZoT1D:hover .idtp4e {
   background-color: var(--purple-hover) !important;
 }
-.Mupove .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.Mupove .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.Mupove .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.Mupove .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.Mupove .tUJKGd:focus-within.boxOzd,
+.Mupove .tUJKGd:focus-within.idtp4e,
+.Mupove .tUJKGd:focus-within.boxOzd,
+.Mupove .tUJKGd:focus-within.idtp4e,
 .Mupove .ZoT1D:focus-within.boxOzd,
 .Mupove .ZoT1D:focus-within.idtp4e,
 .Mupove .ZoT1D :focus-within.boxOzd,
 .Mupove .ZoT1D :focus-within.idtp4e {
   background-color: var(--purple-hover) !important;
 }
-.UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.j6KDAd,
-.UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover.idtp4e,
-.UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .j6KDAd,
-.UvHKof .tUJKGd:not(.xp2dJ):not(.rZXyy):hover .idtp4e,
+.UvHKof .tUJKGd:hover.j6KDAd,
+.UvHKof .tUJKGd:hover.idtp4e,
+.UvHKof .tUJKGd:hover .j6KDAd,
+.UvHKof .tUJKGd:hover .idtp4e,
 .UvHKof .ZoT1D:hover.j6KDAd,
 .UvHKof .ZoT1D:hover.idtp4e,
 .UvHKof .ZoT1D:hover .j6KDAd,
 .UvHKof .ZoT1D:hover .idtp4e {
   background-color: var(--gray-hover) !important;
 }
-.UvHKof .tUJKGd:not(.xp2dJ):focus-within.boxOzd,
-.UvHKof .tUJKGd:not(.xp2dJ):focus-within.idtp4e,
-.UvHKof .tUJKGd:not(.xp2dJ) :focus-within.boxOzd,
-.UvHKof .tUJKGd:not(.xp2dJ) :focus-within.idtp4e,
+.UvHKof .tUJKGd:focus-within.boxOzd,
+.UvHKof .tUJKGd:focus-within.idtp4e,
+.UvHKof .tUJKGd:focus-within.boxOzd,
+.UvHKof .tUJKGd:focus-within.idtp4e,
 .UvHKof .ZoT1D:focus-within.boxOzd,
 .UvHKof .ZoT1D:focus-within.idtp4e,
 .UvHKof .ZoT1D :focus-within.boxOzd,
