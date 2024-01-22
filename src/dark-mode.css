@@ -780,5 +780,10 @@ body {
   border-color: var(--bd-secondary-color) !important;
 }
 .ybOdnf .eU809d {
-  border-color: var(--font-color);
+  border-color: var(--font-color) transparent !important;
+}
+
+/* Edit announcement */
+.pvb7Pc {
+  border-color: var(--bd-color) !important;
 }
