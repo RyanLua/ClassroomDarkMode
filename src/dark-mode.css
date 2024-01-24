@@ -890,6 +890,9 @@ thead .vvqDLc {
 .WOPwXe {
   color: var(--font-color);
 }
+.vvqDLc {
+  border-color: var(--bd-color) !important;
+}
 
 /* Review work */
 .gb_eb {
