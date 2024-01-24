@@ -1,4 +1,25 @@
 site_name: Classroom Dark Mode
+site_url: https://classroomdarkmode.ryanluu.dev
+site_author: Ryan Luu
+site_description: Dark mode extension for Google Classroom based on Material 2 guidelines.
+
+repo_name: RyanLua/ClassroomDarkMode
+repo_url: https://github.com/RyanLua/ClassroomDarkMode
+
+copyright: Copyright &copy; Ryan Luu
 
 theme:
   name: material
+
+  palette:
+    scheme: slate
+    primary: black
+    accent: light blue
+
+  features:
+    - content.tooltips
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
