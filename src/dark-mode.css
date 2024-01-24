@@ -710,6 +710,9 @@ body {
 .qj5L0 {
   border-color: var(--bd-secondary-color) !important;
 }
+.BEAGS {
+  border-color: var(--bd-secondary-color) !important;
+}
 
 /* Create class */
 .fyExH {
@@ -878,4 +881,15 @@ thead .vvqDLc {
 }
 .dDKhVc {
   color: var(--font-secondary-color) !important;
+}
+
+/* Reuse post */
+.t5tYqf .cmTiyd {
+  border-color: var(--bd-color) !important;
+}
+.cmTiyd {
+  border-color: var(--bd-color) !important;
+}
+.WOPwXe {
+  color: var(--font-color)
 }
