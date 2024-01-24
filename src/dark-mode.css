@@ -435,9 +435,6 @@ body {
 .UvHKof .n42Gr:not(:disabled) {
   color: var(--font-color) !important;
 }
-.poFWNe {
-  background-color: var(--bg-secondary-color) !important;
-}
 .z80M1.FwR7Pc {
   background-color: var(--white-hover) !important;
 }
@@ -891,5 +888,58 @@ thead .vvqDLc {
   border-color: var(--bd-color) !important;
 }
 .WOPwXe {
-  color: var(--font-color)
+  color: var(--font-color);
+}
+
+/* Review work */
+.gb_eb {
+  background-color: var(--bg-color) !important;
+}
+.KeIaWd {
+  background-color: var(--bg-secondary-color) !important;
+}
+.xU1KDc.fxlT2b {
+  background-color: var(--bg-secondary-color) !important;
+}
+.iymVqd {
+  border-color: var(--bg-color) !important;
+}
+.ODSVk {
+  color: var(--font-secondary-color) !important;
+}
+.D3oBEe .n9IS1:before {
+  border-color: var(--bd-color) !important;
+}
+.AcK03d .Unei2d,
+.AcK03d .HNSHbb,
+.AcK03d .KmSns {
+  border-color: var(--bd-color) !important;
+}
+.C9vVqc {
+  background: var(--bg-color) !important;
+}
+.YxJ1Jf.KKjvXb {
+  background-color: var(--blue-hover) !important;
+}
+.KeIaWd .OA0qNb .A39x1:not(:last-child):after {
+  border-color: var(--bd-secondary-color) !important;
+}
+.C9vVqc .ScX2If.KKjvXb {
+  background-color: var(--white-hover) !important;
+}
+.YxJ1Jf {
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+}
+.AkVYk .Yalane:before {
+  border-color: var(--bd-color) !important;
+}
+.sLGmhc {
+  color: var(--font-secondary-color) !important;
+}
+.RMrItf {
+  color: var(--font-secondary-color) !important;
+}
+.gEOtL {
+  border-color: var(--bd-color) !important;
 }
