@@ -3,3 +3,7 @@ contact_links:
   - name: Get Community Support
     url: https://github.com/RyanLua/WebEdit/discussions/new?category=support
     about: Get support/help from the GitHub Discussions community.
+  - name: Fix/report a translation issue
+    url: https://crowdin.com/project/web-edit
+    about: Translation related issues should be redirected to our Crowdin project.
+  
