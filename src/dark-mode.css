@@ -163,6 +163,12 @@ body {
 .gb_4c .gb_md {
   color: var(--font-color) !important;
 }
+.gb_Na svg,
+.gb_Rc svg,
+.gb_dd .gb_md,
+.gb_3c .gb_md {
+  color: var(--font-color) !important;
+}
 
 /* Join Classroom */
 .xiutKc > .I7OXgf {
