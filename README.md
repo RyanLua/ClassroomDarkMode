@@ -1,4 +1,4 @@
-# Google Classroom Dark Mode
+# ![Google Classroom Dark Mode](https://raw.githubusercontent.com/RyanLua/GoogleClassroomDarkMode/assets/assets/Marquee%20promo%20tile.png)
 
 > 🌙 Dark mode for Google Classroom based on Material 2 guidelines and Google Keep.
 
