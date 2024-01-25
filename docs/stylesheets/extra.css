@@ -10,3 +10,15 @@
     border: 0.0625rem solid var(--md-default-bd-color);
   }
 }
+
+.md-typeset h1 {
+	font-weight: 900;
+}
+
+.md-typeset h2 {
+	font-weight: 700;
+}
+
+.md-typeset h3 {
+	font-weight: 500;
+}
