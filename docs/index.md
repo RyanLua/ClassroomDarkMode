@@ -1,17 +1,36 @@
-# Welcome to MkDocs
+---
+  hide:
+    - toc
+    - navigation
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Classroom Dark Mode
 
-## Commands
+An extension that enables dark mode for Google Classroom using custom CSS.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Supported pages
 
-## Project layout
+- [x] Home
+- [x] Calendar
+- [x] Join class
+- [x] Move class
+- [x] Archived classes
+- [x] Settings
+- [x] Stream
+- [x] Assignment
+- [x] Classwork
+- [x] People
+- [x] Announce to class
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Student
+
+- [x] To-do
+- [x] Your work
+
+### Teacher
+
+- [x] Class code/name
+- [x] Customize appearance
+- [x] Create class
+- [ ] To review
+- [ ] Invite teachers/students
