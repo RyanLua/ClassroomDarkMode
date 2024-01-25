@@ -12,9 +12,29 @@ theme:
   name: material
 
   palette:
-    scheme: slate
-    primary: black
-    accent: light blue
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 
   features:
     - content.tooltips
@@ -23,3 +43,6 @@ theme:
     - navigation.tracking
     - navigation.top
     - navigation.footer
+
+extra_css:
+  - stylesheets/extra.css

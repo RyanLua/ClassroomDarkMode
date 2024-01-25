@@ -1,0 +1,12 @@
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #202124;
+  --md-default-bd-color: #606367;
+
+  .md-header {
+    background-color: var(--md-default-bg-color);
+    border-bottom: 0.0625rem solid var(--md-default-bd-color);
+  }
+  .md-top {
+    border: 0.0625rem solid var(--md-default-bd-color);
+  }
+}
