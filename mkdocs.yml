@@ -10,6 +10,7 @@ copyright: Copyright &copy; Ryan Luu
 
 theme:
   name: material
+  custom_dir: docs/overrides
 
   palette:
     # Palette toggle for automatic mode
@@ -22,7 +23,6 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: white
-      accent: light blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -31,7 +31,6 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: light blue
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
@@ -46,3 +45,6 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
