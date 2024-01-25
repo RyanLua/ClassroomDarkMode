@@ -23,3 +23,6 @@ Be **bold** and *italic*
 | Hi | Two | Fox |
 
 > Quote me then
+
+[Subscribe to our newsletter](#){ .md-button }
+[Subscribe to our newsletter](#){ .md-button .md-button--primary }
