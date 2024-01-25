@@ -3,8 +3,15 @@
   --md-default-bd-color: #606367;
 
   .md-header {
+    height: 4rem;
     background-color: var(--md-default-bg-color);
     border-bottom: 0.0625rem solid var(--md-default-bd-color);
+  }
+  .md-header__inner {
+    height: 100%;
+    max-width: 100rem;
+    margin: 0 auto;
+    padding: 0 1rem;
   }
   .md-top {
     border: 0.0625rem solid var(--md-default-bd-color);
@@ -12,13 +19,13 @@
 }
 
 .md-typeset h1 {
-	font-weight: 900;
+  font-weight: 900;
 }
 
 .md-typeset h2 {
-	font-weight: 700;
+  font-weight: 700;
 }
 
 .md-typeset h3 {
-	font-weight: 500;
+  font-weight: 500;
 }
