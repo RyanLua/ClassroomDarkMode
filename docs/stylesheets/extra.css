@@ -3,7 +3,7 @@
   --md-default-bd-color: #606367;
 
   .md-header {
-    height: 4rem;
+    height: 3rem;
     background-color: var(--md-default-bg-color);
     border-bottom: 0.0625rem solid var(--md-default-bd-color);
   }
@@ -11,7 +11,7 @@
     height: 100%;
     max-width: 100rem;
     margin: 0 auto;
-    padding: 0 1rem;
+    padding: 0 0.5rem;
   }
   .md-top {
     border: 0.0625rem solid var(--md-default-bd-color);
