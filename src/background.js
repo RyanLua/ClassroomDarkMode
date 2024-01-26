@@ -1,1 +1,1 @@
-chrome.action.disable()
+chrome.action.disable();
