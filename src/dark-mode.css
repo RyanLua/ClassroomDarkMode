@@ -1142,3 +1142,26 @@ thead .vvqDLc {
 .lziZub:visited {
   color: var(--font-color) !important;
 }
+
+/* Reuse rubric */
+.ShARAe {
+  border-color: var(--bd-color);
+}
+
+.vPNssb .jBmls {
+  background-color: var(--bg-color) !important;
+}
+
+.xUvfQb {
+  color: var(--font-color) !important;
+}
+
+.cTRCQc .oJeWuf:before,
+.cTRCQc.RDPZE:hover .oJeWuf:before,
+.cTRCQc.u3bW4e.RDPZE .oJeWuf:before {
+  background-color: var(--bg-secondary-color) !important;
+}
+
+.zTRICe {
+  fill: var(--font-color) !important;
+}
