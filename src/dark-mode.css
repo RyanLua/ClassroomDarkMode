@@ -186,7 +186,7 @@ body {
 }
 
 /* Join Classroom */
-.xiutKc > .I7OXgf {
+.xiutKc>.I7OXgf {
   background-color: var(--bg-color) !important;
 }
 
@@ -1109,4 +1109,32 @@ thead .vvqDLc {
 
 .gEOtL {
   border-color: var(--bd-color) !important;
+}
+
+/* Review work rubric */
+.n9QKGb {
+  color: var(--font-color) !important;
+}
+
+.ePyQFb {
+  color: var(--font-secondary-color) !important;
+}
+
+.jlfrG:before {
+  background: transparent !important;
+}
+
+.jlfrG:after {
+  background: transparent !important;
+}
+
+.R5iLrf.u3bW4e,
+.R5iLrf.yXgmRe:hover {
+  background-color: var(--white-hover) !important;
+}
+
+/* Return work */
+.lziZub,
+.lziZub:visited {
+  color: var(--font-color) !important;
 }
