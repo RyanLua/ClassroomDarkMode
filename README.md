@@ -3,6 +3,14 @@
   <h1 align="center">Classroom Dark Mode</h1>
 </p>
 
+<div align="center">
+
+  [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/aaaccioflcfjgpdjonmjcmjkkgonpjfc?label=downloads)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+  [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/aaaccioflcfjgpdjonmjcmjkkgonpjfc)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+  [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/aaaccioflcfjgpdjonmjcmjkkgonpjfc?label=version)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+
+</div>
+
 An extension that enables dark mode for Google Classroom using custom CSS based on Material Design.
 
 ## Supported pages
