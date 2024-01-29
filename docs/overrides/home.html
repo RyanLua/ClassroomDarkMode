@@ -34,48 +34,66 @@
     }
   }
 
-  /* Custom CSS */
+  /* Hero */
   .mdx-container {
-    background: linear-gradient(
-      to bottom,
-      var(--md-primary-fg-color) 75%,
-      var(--md-default-bg-color)
-    );
+    background: var(--md-primary-fg-color);
   }
+
   .mdx-hero {
     margin: 3.5rem;
-    padding-bottom: 7rem;
+  }
+
+  .mdx-hero__image {
+    padding: 3.5rem;
+    height: auto;
+    max-width: 50%;
+    order: 1;
+  }
+
+  .mdx-hero__content {
+    padding: 3.5rem;
+  }
+
+  @media screen and (min-width: 60em) {
+    .mdx-hero {
+      display: flex;
+    }
   }
 </style>
 
 <!-- Hero for landing page -->
 <section class="mdx-container">
   <div class="md-grid md-typeset">
-    <div>
+    <div class="mdx-hero">
       <!-- Hero content -->
-      <div class="mdx-hero">
-        <div>
-          <h1>{{ config.site_name }}</h1>
-          <p>{{ config.site_description }}</p>
-          <a
-            href="{{ page.next_page.url | url }}"
-            title="{{ page.next_page.title | striptags }}"
-            class="md-button md-button--primary"
-          >
-            Get started
-          </a>
-          <a
-            href="{{ config.repo_url }}"
-            title="{{ lang.t('source.link.title') }}"
-            class="md-button"
-          >
-            Go to GitHub
-          </a>
-        </div>
+      <div class="mdx-hero__image">
+        <img alt="" src="assets/hero.png" draggable="false" />
+      </div>
+      <div class="mdx-hero__content">
+        <h1>{{ config.site_name }}</h1>
+        <p>{{ config.site_description }}</p>
+        <a
+          href="{{ page.next_page.url | url }}"
+          title="{{ page.next_page.title | striptags }}"
+          class="md-button md-button--primary"
+        >
+          Download
+        </a>
+        <a
+          href="{{ config.repo_url }}"
+          title="{{ lang.t('source.link.title') }}"
+          class="md-button"
+        >
+          Source code
+        </a>
       </div>
     </div>
   </div>
 </section>
+
+<!-- Selling point cards -->
+<section></section>
+
 {% endblock %}
 
 <!-- Content -->
