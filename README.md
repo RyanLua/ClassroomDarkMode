@@ -1,8 +1,9 @@
-# ![Google Classroom Dark Mode](https://raw.githubusercontent.com/RyanLua/GoogleClassroomDarkMode/assets/assets/Marquee%20promo%20tile.png)
+<p align="center">
+  <img width="10%" alt="Classroom Dark Mode Logo" src="assets/Logo.png" />
+  <h1 align="center">Classroom Dark Mode</h1>
+</p>
 
-> 🌙 Dark mode for Google Classroom based on Material 2 guidelines and Google Keep.
-
-An extension that enables dark mode for Google Classroom using custom CSS.
+An extension that enables dark mode for Google Classroom using custom CSS based on Material Design.
 
 ## Supported pages
 
