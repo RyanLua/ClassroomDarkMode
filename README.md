@@ -5,9 +5,9 @@
 
 <div align="center">
 
-  [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/aaaccioflcfjgpdjonmjcmjkkgonpjfc?label=downloads)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
-  [![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/aaaccioflcfjgpdjonmjcmjkkgonpjfc)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
-  [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/aaaccioflcfjgpdjonmjcmjkkgonpjfc?label=version)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/aaaccioflcfjgpdjonmjcmjkkgonpjfc?label=downloads)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/aaaccioflcfjgpdjonmjcmjkkgonpjfc)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/aaaccioflcfjgpdjonmjcmjkkgonpjfc?label=version)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
 
 </div>
 
@@ -44,3 +44,9 @@ An extension that enables dark mode for Google Classroom using custom CSS based 
 - [ ] Class settings
 - [ ] Review work
 - [ ] Announce to class
+
+## Screenshots
+
+![Screenshot of Home page in dark mode.](assets/Home%20screenshot.png)
+![Screenshot of Class page in dark mode.](assets/Class%20screenshot.png)
+![Screenshot of Assignment page in dark mode.](assets/Assignment%20screenshot.png)
