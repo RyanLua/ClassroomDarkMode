@@ -15,38 +15,39 @@ An extension that enables dark mode for Google Classroom using custom CSS based 
 
 ## Supported pages
 
-- [x] Home
-- [x] Calendar
-- [x] Join class
-- [x] Move class
-- [x] Archived classes
-- [x] Settings
-- [x] Stream
-- [x] Assignment
-- [x] Classwork
-- [x] People
-- [x] Announce to class
+Pages on Google Classroom that work with Classroom Dark Mode
 
 ### Student
 
-- [x] To-do
+- [x] Home
 - [x] Your work
+- [x] Calendar
+- [x] To-do
+- [x] Archived classes
+- [x] Settings
+- [x] Stream
+- [x] Classwork
+- [x] People
 
 ### Teacher
 
-- [x] Class code/name
+- [x] Home
+- [x] Calendar
+- [x] To review
+- [x] Archived classes
+- [x] Settings
+- [x] Stream
+- [x] Classwork
+- [x] People
+- [x] Grades
+- [x] Class code
 - [x] Customize appearance
-- [x] Create class
-- [ ] To review
-- [ ] Invite teachers/students
-- [ ] Student work
-- [ ] Create classwork
-- [ ] Class settings
-- [ ] Review work
-- [ ] Announce to class
+- [x] Student work
+- [x] Class settings
+- [x] Review work
 
 ## Screenshots
 
-![Screenshot of Home page in dark mode.](assets/Home%20screenshot.png)
-![Screenshot of Class page in dark mode.](assets/Class%20screenshot.png)
-![Screenshot of Assignment page in dark mode.](assets/Assignment%20screenshot.png)
+![Screenshot of Home page](assets/Home%20screenshot.png)
+![Screenshot of Class page](assets/Class%20screenshot.png)
+![Screenshot of Assignment page](assets/Assignment%20screenshot.png)
