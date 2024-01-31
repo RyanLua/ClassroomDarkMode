@@ -394,6 +394,10 @@ body {
   background: var(--bg-color) !important;
 }
 
+.Erb9le:not(.RDPZE) .qmMNRc.y7OZL {
+  background-color: var(--white-hover) !important;
+}
+
 /* Stream */
 body {
   color: var(--font-color) !important;
@@ -1080,6 +1084,11 @@ thead .vvqDLc {
 
 .C9vVqc {
   background: var(--bg-color) !important;
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium) !important;
+}
+
+.gb_Oa .gb_qd.gb_vd.gb_wd {
+  background-color: var(--bg-color) !important;
 }
 
 .YxJ1Jf.KKjvXb {
@@ -1164,4 +1173,113 @@ thead .vvqDLc {
 
 .zTRICe {
   fill: var(--font-color) !important;
+}
+
+/* Due date & time */
+.NE9bBb {
+  background: var(--bg-color) !important;
+  color: var(--font-secondary-color) !important;
+}
+
+.O98Lj {
+  color: var(--font-color) !important;
+}
+
+.ECK80e {
+  border-color: var(--bd-color) !important;
+}
+
+input.tAUuQ {
+  background: var(--bg-color) !important;
+}
+
+.XaepId {
+  background: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+  color: var(--font-color) !important;
+}
+
+.XaepId-mrubje {
+  color: var(--font-secondary-color) !important;
+}
+
+.XaepId-gElRsf {
+  color: var(--font-color) !important;
+}
+
+.XaepId-gElRsf:hover {
+  background-color: var(--white-hover) !important;
+}
+
+/* Create rubric */
+.fWf7qe .Yalane {
+  background-color: var(--bg-secondary-color) !important;
+}
+
+.E8HiIc {
+  border-color: var(--bd-color) !important;
+}
+
+.ft5Sbf {
+  border-color: var(--bd-color) !important;
+}
+
+.oQ5Hqe {
+  background-color: var(--bd-color) !important;
+}
+
+.AKIybd {
+  background-color: var(--bd-color) !important;
+}
+
+.CYSZae {
+  color: var(--font-secondary-color) !important;
+}
+
+.jsbB5e.IYewr .CYSZae,
+.jsbB5e.u3bW4e.IYewr .CYSZae {
+  color: #d93025 !important;
+}
+
+.jsbB5e.IYewr .hqfVKd {
+  caret-color: #d93025 !important;
+}
+
+.yJqEpe {
+  color: #d93025 !important;
+}
+
+.C4yF5e {
+  border-color: var(--bd-color) !important;
+}
+
+.jsbB5e.IYewr>.Yalane>.oQ5Hqe,
+.jsbB5e.IYewr>.Yalane>.aCxcAe {
+  background-color: #d93025 !important;
+}
+
+.W9wDc.IYewr .poFWNe {
+  caret-color: #d93025 !important;
+}
+
+.W9wDc.IYewr .poFWNe:not([disabled]):focus~.qTs5Xc,
+.W9wDc.IYewr .n9IS1 .qTs5Xc {
+  color: #d93025 !important;
+}
+
+.uNeeU {
+  color: #d93025 !important;
+}
+
+.W9wDc.IYewr .AKIybd,
+.W9wDc.IYewr .cWL65e {
+  background-color: #d93025 !important;
+}
+
+.Nep6Fb:before {
+  background-color: var(--bg-color) !important;
+}
+
+.x5oKA.lRRyEb {
+  border-color: var(--bd-color) !important;
 }
