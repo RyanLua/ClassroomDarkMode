@@ -1169,3 +1169,39 @@ thead .vvqDLc {
 .zTRICe {
   fill: var(--font-color) !important;
 }
+
+/* Due date & time */
+.NE9bBb {
+  background: var(--bg-color) !important;
+  color: var(--font-secondary-color) !important;
+}
+
+.O98Lj {
+  color: var(--font-color) !important;
+}
+
+.ECK80e {
+  border-color: var(--bd-color) !important;
+}
+
+input.tAUuQ {
+  background: var(--bg-color) !important;
+}
+
+.XaepId {
+  background: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+  color: var(--font-color) !important;
+}
+
+.XaepId-mrubje {
+  color: var(--font-secondary-color) !important;
+}
+
+.XaepId-gElRsf {
+  color: var(--font-color) !important;
+}
+
+.XaepId-gElRsf:hover {
+  background-color: var(--white-hover) !important;
+}
