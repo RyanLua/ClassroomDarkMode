@@ -1084,6 +1084,11 @@ thead .vvqDLc {
 
 .C9vVqc {
   background: var(--bg-color) !important;
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium) !important;
+}
+
+.gb_Oa .gb_qd.gb_vd.gb_wd {
+  background-color: var(--bg-color) !important;
 }
 
 .YxJ1Jf.KKjvXb {
