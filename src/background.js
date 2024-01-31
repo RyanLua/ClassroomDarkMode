@@ -1,1 +1,0 @@
-chrome.action.disable();
