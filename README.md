@@ -59,6 +59,7 @@ Pages on Google Classroom that work with Classroom Dark Mode
 - [x] Stream
 - [x] Classwork
 - [x] People
+- [ ] ...
 
 ### Teacher
 
@@ -76,6 +77,7 @@ Pages on Google Classroom that work with Classroom Dark Mode
 - [x] Student work
 - [x] Class settings
 - [x] Review work
+- [ ] ...
 
 ## Screenshots
 
