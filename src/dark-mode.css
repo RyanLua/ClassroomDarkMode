@@ -41,7 +41,7 @@ body {
 
 /* Navbar */
 .joJglb {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
 
@@ -391,7 +391,7 @@ body {
 }
 
 .qk0lee:focus:after {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .Erb9le:not(.RDPZE) .qmMNRc.y7OZL {
@@ -472,7 +472,7 @@ body {
 
 /* Context menu */
 .JPdR6b {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 /* Classwork */
@@ -525,7 +525,7 @@ body {
 }
 
 .O9YpHb {
-  border: var(--bd-secondary-color) !important;
+  border-color: var(--bd-secondary-color) !important;
 }
 
 .lXuxY,
@@ -867,11 +867,11 @@ body {
 .TJtJXb:hover td,
 .tYQn5c:hover td,
 .DC55n:hover td {
-  background: var(--white-hover) !important;
+  background-color: var(--white-hover) !important;
 }
 
 .DC55n td {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
 }
 
@@ -919,7 +919,7 @@ body {
 }
 
 .aSjeL.aSjeL td {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 /* Create assignment */
@@ -932,7 +932,7 @@ body {
 }
 
 .cLpBac {
-  background: var(--bg-secondary-color) !important;
+  background-color: var(--bg-secondary-color) !important;
 }
 
 .z80M1 {
@@ -971,15 +971,15 @@ body {
 
 /* Invite */
 .t1IGPc {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .AZW99 {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .I4p4db {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
   color: var(--font-color) !important;
 }
 
@@ -988,11 +988,11 @@ body {
 }
 
 .Co16uf {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .pIQtMd {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .HNcB0e {
@@ -1013,13 +1013,13 @@ body {
 .go6aXd,
 .fum4Tb,
 tbody .vvqDLc {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .fHar6b,
 .RUkyfb,
 thead .vvqDLc {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .fum4Tb {
@@ -1083,7 +1083,7 @@ thead .vvqDLc {
 }
 
 .C9vVqc {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
   box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium) !important;
 }
 
@@ -1134,11 +1134,11 @@ thead .vvqDLc {
 }
 
 .jlfrG:before {
-  background: transparent !important;
+  background-color: transparent !important;
 }
 
 .jlfrG:after {
-  background: transparent !important;
+  background-color: transparent !important;
 }
 
 .R5iLrf.u3bW4e,
@@ -1177,7 +1177,7 @@ thead .vvqDLc {
 
 /* Due date & time */
 .NE9bBb {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
   color: var(--font-secondary-color) !important;
 }
 
@@ -1190,11 +1190,11 @@ thead .vvqDLc {
 }
 
 input.tAUuQ {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .XaepId {
-  background: var(--bg-color) !important;
+  background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
   color: var(--font-color) !important;
 }
