@@ -1044,7 +1044,7 @@ thead .vvqDLc {
 }
 
 .WOPwXe {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 .vvqDLc {
@@ -1154,7 +1154,7 @@ thead .vvqDLc {
 
 /* Reuse rubric */
 .ShARAe {
-  border-color: var(--bd-color);
+  border-color: var(--bd-color) !important;
 }
 
 .vPNssb .jBmls {
