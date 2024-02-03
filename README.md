@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="10%" alt="Classroom Dark Mode Logo" src="assets/Logo.png" />
+  <img width="100" alt="Classroom Dark Mode Logo" src="assets/Logo.png" />
   <h1 align="center">Classroom Dark Mode</h1>
 </p>
 
@@ -59,6 +59,7 @@ Pages on Google Classroom that work with Classroom Dark Mode
 - [x] Stream
 - [x] Classwork
 - [x] People
+- [ ] ...
 
 ### Teacher
 
@@ -76,6 +77,7 @@ Pages on Google Classroom that work with Classroom Dark Mode
 - [x] Student work
 - [x] Class settings
 - [x] Review work
+- [ ] ...
 
 ## Screenshots
 
