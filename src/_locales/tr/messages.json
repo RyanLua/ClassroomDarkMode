@@ -1,10 +1,10 @@
 {
   "application_title": {
-    "message": "Classroom Dark Mode",
+    "message": "Sınıf Karanlık Modu",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Dark mode for Google Classroom",
+    "message": "Google Classroom için karanlık mod",
     "description": "The description of the application, displayed in the web store."
   }
 }
