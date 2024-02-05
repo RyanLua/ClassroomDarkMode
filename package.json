@@ -14,7 +14,11 @@
     "url": "git+https://github.com/RyanLua/ClassroomDarkMode.git"
   },
   "keywords": [],
-  "author": "The Chrome Team",
+  "author": {
+    "name": "Ryan Luu",
+    "email": "ryan.luu@ryanluu.dev",
+    "url": "https://ryanluu.dev"
+  },
   "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/RyanLua/ClassroomDarkMode/issues"
