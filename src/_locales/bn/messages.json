@@ -1,10 +1,10 @@
 {
   "application_title": {
-    "message": "Classroom Dark Mode",
+    "message": "ক্লাসরুম ডার্ক মোড",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Dark mode for Google Classroom",
+    "message": "গুগল ক্লাসরুমের জন্য ডার্ক মোড",
     "description": "The description of the application, displayed in the web store."
   }
 }
