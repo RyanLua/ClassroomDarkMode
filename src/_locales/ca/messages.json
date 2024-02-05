@@ -1,10 +1,10 @@
 {
   "application_title": {
-    "message": "Classroom Dark Mode",
+    "message": "Mode fosc de l'aula",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Dark mode for Google Classroom",
+    "message": "Mode fosc per a Google Classroom",
     "description": "The description of the application, displayed in the web store."
   }
 }
