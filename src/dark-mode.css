@@ -1283,3 +1283,23 @@ input.tAUuQ {
 .x5oKA.lRRyEb {
   border-color: var(--bd-color) !important;
 }
+
+/* Other */
+.UvHKof.VnOHwf-Tvm9db,
+.UvHKof .VnOHwf-Tvm9db,
+.UvHKof.CNpREd.VnOHwf-Tvm9db,
+.UvHKof.CNpREd .VnOHwf-Tvm9db {
+  color: #fff;
+  fill: #fff;
+}
+
+.UvHKof.bFjUmb-Tvm9db,
+.UvHKof .bFjUmb-Tvm9db,
+.UvHKof.CNpREd.bFjUmb-Tvm9db,
+.UvHKof.CNpREd .bFjUmb-Tvm9db {
+  background-color: #606367;
+}
+
+.UvHKof .eumXzf:after {
+  border-color: #606367;
+}
