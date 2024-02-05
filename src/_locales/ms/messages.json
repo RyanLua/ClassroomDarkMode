@@ -1,10 +1,10 @@
 {
   "application_title": {
-    "message": "Classroom Dark Mode",
+    "message": "Mod Gelap Bilik Darjah",
     "description": "The title of the application, displayed in the web store."
   },
   "application_description": {
-    "message": "Dark mode for Google Classroom",
+    "message": "Mod gelap untuk Bilik Darjah Google",
     "description": "The description of the application, displayed in the web store."
   }
 }
