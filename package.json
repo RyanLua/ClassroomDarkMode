@@ -1,5 +1,5 @@
 {
-  "name": "classroom-dark-mode",
+  "name": "classroomdarkmode",
   "version": "0.0.1",
   "private": true,
   "description": "Dark mode for Google Classroom",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GoogleChrome/chrome-extensions-samples.git"
+    "url": "git+https://github.com/RyanLua/ClassroomDarkMode.git"
   },
   "keywords": [],
   "author": "The Chrome Team",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/GoogleChrome/chrome-extensions-samples/issues"
+    "url": "https://github.com/RyanLua/ClassroomDarkMode/issues"
   },
-  "homepage": "https://github.com/GoogleChrome/chrome-extensions-samples#readme",
+  "homepage": "https://github.com/RyanLua/ClassroomDarkMode#readme",
   "devDependencies": {
     "eslint": "8.56.0",
     "eslint-config-prettier": "9.1.0",
