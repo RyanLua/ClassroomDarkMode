@@ -56,6 +56,10 @@ Translations can be accessed and edited through [our Crowdin project](https://cr
 - Vote or edit on existing translations
 - Open discussion topics
 
+## Contributions
+
+We welcome all contributions. To learn how to contribute, see [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details.
+
 ## Supported pages
 
 Pages on Google Classroom that work with Classroom Dark Mode
