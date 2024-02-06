@@ -60,6 +60,12 @@ Translations can be accessed and edited through [our Crowdin project](https://cr
 
 We welcome all contributions. To learn how to contribute, see [CONTRIBUTING.md](/.github/CONTRIBUTING.md) for details.
 
+## License
+
+[![GitHub License](https://img.shields.io/github/license/RyanLua/ClassroomDarkMode)](https://github.com/RyanLua/ClassroomDarkMode/blob/main/LICENSE)
+
+Licensed under [Apache License 2.0](https://www.apache.org/licenses/). See [LICENSE](LICENSE) for details.
+
 ## Supported pages
 
 Pages on Google Classroom that work with Classroom Dark Mode
