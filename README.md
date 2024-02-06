@@ -44,6 +44,18 @@ Installing from a file or loading an unpacked extension is intended if you are t
 4. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
 5. Click the **Load unpacked** button and select the folder you extracted to earlier.
 
+## Translations
+
+[![Crowdin](https://badges.crowdin.net/classroom-dark-mode/localized.svg)](https://crowdin.com/project/classroom-dark-mode)
+
+You can help with translating whether it be fixing an error or adding a new language.
+
+Translations can be accessed and edited through [our Crowdin project](https://crowdin.com/project/classroom-dark-mode). There you can:
+
+- Translate or proofread content
+- Vote or edit on existing translations
+- Open discussion topics
+
 ## Supported pages
 
 Pages on Google Classroom that work with Classroom Dark Mode
