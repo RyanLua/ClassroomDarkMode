@@ -922,6 +922,10 @@ body {
   background-color: var(--bg-color) !important;
 }
 
+.hYt5f.FRDm8d .WkZsyc:not(:last-child), .hYt5f.FRDm8d .Kql9ed:not(:last-child) {
+  border-color: var(--bd-color) !important;
+}
+
 /* Create assignment */
 .TdC1bb {
   background-color: var(--bg-color) !important;
