@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Google క్లాస్‌రూమ్ కోసం డార్క్ మోడ్ థీమ్, తరగతి కోసం మీ కళ్ళను సేవ్ చేస్తుంది. ఆలస్య రాత్రులు చదువుకోడానికి లేదా ఉదయాన్నే హోంవర్క్ చేసేవారికి, కంటి ఒత్తిడికి వీడ్కోలు చెప్పండి మరియు చీకటికి హలో చెప్పండి.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom అనేది Google Workspace for Educationలో భాగం మరియు దీనిని విద్యార్థులు మరియు ఉపాధ్యాయులు ఉపయోగిస్తున్నారు. ఒక ఘోరమైన లోపం దాని డార్క్ మోడ్ లేకపోవడం, ఈ పొడిగింపు Google క్లాస్‌రూమ్‌లో డార్క్ థీమ్‌ను వర్తింపజేయడం ద్వారా దాన్ని పరిష్కరించాలని లక్ష్యంగా పెట్టుకుంది.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- అందంగా రూపొందించబడింది: ఇతర Google ఉత్పత్తులతో సరిగ్గా సరిపోయేలా మెటీరియల్ డిజైన్ మార్గదర్శకాలతో రూపొందించబడింది
+- వేగవంతమైన & చిన్నది: 50KB కంటే తక్కువ పరిమాణం మరియు రికార్డ్ చేయదగిన మెమరీ ఫుట్‌ప్రింట్ లేకుండా, మీ పరికరంలో జీరో స్లోడౌన్‌లను ఆశించండి
+- సురక్షితమైన & ప్రైవేట్: కనీస అనుమతులు అవసరం మరియు సేకరించిన లేదా విక్రయించబడిన డేటా ఈ పొడిగింపును అనూహ్యంగా సురక్షితంగా చేయదు
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+ఈ పొడిగింపును ఉపయోగించడానికి, Classroom డార్క్ మోడ్‌ని ఇన్‌స్టాల్ చేసి, Google Classroomని రిఫ్రెష్ చేయండి.
+ఈ పొడిగింపును నిలిపివేయడానికి, మీ బ్రౌజర్ పొడిగింపుల పేజీకి వెళ్లి, "క్లాస్‌రూమ్ డార్క్ మోడ్"ని నిలిపివేయండి మరియు Google తరగతి గదిని రిఫ్రెష్ చేయండి.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+ఈ పొడిగింపు Google క్లాస్‌రూమ్‌లోని ఉపాధ్యాయులు మరియు విద్యార్థుల ఖాతాలలో మరియు 55 విభిన్న భాషలలో పని చేస్తుంది.
