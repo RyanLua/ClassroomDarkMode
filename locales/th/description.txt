@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+ธีมโหมดมืดสำหรับ Google Classroom ช่วยถนอมสายตาในชั้นเรียน สำหรับช่วงดึกของการเรียนหรือการบ้านตอนเช้า บอกลาอาการปวดตาและพบกับความมืดมิด
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom เป็นส่วนหนึ่งของ Google Workspace for Education และใช้งานโดยนักเรียนและครู ข้อบกพร่องร้ายแรงประการหนึ่งคือการไม่มีโหมดมืด ส่วนขยายนี้มีจุดมุ่งหมายเพื่อแก้ไขโดยใช้ธีมสีเข้มใน Google Classroom
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- ออกแบบอย่างสวยงาม: ออกแบบโดยมีหลักเกณฑ์การออกแบบวัสดุเพื่อให้เหมาะกับผลิตภัณฑ์อื่นๆ ของ Google
+- เร็วและเล็ก: ด้วยขนาดที่น้อยกว่า 50KB และไม่มีพื้นที่หน่วยความจำที่สามารถบันทึกได้ คาดว่าอุปกรณ์ของคุณจะช้าลงเป็นศูนย์
+- ปลอดภัยและเป็นส่วนตัว: ต้องการการอนุญาตขั้นต่ำและไม่มีการรวบรวมหรือขายข้อมูลใด ๆ ที่ทำให้ส่วนขยายนี้ปลอดภัยเป็นพิเศษ
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+หากต้องการใช้ส่วนขยายนี้ ให้ติดตั้ง Classroom Dark Mode และรีเฟรช Google Classroom
+หากต้องการปิดใช้งานส่วนขยายนี้ ให้ไปที่หน้าส่วนขยายของเบราว์เซอร์ ปิดใช้งาน "Classroom Dark Mode" และรีเฟรช Google Classroom
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+ส่วนขยายนี้ใช้ได้กับทั้งบัญชีครูและนักเรียนใน Google Classroom และใน 55 ภาษา
