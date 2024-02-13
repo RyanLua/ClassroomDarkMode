@@ -1,0 +1,12 @@
+Dark mode na tema para sa Google Classroom, na nagse-save ng iyong mga mata para sa klase. Para sa mga huling gabi ng pag-aaral o maagang umaga ng takdang-aralin, magpaalam sa pagkapagod ng mata at kumusta sa dilim.
+
+Ang Google Classroom ay bahagi ng Google Workspace for Education at ginagamit ito ng mga mag-aaral at guro. Ang isang nakamamatay na depekto ay ang kawalan nito ng dark mode, ang extension na ito ay naglalayong ayusin iyon sa pamamagitan ng paglalapat ng madilim na tema sa Google Classroom.
+
+- Dinisenyo nang maganda: Dinisenyo gamit ang mga alituntunin sa Disenyong Materyal na akma sa iba pang mga produkto ng Google
+- Mabilis at Maliit: Mas mababa sa 50KB ang laki at walang recordable memory footprint, asahan ang zero slowdown sa iyong device
+- Secure at Pribado: Minimal na mga pahintulot ang kinakailangan at walang data na nakolekta o naibenta kailanman ginagawang ligtas ang extension na ito
+
+Para magamit ang extension na ito, i-install ang Classroom Dark Mode at i-refresh ang Google Classroom.
+Upang i-disable ang extension na ito, pumunta sa page ng mga extension ng iyong browser, huwag paganahin ang "Classroom Dark Mode", at i-refresh ang Google Classroom.
+
+Gumagana ang extension na ito sa parehong account ng guro at mag-aaral sa Google Classroom at sa 55 iba't ibang wika.
