@@ -2,11 +2,11 @@ Tumman tilan teema Google Classroomiin, säästää katseesi luokkaa varten. My�
 
 Google Classroom on osa Google Workspace for Educationia, ja sitä käyttävät oppilaat ja opettajat. Yksi kohtalokas puute on pimeän tilan puute. Tämä laajennus pyrkii korjaamaan sen käyttämällä tummaa teemaa Google Classroomissa.
 
-- Kauniisti suunniteltu: Suunniteltu materiaalisuunnittelun ohjeiden mukaisesti, jotta se sopii suoraan muihin Google-tuotteisiin
-- Nopea ja pieni: Alle 50 kt:n kokoinen ja ei tallennettavaa muistitilaa, joten laitteesi ei hidastu
-- Suojattu ja yksityinen: Vähimmäisluvat vaaditaan, eikä koskaan kerätty tai myyty data tekee tästä laajennuksesta poikkeuksellisen turvallisen
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-Jos haluat käyttää tätä laajennusta, asenna Classroomin tumma tila ja päivitä Google Classroom.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 Voit poistaa tämän laajennuksen käytöstä siirtymällä selaimesi laajennussivulle, poistamalla "Classroom Dark Mode" käytöstä ja päivittämällä Google Classroomin.
 
 Tämä laajennus toimii sekä opettajien että oppilaiden tileillä Google Classroomissa ja 55 eri kielellä.
