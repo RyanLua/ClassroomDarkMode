@@ -1,12 +1,12 @@
-Google Classroom માટે ડાર્ક મોડ થીમ, વર્ગ માટે તમારી આંખો બચાવી રહી છે. અભ્યાસની મોડી રાત અથવા હોમવર્કની વહેલી સવાર માટે, આંખના તાણને અલવિદા કહો અને અંધકારને નમસ્કાર કરો.
+Google Classroom માટે ડાર્ક મોડ થીમ, વર્ગ માટે તમારી આંખો બચાવી રહી છે. અભ્યાસની મોડી રાતો અથવા હોમવર્કની વહેલી સવાર માટે, આંખના તાણને અલવિદા કહો અને અંધકારને નમસ્કાર કરો.
 
 Google Classroom એ Google Workspace for Educationનો ભાગ છે અને તેનો ઉપયોગ વિદ્યાર્થીઓ અને શિક્ષકો કરે છે. એક ઘાતક ખામી એ ડાર્ક મોડનો અભાવ છે, આ એક્સ્ટેંશનનો હેતુ Google Classroom પર ડાર્ક થીમ લાગુ કરીને તેને ઠીક કરવાનો છે.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- સુંદર રીતે ડિઝાઇન કરાયેલ: અન્ય Google ઉત્પાદનો સાથે યોગ્ય રીતે ફિટ થવા માટે મટિરિયલ ડિઝાઇન માર્ગદર્શિકા સાથે ડિઝાઇન
+- ઝડપી અને નાનું: 50KB કરતા ઓછા કદ અને રેકોર્ડ કરી શકાય તેવી મેમરી ફૂટપ્રિન્ટ વિના, તમારા ઉપકરણ પર શૂન્ય મંદીની અપેક્ષા રાખો
+- સુરક્ષિત અને ખાનગી: ન્યૂનતમ પરવાનગીઓની આવશ્યકતા છે અને ક્યારેય એકત્રિત કરેલ અથવા વેચવામાં આવેલ ડેટા આ એક્સ્ટેંશનને અસાધારણ રીતે સુરક્ષિત બનાવે છે
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+આ એક્સ્ટેંશનનો ઉપયોગ કરવા માટે, ક્લાસરૂમ ડાર્ક મોડ ઇન્સ્ટોલ કરો અને Google ક્લાસરૂમ રિફ્રેશ કરો.
 આ એક્સ્ટેંશનને અક્ષમ કરવા માટે, તમારા બ્રાઉઝરના એક્સ્ટેંશન પૃષ્ઠ પર જાઓ, "ક્લાસરૂમ ડાર્ક મોડ" ને અક્ષમ કરો અને Google વર્ગખંડને તાજું કરો.
 
-આ એક્સ્ટેંશન Google Classroom પર અને 55 અલગ-અલગ ભાષાઓમાં શિક્ષક અને વિદ્યાર્થી બંને એકાઉન્ટ પર કામ કરે છે.
+આ એક્સ્ટેંશન Google વર્ગખંડ પર અને 55 વિવિધ ભાષાઓમાં શિક્ષક અને વિદ્યાર્થી બંને એકાઉન્ટ પર કાર્ય કરે છે.
