@@ -2,11 +2,11 @@ Tema della modalità oscura per Google Classroom, che ti fa risparmiare gli occh
 
 Google Classroom fa parte di Google Workspace for Education ed è utilizzato da studenti e insegnanti. Un difetto fatale è la mancanza della modalità oscura, questa estensione mira a risolverlo applicando un tema scuro su Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Design accattivante: progettato secondo le linee guida di Material Design per adattarsi perfettamente ad altri prodotti Google
+- Veloce e piccolo: con meno di 50 KB di dimensione e nessun ingombro di memoria registrabile, non aspettarti alcun rallentamento per il tuo dispositivo
+- Sicuro e privato: autorizzazioni minime richieste e nessun dato raccolto o venduto rendono questa estensione eccezionalmente sicura
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+Per utilizzare questa estensione, installa Classroom Dark Mode e aggiorna Google Classroom.
 Per disattivare questa estensione, vai alla pagina delle estensioni del tuo browser, disattiva la "Modalità oscura di Classroom" e aggiorna Google Classroom.
 
 Questa estensione funziona sia sugli account insegnante che su quello studente su Google Classroom e in 55 lingue diverse.
