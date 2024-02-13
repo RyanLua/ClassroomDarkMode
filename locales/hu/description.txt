@@ -1,12 +1,12 @@
-Sötét mód téma a Google Tanteremben, így kíméli a szemét az órákon. Azok a késő éjszakák, amikor tanulással vagy kora reggeli házi feladatokkal töltenek el, búcsút mondjon a szem megerőltetésének, és köszönjön a sötétségnek.
+Sötét mód téma a Google Tanteremben, így kíméli a szemét az órákon. A tanulással töltött késő esti órákban vagy a kora reggeli házi feladatokkal búcsúzzon a szem megerőltetésétől, és köszönjön a sötétségnek.
 
-A Google Tanterem a Google Workspace for Education része, és a diákok és a tanárok használják. Az egyik végzetes hiba a sötét mód hiánya. Ez a bővítmény ezt kívánja kijavítani úgy, hogy sötét témát alkalmaz a Google Tanteremben.
+A Google Tanterem a Google Workspace for Education része, és a diákok és a tanárok használják. Az egyik végzetes hiba a sötét mód hiánya, ez a bővítmény ezt kívánja kijavítani úgy, hogy sötét témát alkalmaz a Google Tanteremben.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Gyönyörűen megtervezett: Az anyagtervezési irányelvek betartásával tervezték, hogy pontosan illeszkedjen más Google-termékekhez
+- Gyors és kicsi: 50 KB-nál kisebb mérettel és nem írható memóriaterülettel, nem számíthat az eszköz lelassulására
+– Biztonságos és privát: Minimális engedélyek szükségesek, és soha nem gyűjtenek vagy értékesítenek adatokat, ez a bővítmény kivételesen biztonságossá teszi ezt a bővítményt
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-A bővítmény letiltásához lépjen a böngésző bővítményeinek oldalára, kapcsolja ki a „Classroom Dark Mode” funkciót, és frissítse a Google Classroom szolgáltatást.
+A bővítmény használatához telepítse a Classroom Dark Mode módot, és frissítse a Google Classroom szolgáltatást.
+A bővítmény letiltásához lépjen a böngésző bővítményeinek oldalára, kapcsolja ki a "Classroom Dark Mode" funkciót, és frissítse a Google Classroom szolgáltatást.
 
-Ez a bővítmény tanári és tanulói fiókokban is működik a Google Tanteremben, és 55 különböző nyelven.
+Ez a bővítmény tanári és tanulói fiókokon is működik a Google Tanteremben, és 55 különböző nyelven.
