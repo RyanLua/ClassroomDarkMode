@@ -1,0 +1,12 @@
+Tema mode gelap untuk Google Kelas, sehingga tidak perlu memperhatikan kelas. Untuk belajar hingga larut malam atau mengerjakan pekerjaan rumah di pagi hari, ucapkan selamat tinggal pada ketegangan mata dan sapa kegelapan.
+
+Google Kelas adalah bagian dari Google Workspace for Education dan digunakan oleh siswa dan guru. Salah satu kelemahan fatalnya adalah kurangnya mode gelap, ekstensi ini bertujuan untuk memperbaikinya dengan menerapkan tema gelap di Google Classroom.
+
+- Dirancang dengan indah: Dirancang dengan pedoman Desain Material agar cocok dengan produk Google lainnya
+- Cepat & Kecil: Dengan ukuran kurang dari 50KB dan tidak ada jejak memori yang dapat direkam, tidak ada perlambatan pada perangkat Anda
+- Aman & Pribadi: Diperlukan izin minimal dan tidak ada data yang dikumpulkan atau dijual yang membuat ekstensi ini sangat aman
+
+Untuk menggunakan ekstensi ini, instal Mode Gelap Kelas dan segarkan Google Kelas.
+Untuk menonaktifkan ekstensi ini, buka halaman ekstensi browser Anda, nonaktifkan "Mode Gelap Kelas", dan segarkan Google Kelas.
+
+Ekstensi ini berfungsi pada akun guru dan siswa di Google Kelas dan dalam 55 bahasa berbeda.
