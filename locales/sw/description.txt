@@ -2,11 +2,11 @@ Mandhari ya hali nyeusi ya Google Darasani, yakihifadhi macho yako kwa ajili ya 
 
 Google Classroom ni sehemu ya Google Workspace for Education na hutumiwa na wanafunzi na walimu. Dosari moja mbaya ni ukosefu wake wa hali ya giza, kiendelezi hiki kinalenga kurekebisha hilo kwa kutumia mandhari meusi kwenye Google Classroom.
 
-- Imeundwa kwa umaridadi: Imeundwa kwa miongozo ya Usanifu Bora ili kuendana na bidhaa zingine za Google
-- Haraka na Ndogo: Kwa ukubwa wa chini ya 50KB na hakuna kumbukumbu inayoweza kurekodiwa, tarajia kushuka kwa sifuri kwa kifaa chako
-- Salama na Faragha: Ruhusa ndogo zinazohitajika na hakuna data inayokusanywa au kuuzwa inayofanya kiendelezi hiki kuwa salama kipekee
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-Ili kutumia kiendelezi hiki, sakinisha Hali Nyeusi ya Darasani na uonyeshe upya huduma ya Google Darasani.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 Ili kuzima kiendelezi hiki, nenda kwenye ukurasa wa viendelezi vya kivinjari chako, zima "Modi Nyeusi ya Darasani", na uonyeshe upya Google Darasani.
 
 Kiendelezi hiki hufanya kazi kwenye akaunti za mwalimu na mwanafunzi kwenye Google Darasani na katika lugha 55 tofauti.
