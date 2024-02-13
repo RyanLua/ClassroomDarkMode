@@ -1,12 +1,12 @@
-Tema temnega načina za Google Classroom, ki vam prihrani oči za razred. Za tiste pozne noči učenja ali zgodnje jutranje domače naloge se poslovite od naprezanja oči in pozdravite temo.
+Tema temnega načina za Google Classroom, ki vam prihrani oči za razred. Za pozne noči učenja ali zgodnje jutranje domače naloge se poslovite od naprezanja oči in pozdravite temo.
 
 Google Classroom je del Google Workspace for Education in ga uporabljajo učenci in učitelji. Ena usodna napaka je pomanjkanje temnega načina, ta razširitev želi to popraviti z uporabo temne teme v Google Učilnici.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Čudovito oblikovan: Zasnovano v skladu s smernicami Material Design, da se popolnoma prilega drugim Googlovim izdelkom
+- Hiter in majhen: z velikostjo manj kot 50 KB in brez odtisa pomnilnika, ki ga je mogoče zapisovati, pričakujte nič upočasnitve vaše naprave
+– Varno in zasebno: zahtevana so minimalna dovoljenja in nobeni zbrani ali prodani podatki naredijo to razširitev izjemno varno
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+Če želite uporabljati to razširitev, namestite temni način učilnice in osvežite Google Učilnico.
 Če želite onemogočiti to razširitev, pojdite na stran z razširitvami brskalnika, onemogočite »Temni način učilnice« in osvežite Google Učilnico.
 
 Ta razširitev deluje na računih učiteljev in učencev v Google Učilnici in v 55 različnih jezikih.
