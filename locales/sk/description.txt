@@ -2,11 +2,11 @@ Motív tmavého režimu pre Učebňu Google, ktorý vám šetrí zrak na triedu.
 
 Učebňa Google je súčasťou služby Google Workspace for Education a používajú ju študenti a učitelia. Jednou fatálnou chybou je nedostatok tmavého režimu. Cieľom tohto rozšírenia je napraviť to použitím tmavej témy v Učebni Google.
 
-- Krásne navrhnuté: Navrhnuté s pokynmi pre Material Design, aby presne zapadali do ostatných produktov Google
-- Rýchly a malý: S veľkosťou menšou ako 50 kB a žiadnou zapisovateľnou pamäťovou stopou počítajte s nulovým spomalením vášho zariadenia
-- Bezpečné a súkromné: Vyžadujú sa minimálne povolenia a žiadne zhromaždené ani nepredané údaje robia toto rozšírenie mimoriadne bezpečným
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-Ak chcete použiť toto rozšírenie, nainštalujte si tmavý režim Učebne a obnovte Učebňu Google.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 Ak chcete toto rozšírenie zakázať, prejdite na stránku rozšírení prehliadača, zakážte tmavý režim Učebne a obnovte Učebňu Google.
 
 Toto rozšírenie funguje na účtoch učiteľov aj študentov v Učebni Google a v 55 rôznych jazykoch.
