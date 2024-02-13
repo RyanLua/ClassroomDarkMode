@@ -1,0 +1,12 @@
+Motyw trybu ciemnego dla Google Classroom, oszczędzający wzrok na zajęciach. W te późne noce spędzone na nauce lub wczesne poranki odrabiania zadań domowych, pożegnaj zmęczenie oczu i powitaj ciemność.
+
+Google Classroom jest częścią Google Workspace for Education i jest używany przez uczniów i nauczycieli. Fatalną wadą jest brak trybu ciemnego. To rozszerzenie ma na celu naprawienie tego problemu poprzez zastosowanie ciemnego motywu w Google Classroom.
+
+– Pięknie zaprojektowane: zaprojektowane zgodnie z wytycznymi Material Design, aby idealnie pasować do innych produktów Google
+– Szybkie i małe: przy rozmiarze mniejszym niż 50 KB i braku miejsca na nagrywalną pamięć nie należy spodziewać się żadnego spowolnienia działania urządzenia
+- Bezpieczne i prywatne: Wymagane są minimalne uprawnienia, a żadne dane nie są gromadzone ani sprzedawane, co czyni to rozszerzenie wyjątkowo bezpiecznym
+
+Aby korzystać z tego rozszerzenia, zainstaluj Classroom Dark Mode i odśwież Google Classroom.
+Aby wyłączyć to rozszerzenie, przejdź do strony rozszerzeń swojej przeglądarki, wyłącz „Tryb ciemny Classroom” i odśwież Google Classroom.
+
+To rozszerzenie działa zarówno na kontach nauczycieli, jak i uczniów w Google Classroom oraz w 55 różnych językach.
