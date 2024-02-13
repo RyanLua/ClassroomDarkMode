@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Google Classroom のダーク モード テーマ。授業に集中できるようにします。 夜遅くまで勉強したり、早朝に宿題をしたりするときは、目の疲れに別れを告げ、暗闇に挨拶しましょう。
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom は Google Workspace for Education の一部であり、生徒と教師によって使用されます。 致命的な欠陥の 1 つはダーク モードがないことです。この拡張機能は、Google Classroom にダーク テーマを適用することでそれを修正することを目的としています。
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- 美しいデザイン: マテリアル デザイン ガイドラインに基づいて設計されており、他の Google サービスと調和します。
+- 高速かつ小型: サイズが 50KB 未満で、記録可能なメモリ使用量がないため、デバイスの速度低下がゼロになります。
+- 安全でプライベート: 最小限の権限が必要で、データが収集または販売されないため、この拡張機能は非常に安全です。
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+この拡張機能を使用するには、Classroom ダーク モードをインストールし、Google Classroom を更新します。
+この拡張機能を無効にするには、ブラウザの拡張機能ページに移動し、「Classroom Dark Mode」を無効にして、Google Classroom を更新します。
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+この拡張機能は、Google Classroom の教師と生徒の両方のアカウントで、55 の異なる言語で機能します。
