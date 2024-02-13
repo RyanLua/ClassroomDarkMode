@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+የጨለማ ሁነታ ገጽታ ለጉግል ክፍል፣ ዓይኖችዎን ለክፍል በማስቀመጥ። ለእነዚያ የጥናት ምሽቶች ወይም ጧት የቤት ስራ፣ ለዓይን ድካም ደህና ሁኑ እና ለጨለማ ሰላም ይበሉ።
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+ጉግል ክፍል የጉግል ወርክስፔስ ለትምህርት አካል ሲሆን በተማሪዎች እና በአስተማሪዎች ጥቅም ላይ ይውላል። አንዱ ገዳይ እንከን የጨለማ ሁነታ እጦት ነው፣ ይህ ቅጥያ አላማው የጎግል ክፍል ላይ ጨለማ ገጽታን በመተግበር ለማስተካከል ነው።
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- በሚያምር ሁኔታ የተነደፈ፡ ከሌሎች የGoogle ምርቶች ጋር እንዲስማማ በቁሳዊ ንድፍ መመሪያዎች የተነደፈ
+- ፈጣን እና ትንሽ፡ ከ50 ኪባ ባነሰ መጠን እና ሊቀረጽ የሚችል የማህደረ ትውስታ አሻራ በሌለው መሳሪያዎ ላይ ዜሮ መቀዛቀዝ ይጠብቁ
+- ደህንነቱ የተጠበቀ እና የግል፡ አነስተኛ ፈቃዶች ያስፈልጋሉ እና ምንም የተሰበሰበ ወይም የተሸጠ መረጃ በጭራሽ ይህን ቅጥያ ደህንነቱ የተጠበቀ ያደርገዋል።
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+ይህን ቅጥያ ለመጠቀም፣ Classroom Dark Modeን ይጫኑ እና Google Classroomን ያድሱ።
+ይህን ቅጥያ ለማሰናከል ወደ የአሳሽዎ ቅጥያዎች ገጽ ይሂዱ፣ "ክፍል ጨለማ ሁነታን ያሰናክሉ" እና Google Classroomን ያድሱ።
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+ይህ ቅጥያ በሁለቱም የአስተማሪ እና የተማሪ መለያዎች በGoogle ክፍል እና በ55 ቋንቋዎች ይሰራል።
