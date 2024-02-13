@@ -2,11 +2,11 @@ Tema mod gelap untuk Bilik Darjah Google, menjimatkan mata anda untuk kelas. Bag
 
 Bilik Darjah Google ialah sebahagian daripada Google Workspace for Education dan digunakan oleh pelajar dan guru. Satu kelemahan maut ialah kekurangan mod gelap, sambungan ini bertujuan untuk membetulkannya dengan menggunakan tema gelap pada Bilik Darjah Google.
 
-- Direka dengan cantik: Direka dengan garis panduan Reka Bentuk Bahan agar sesuai dengan produk Google yang lain
-- Pantas & Kecil: Dengan saiz kurang daripada 50KB dan tiada jejak memori boleh rakam, jangkakan sifar kelembapan pada peranti anda
-- Selamat & Peribadi: Kebenaran minimum diperlukan dan tiada data yang dikumpul atau dijual pernah menjadikan sambungan ini sangat selamat
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-Untuk menggunakan sambungan ini, pasang Mod Gelap Bilik Darjah dan muat semula Bilik Darjah Google.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 Untuk melumpuhkan sambungan ini, pergi ke halaman sambungan penyemak imbas anda, lumpuhkan "Mod Gelap Bilik Darjah" dan muat semula Bilik Darjah Google.
 
 Sambungan ini berfungsi pada akaun guru dan pelajar di Bilik Darjah Google dan dalam 55 bahasa yang berbeza.
