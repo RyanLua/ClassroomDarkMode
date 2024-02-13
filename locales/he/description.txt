@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+ערכת נושא במצב כהה עבור Google Classroom, שומר את העיניים שלך לכיתה. עבור הלילות המאוחרים של לימוד או בבוקר מוקדם של שיעורי בית, היפרדו ממאמץ העיניים ושלום לחושך.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom הוא חלק מ-Google Workspace for Education ומשמש את התלמידים והמורים. פגם קטלני אחד הוא היעדר מצב כהה, התוסף הזה נועד לתקן זאת על ידי החלת ערכת נושא כהה ב-Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- מעוצב להפליא: עוצב עם הנחיות לעיצוב חומרי כדי להשתלב בדיוק עם מוצרי Google אחרים
+- מהיר וקטן: עם גודל של פחות מ-50KB וללא טביעת זיכרון שניתן להקליט, צפה לאפס האטות במכשיר שלך
+- מאובטח ופרטי: נדרשת הרשאות מינימליות ושום נתונים לא נאספים או נמכרים אי פעם הופכים את התוסף הזה לבטוח במיוחד
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+כדי להשתמש בתוסף הזה, התקן את Classroom Dark Mode ורענן את Google Classroom.
+כדי להשבית תוסף זה, עבור לדף התוספים של הדפדפן שלך, השבת את "מצב כהה בכיתה" ורענן את Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+התוסף הזה עובד על חשבונות מורים ותלמידים ב-Google Classroom וב-55 שפות שונות.
