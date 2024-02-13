@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Motiv tmavého režimu pro Učebnu Google, který vám šetří oči pro výuku. Pro ty pozdní noci učení nebo brzká rána domácích úkolů se rozlučte s únavou očí a pozdravte tmu.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Učebna Google je součástí Google Workspace for Education a používají ji studenti a učitelé. Jednou fatální chybou je nedostatek tmavého režimu. Cílem tohoto rozšíření je napravit to použitím tmavého motivu v Učebně Google.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Krásně navrženo: Navrženo podle pokynů pro Material Design, aby přesně zapadalo do ostatních produktů Google
+- Rychlý a malý: S velikostí menší než 50 kB a bez zaznamenatelných paměťových nároků očekávejte nulové zpomalení vašeho zařízení
+- Zabezpečené a soukromé: Minimální potřebná oprávnění a žádná data shromážděná nebo prodaná, činí toto rozšíření výjimečně bezpečným
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Chcete-li použít toto rozšíření, nainstalujte si tmavý režim Učebny a obnovte Učebnu Google.
+Chcete-li toto rozšíření deaktivovat, přejděte ve svém prohlížeči na stránku rozšíření, vypněte „Tmavý režim Učebny“ a obnovte Učebnu Google.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Toto rozšíření funguje na účtech učitelů i studentů v Učebně Google a v 55 různých jazycích.
