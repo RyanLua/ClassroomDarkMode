@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Tumman tilan teema Google Classroomiin, säästää katseesi luokkaa varten. Myöhäisinä iltaisina opiskellessasi tai varhaisina aamuisina läksyjä varten sano hyvästit silmien rasitukselle ja hei pimeydelle.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom on osa Google Workspace for Educationia, ja sitä käyttävät oppilaat ja opettajat. Yksi kohtalokas puute on pimeän tilan puute. Tämä laajennus pyrkii korjaamaan sen käyttämällä tummaa teemaa Google Classroomissa.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Kauniisti suunniteltu: Suunniteltu materiaalisuunnittelun ohjeiden mukaisesti, jotta se sopii suoraan muihin Google-tuotteisiin
+- Nopea ja pieni: Alle 50 kt:n kokoinen ja ei tallennettavaa muistitilaa, joten laitteesi ei hidastu
+- Suojattu ja yksityinen: Vähimmäisluvat vaaditaan, eikä koskaan kerätty tai myyty data tekee tästä laajennuksesta poikkeuksellisen turvallisen
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Jos haluat käyttää tätä laajennusta, asenna Classroomin tumma tila ja päivitä Google Classroom.
+Voit poistaa tämän laajennuksen käytöstä siirtymällä selaimesi laajennussivulle, poistamalla "Classroom Dark Mode" käytöstä ja päivittämällä Google Classroomin.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Tämä laajennus toimii sekä opettajien että oppilaiden tileillä Google Classroomissa ja 55 eri kielellä.
