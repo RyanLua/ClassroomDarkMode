@@ -1,0 +1,12 @@
+Chủ đề chế độ tối cho Lớp học Google, giúp bạn tiết kiệm thời gian cho lớp học. Đối với những đêm học bài muộn hoặc những buổi sáng sớm làm bài tập về nhà, hãy tạm biệt tình trạng mỏi mắt và chào đón bóng tối.
+
+Google Lớp học là một phần của Google Workspace for Education và được học sinh và giáo viên sử dụng. Một lỗ hổng nghiêm trọng là thiếu chế độ tối, tiện ích mở rộng này nhằm mục đích khắc phục điều đó bằng cách áp dụng chủ đề tối trên Google Classroom.
+
+- Được thiết kế đẹp mắt: Được thiết kế theo nguyên tắc Material Design để phù hợp với các sản phẩm khác của Google
+- Nhanh & Nhỏ: Với kích thước dưới 50KB và không có dung lượng bộ nhớ có thể ghi, thiết bị của bạn sẽ không bị chậm
+- Bảo mật & Riêng tư: Yêu cầu quyền tối thiểu và không bao giờ thu thập hoặc bán dữ liệu khiến tiện ích này đặc biệt an toàn
+
+Để sử dụng tiện ích này, hãy cài đặt Chế độ tối của Lớp học và làm mới Google Lớp học.
+Để tắt tiện ích mở rộng này, hãy truy cập trang tiện ích mở rộng trên trình duyệt của bạn, tắt "Chế độ tối của lớp học" và làm mới Lớp học Google.
+
+Tiện ích mở rộng này hoạt động trên cả tài khoản giáo viên và học sinh trên Google Lớp học và bằng 55 ngôn ngữ khác nhau.
