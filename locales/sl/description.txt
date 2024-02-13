@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Tema temnega načina za Google Classroom, ki vam prihrani oči za razred. Za tiste pozne noči učenja ali zgodnje jutranje domače naloge se poslovite od naprezanja oči in pozdravite temo.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom je del Google Workspace for Education in ga uporabljajo učenci in učitelji. Ena usodna napaka je pomanjkanje temnega načina, ta razširitev želi to popraviti z uporabo temne teme v Google Učilnici.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+– Lepo oblikovan: zasnovan v skladu s smernicami materialnega oblikovanja, da se popolnoma prilega drugim Googlovim izdelkom
+- Hiter in majhen: z velikostjo manj kot 50 KB in brez odtisa pomnilnika, ki ga je mogoče zapisovati, pričakujte nič upočasnitve vaše naprave
+- Varno in zasebno: potrebna so minimalna dovoljenja in nobeni zbrani ali prodani podatki nikoli ne naredijo te razširitve izjemno varne
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Če želite uporabiti to razširitev, namestite temni način učilnice in osvežite Google Učilnico.
+Če želite onemogočiti to razširitev, pojdite na stran z razširitvami brskalnika, onemogočite »Temni način učilnice« in osvežite Google Učilnico.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Ta razširitev deluje na računih učiteljev in učencev v Google Učilnici in v 55 različnih jezikih.
