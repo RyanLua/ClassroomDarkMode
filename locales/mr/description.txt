@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Google Classroom साठी डार्क मोड थीम, वर्गासाठी तुमचे डोळे वाचवत आहे. अभ्यासाच्या उशिरा रात्री किंवा गृहपाठाच्या पहाटे, डोळ्यांच्या ताणाला निरोप द्या आणि अंधाराला नमस्कार करा.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom हा Google Workspace for Education चा भाग आहे आणि विद्यार्थी आणि शिक्षक वापरतात. एक गंभीर त्रुटी म्हणजे गडद मोडचा अभाव, या विस्ताराचा हेतू Google Classroom वर गडद थीम लागू करून त्याचे निराकरण करण्याचा आहे.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- सुंदर डिझाइन केलेले: इतर Google उत्पादनांमध्ये बसण्यासाठी मटेरियल डिझाइन मार्गदर्शक तत्त्वांसह डिझाइन केलेले
+- वेगवान आणि लहान: 50KB पेक्षा कमी आकारमानासह आणि रेकॉर्ड करण्यायोग्य मेमरी फूटप्रिंट नसल्यामुळे, तुमच्या डिव्हाइसवर शून्य स्लोडाउनची अपेक्षा करा
+- सुरक्षित आणि खाजगी: किमान परवानग्या आवश्यक आहेत आणि कधीही गोळा केलेला किंवा विकलेला कोणताही डेटा हा विस्तार अपवादात्मकपणे सुरक्षित करत नाही
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+हा विस्तार वापरण्यासाठी, Classroom डार्क मोड इंस्टॉल करा आणि Google Classroom रिफ्रेश करा.
+हा विस्तार अक्षम करण्यासाठी, तुमच्या ब्राउझरच्या विस्तार पृष्ठावर जा, "क्लासरूम डार्क मोड" अक्षम करा आणि Google वर्ग रीफ्रेश करा.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+हा विस्तार Google Classroom वरील शिक्षक आणि विद्यार्थी दोन्ही खात्यांवर आणि 55 भिन्न भाषांमध्ये कार्य करतो.
