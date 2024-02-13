@@ -2,11 +2,11 @@ Mörkt lägestema för Google Classroom, räddar dina ögon för klassen. För d
 
 Google Classroom är en del av Google Workspace for Education och används av elever och lärare. En allvarlig brist är bristen på mörkt läge, den här tillägget syftar till att fixa det genom att applicera ett mörkt tema på Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Vackert designad: Designad med riktlinjer för materialdesign för att passa in i andra Google-produkter
+- Snabb och liten: Med mindre än 50 kB i storlek och inget inspelningsbart minnesfotavtryck, förvänta dig noll nedgångar för din enhet
+- Säkert och privat: Minimala behörigheter krävs och ingen data som samlas in eller säljs gör det här tillägget exceptionellt säkert
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+För att använda det här tillägget, installera Classroom Dark Mode och uppdatera Google Classroom.
 För att inaktivera det här tillägget, gå till din webbläsares tilläggssida, inaktivera "Classroom Dark Mode" och uppdatera Google Classroom.
 
 Det här tillägget fungerar på både lärar- och elevkonton på Google Classroom och på 55 olika språk.
