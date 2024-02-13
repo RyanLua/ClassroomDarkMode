@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Google ಕ್ಲಾಸ್‌ರೂಮ್‌ಗಾಗಿ ಡಾರ್ಕ್ ಮೋಡ್ ಥೀಮ್, ತರಗತಿಗಾಗಿ ನಿಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ಉಳಿಸುತ್ತದೆ. ತಡರಾತ್ರಿಯಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡಲು ಅಥವಾ ಮನೆಕೆಲಸದ ಮುಂಜಾನೆಗಾಗಿ, ಕಣ್ಣಿನ ಒತ್ತಡಕ್ಕೆ ವಿದಾಯ ಹೇಳಿ ಮತ್ತು ಕತ್ತಲೆಗೆ ನಮಸ್ಕಾರ ಮಾಡಿ.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom Google Workspace for Education ನ ಭಾಗವಾಗಿದೆ ಮತ್ತು ಇದನ್ನು ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಶಿಕ್ಷಕರು ಬಳಸುತ್ತಾರೆ. ಒಂದು ಮಾರಣಾಂತಿಕ ನ್ಯೂನತೆಯು ಅದರ ಡಾರ್ಕ್ ಮೋಡ್‌ನ ಕೊರತೆಯಾಗಿದೆ, ಈ ವಿಸ್ತರಣೆಯು Google ಕ್ಲಾಸ್‌ರೂಮ್‌ನಲ್ಲಿ ಡಾರ್ಕ್ ಥೀಮ್ ಅನ್ನು ಅನ್ವಯಿಸುವ ಮೂಲಕ ಅದನ್ನು ಸರಿಪಡಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- ಸುಂದರವಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ: ಇತರ Google ಉತ್ಪನ್ನಗಳೊಂದಿಗೆ ಸರಿಯಾಗಿ ಹೊಂದಿಕೊಳ್ಳಲು ಮೆಟೀರಿಯಲ್ ವಿನ್ಯಾಸ ಮಾರ್ಗಸೂಚಿಗಳೊಂದಿಗೆ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ
+- ವೇಗವಾದ ಮತ್ತು ಚಿಕ್ಕದು: 50KB ಗಿಂತ ಕಡಿಮೆ ಗಾತ್ರದೊಂದಿಗೆ ಮತ್ತು ರೆಕಾರ್ಡ್ ಮಾಡಬಹುದಾದ ಮೆಮೊರಿ ಹೆಜ್ಜೆಗುರುತುಗಳಿಲ್ಲದೆ, ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಶೂನ್ಯ ನಿಧಾನಗತಿಯನ್ನು ನಿರೀಕ್ಷಿಸಿ
+- ಸುರಕ್ಷಿತ ಮತ್ತು ಖಾಸಗಿ: ಕನಿಷ್ಠ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿದೆ ಮತ್ತು ಯಾವುದೇ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸಲಾಗಿಲ್ಲ ಅಥವಾ ಮಾರಾಟ ಮಾಡಲಾಗಿಲ್ಲ ಈ ವಿಸ್ತರಣೆಯನ್ನು ಅಸಾಧಾರಣವಾಗಿ ಸುರಕ್ಷಿತವಾಗಿಸುವುದಿಲ್ಲ
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+ಈ ವಿಸ್ತರಣೆಯನ್ನು ಬಳಸಲು, Classroom ಡಾರ್ಕ್ ಮೋಡ್ ಅನ್ನು ಸ್ಥಾಪಿಸಿ ಮತ್ತು Google Classroom ಅನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ.
+ಈ ವಿಸ್ತರಣೆಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು, ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನ ವಿಸ್ತರಣೆಗಳ ಪುಟಕ್ಕೆ ಹೋಗಿ, "ಕ್ಲಾಸ್‌ರೂಮ್ ಡಾರ್ಕ್ ಮೋಡ್" ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ ಮತ್ತು Google ಕ್ಲಾಸ್‌ರೂಮ್ ಅನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+ಈ ವಿಸ್ತರಣೆಯು Google ಕ್ಲಾಸ್‌ರೂಮ್‌ನಲ್ಲಿ ಮತ್ತು 55 ವಿವಿಧ ಭಾಷೆಗಳಲ್ಲಿ ಶಿಕ್ಷಕರ ಮತ್ತು ವಿದ್ಯಾರ್ಥಿಗಳ ಖಾತೆಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.
