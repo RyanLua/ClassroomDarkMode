@@ -2,11 +2,11 @@ Google 클래스룸의 어두운 모드 테마로 수업에 집중할 수 있습
 
 Google 클래스룸은 Google Workspace for Education의 일부이며 학생과 교사가 사용합니다. 한 가지 치명적인 결점은 다크 모드가 없다는 점입니다. 이 확장 프로그램은 Google 클래스룸에 다크 테마를 적용하여 이를 수정하는 것을 목표로 합니다.
 
-- 아름다운 디자인: 다른 Google 제품과 잘 어울리도록 머티리얼 디자인 지침에 따라 디자인되었습니다.
-- 빠르고 작음: 크기가 50KB 미만이고 기록 가능한 메모리 공간이 없으므로 장치 속도 저하가 전혀 발생하지 않습니다.
-- 보안 및 비공개: 최소한의 권한이 필요하며 데이터를 수집하거나 판매하지 않으므로 이 확장 프로그램은 매우 안전합니다.
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-이 확장 프로그램을 사용하려면 클래스룸 다크 모드를 설치하고 Google 클래스룸을 새로고침하세요.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 이 확장 프로그램을 비활성화하려면 브라우저의 확장 프로그램 페이지로 이동하여 '클래스룸 다크 모드'를 비활성화하고 Google 클래스룸을 새로 고치세요.
 
 이 확장 프로그램은 Google 클래스룸의 교사 및 학생 계정 모두에서 55개 언어로 작동합니다.
