@@ -1,0 +1,12 @@
+Tumman tilan teema Google Classroomiin, säästää katseesi luokkaa varten. Myöhäisinä iltaisina opiskellessaan tai varhain aamulla läksyjä varten sano hyvästit silmien rasitukselle ja hei pimeydelle.
+
+Google Classroom on osa Google Workspace for Educationia, ja sitä käyttävät oppilaat ja opettajat. Yksi kohtalokas virhe on sen tumman tilan puute. Tämä laajennus pyrkii korjaamaan sen käyttämällä tummaa teemaa Google Classroomissa.
+
+- Kauniisti suunniteltu: Suunniteltu materiaalisuunnittelun ohjeiden mukaan, jotta se sopii suoraan muihin Google-tuotteisiin
+- Nopea ja pieni: Alle 50 kt:n kokoinen ja ei tallennettavaa muistia, joten laitteesi ei hidastu.
+- Suojattu ja yksityinen: Vähimmäiskäyttöoikeudet vaaditaan, eikä tietoja kerätä tai myydä koskaan, mikä tekee tästä laajennuksesta poikkeuksellisen turvallisen
+
+Jos haluat käyttää tätä laajennusta, asenna Classroomin tumma tila ja päivitä Google Classroom.
+Voit poistaa tämän laajennuksen käytöstä siirtymällä selaimesi laajennussivulle, poistamalla "Classroom Dark Mode" -tilan käytöstä ja päivittämällä Google Classroomin.
+
+Tämä laajennus toimii sekä opettajien että oppilaiden tileillä Google Classroomissa ja 55 eri kielellä.
