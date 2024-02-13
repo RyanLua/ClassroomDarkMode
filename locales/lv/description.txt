@@ -1,0 +1,12 @@
+Tumšā režīma motīvs pakalpojumam Google Classroom, kas ļauj jums ietaupīt mācību stundu. Vēlās mācīšanās vakaros vai agros mājasdarbu rītos atvadieties no acu noguruma un sveiciniet tumsu.
+
+Google Classroom ir daļa no Google Workspace for Education, un to izmanto skolēni un skolotāji. Viens no liktenīgajiem trūkumiem ir tumšā režīma trūkums. Šī paplašinājuma mērķis ir to novērst, pakalpojumā Google Classroom piemērojot tumšu motīvu.
+
+ — Skaists dizains: izstrādāts, ievērojot materiāla dizaina vadlīnijas, lai tie atbilstu citiem Google produktiem.
+ — Ātrs un mazs: ar mazāku par 50 KB lielumu un bez ierakstāmās atmiņas nospieduma, sagaidiet, ka ierīce nepalēnināsies.
+— Drošs un privāts: nepieciešamas minimālas atļaujas un nekādi savāktie vai pārdotie dati padara šo paplašinājumu īpaši drošu
+
+Lai izmantotu šo paplašinājumu, instalējiet Classroom tumšo režīmu un atsvaidziniet Google Classroom.
+Lai atspējotu šo paplašinājumu, atveriet pārlūkprogrammas paplašinājumu lapu, atspējojiet "Classroom Dark Mode" un atsvaidziniet pakalpojumu Google Classroom.
+
+Šis paplašinājums darbojas gan skolotāju, gan skolēnu kontos pakalpojumā Google Classroom un 55 dažādās valodās.
