@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+谷歌课堂的深色模式主题，保护你的眼睛上课。 对于那些熬夜学习或清晨做作业的人来说，告别眼睛疲劳，向黑暗问好。
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google 课堂是 Google Workspace 教育版的一部分，供学生和教师使用。 一个致命的缺陷是它缺乏黑暗模式，这个扩展旨在通过在谷歌课堂上应用黑暗主题来解决这个问题。
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- 设计精美：按照 Material Design 指南进行设计，可与其他 Google 产品完美搭配
+- 快速且小：大小不到 50KB，并且没有可记录的内存占用，预计您的设备速度为零
+- 安全和私密：需要最少的权限，并且不会收集或出售任何数据，使得此扩展异常安全
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+要使用此扩展程序，请安装“课堂深色模式”并刷新“Google 课堂”。
+要禁用此扩展程序，请转到浏览器的扩展程序页面，禁用“课堂深色模式”，然后刷新 Google 课堂。
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+此扩展适用于 Google Classroom 上的教师和学生帐户，支持 55 种不同的语言。
