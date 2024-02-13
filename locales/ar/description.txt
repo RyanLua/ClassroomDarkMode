@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+سمة الوضع المظلم لـ Google Classroom، مما يوفر عينيك للفصل الدراسي. في تلك الليالي المتأخرة من الدراسة أو في الصباح الباكر من الواجبات المنزلية، قل وداعًا لإجهاد العين ومرحبًا بالظلام.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+يعد Google Classroom جزءًا من Google Workspace for Education ويستخدمه الطلاب والمعلمون. أحد العيوب القاتلة هو افتقاره إلى الوضع المظلم، ويهدف هذا الامتداد إلى إصلاح ذلك من خلال تطبيق سمة داكنة على Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- تصميم جميل: تم تصميمه وفقًا لإرشادات التصميم متعدد الأبعاد ليتناسب تمامًا مع منتجات Google الأخرى
+- سريع وصغير الحجم: بحجم أقل من 50 كيلو بايت ولا توجد مساحة للذاكرة قابلة للتسجيل، لا تتوقع أي تباطؤ في جهازك
+- آمن وخاص: الحد الأدنى من الأذونات المطلوبة ولا يتم جمع أي بيانات أو بيعها على الإطلاق مما يجعل هذا الامتداد آمنًا بشكل استثنائي
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+لاستخدام هذا الملحق، قم بتثبيت Classroom Dark Mode وقم بتحديث Google Classroom.
+لتعطيل هذا الامتداد، انتقل إلى صفحة الملحقات في متصفحك، وقم بتعطيل "الوضع الداكن للفصل الدراسي"، وقم بتحديث Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+يعمل هذا الامتداد على حسابات المعلمين والطلاب على Google Classroom وبـ 55 لغة مختلفة.
