@@ -2,11 +2,11 @@ Google Classroom için karanlık mod teması, gözlerinizi derse ayırıyor. Ge�
 
 Google Classroom, Google Workspace for Education'ın bir parçasıdır ve öğrenciler ve öğretmenler tarafından kullanılır. Ölümcül bir kusur, karanlık modun olmamasıdır; bu uzantı, Google Classroom'da karanlık bir tema uygulayarak bunu düzeltmeyi amaçlamaktadır.
 
-- Güzel tasarlanmış: Diğer Google ürünlerine tam uyum sağlayacak şekilde Materyal Tasarımı yönergeleriyle tasarlandı
-- Hızlı ve Küçük: Boyutu 50 KB'tan küçük olduğundan ve kaydedilebilir bellek alanı olmadığından cihazınızda sıfır yavaşlama olmasını bekleyebilirsiniz
-- Güvenli ve Özel: Gerekli minimum izinler ve toplanan veya satılan hiçbir veri bu uzantıyı olağanüstü derecede güvenli kılmaz
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-Bu uzantıyı kullanmak için Classroom Karanlık Modu'nu yükleyin ve Google Classroom'u yenileyin.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 Bu uzantıyı devre dışı bırakmak için tarayıcınızın uzantılar sayfasına gidin, "Sınıf Karanlık Modu"nu devre dışı bırakın ve Google Classroom'u yenileyin.
 
 Bu uzantı, Google Classroom'daki hem öğretmen hem de öğrenci hesaplarında ve 55 farklı dilde çalışır.
