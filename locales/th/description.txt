@@ -1,12 +1,12 @@
 ธีมโหมดมืดสำหรับ Google Classroom ช่วยถนอมสายตาในชั้นเรียน สำหรับช่วงดึกของการเรียนหรือการบ้านตอนเช้า บอกลาอาการปวดตาและพบกับความมืดมิด
 
-Google Classroom เป็นส่วนหนึ่งของ Google Workspace for Education และใช้งานโดยนักเรียนและครู ข้อบกพร่องร้ายแรงประการหนึ่งคือการไม่มีโหมดมืด ส่วนขยายนี้มีจุดมุ่งหมายเพื่อแก้ไขโดยใช้ธีมสีเข้มใน Google Classroom
+Google Classroom เป็นส่วนหนึ่งของ Google Workspace for Education และมีนักเรียนและครูใช้งาน ข้อบกพร่องร้ายแรงประการหนึ่งคือการไม่มีโหมดมืด ส่วนขยายนี้มีจุดมุ่งหมายเพื่อแก้ไขโดยใช้ธีมสีเข้มบน Google Classroom
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- ออกแบบอย่างสวยงาม: ออกแบบด้วยหลักเกณฑ์การออกแบบวัสดุเพื่อให้เข้ากับผลิตภัณฑ์อื่นๆ ของ Google
+- เร็วและเล็ก: ด้วยขนาดน้อยกว่า 50KB และไม่มีพื้นที่หน่วยความจำที่บันทึกได้ คาดว่าอุปกรณ์ของคุณจะช้าลงเป็นศูนย์
+- ปลอดภัยและเป็นส่วนตัว: ต้องการสิทธิ์ขั้นต่ำและไม่มีการรวบรวมหรือขายข้อมูลใดที่ทำให้ส่วนขยายนี้ปลอดภัยเป็นพิเศษ
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+หากต้องการใช้ส่วนขยายนี้ ให้ติดตั้ง Classroom Dark Mode และรีเฟรช Google Classroom
 หากต้องการปิดใช้งานส่วนขยายนี้ ให้ไปที่หน้าส่วนขยายของเบราว์เซอร์ ปิดใช้งาน "Classroom Dark Mode" และรีเฟรช Google Classroom
 
 ส่วนขยายนี้ใช้ได้กับทั้งบัญชีครูและนักเรียนใน Google Classroom และใน 55 ภาษา
