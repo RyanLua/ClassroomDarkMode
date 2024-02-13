@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Google வகுப்பறைக்கான டார்க் மோட் தீம், வகுப்பிற்கு உங்கள் கண்களைச் சேமிக்கிறது. படிப்பின் தாமதமான இரவுகள் அல்லது அதிகாலை வீட்டுப்பாடங்களுக்கு, கண் சோர்வுக்கு குட்பை மற்றும் இருளுக்கு வணக்கம் சொல்லுங்கள்.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom என்பது Google Workspace for Education இன் ஒரு பகுதியாகும், இது மாணவர்களாலும் ஆசிரியர்களாலும் பயன்படுத்தப்படுகிறது. டார்க் மோட் இல்லாமை ஒரு அபாயகரமான குறைபாடாகும், இந்த நீட்டிப்பு கூகுள் கிளாஸ்ரூமில் டார்க் தீமினைப் பயன்படுத்துவதன் மூலம் அதைச் சரிசெய்வதை நோக்கமாகக் கொண்டுள்ளது.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- அழகாக வடிவமைக்கப்பட்டுள்ளது: மற்ற Google தயாரிப்புகளுடன் சரியாகப் பொருந்தும் வகையில் மெட்டீரியல் டிசைன் வழிகாட்டுதல்களுடன் வடிவமைக்கப்பட்டுள்ளது
+- வேகமானது மற்றும் சிறியது: 50KB க்கும் குறைவான அளவு மற்றும் பதிவு செய்யக்கூடிய நினைவக தடம் இல்லாமல், உங்கள் சாதனத்தில் பூஜ்ஜிய மந்தநிலையை எதிர்பார்க்கலாம்
+- பாதுகாப்பானது மற்றும் தனிப்பட்டது: குறைந்தபட்ச அனுமதிகள் தேவை மற்றும் சேகரிக்கப்பட்ட அல்லது விற்கப்பட்ட தரவு எதுவும் இந்த நீட்டிப்பை விதிவிலக்காக பாதுகாப்பானதாக மாற்றாது
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+இந்த நீட்டிப்பைப் பயன்படுத்த, Classroom Dark Modeஐ நிறுவி Google Classroomஐப் புதுப்பிக்கவும்.
+இந்த நீட்டிப்பை முடக்க, உங்கள் உலாவியின் நீட்டிப்புகள் பக்கத்திற்குச் சென்று, "கிளாஸ்ரூம் டார்க் மோட்" ஐ முடக்கி, Google வகுப்பறையைப் புதுப்பிக்கவும்.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+இந்த நீட்டிப்பு Google வகுப்பறையில் உள்ள ஆசிரியர் மற்றும் மாணவர் கணக்குகள் மற்றும் 55 வெவ்வேறு மொழிகளில் வேலை செய்கிறது.
