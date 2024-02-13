@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Dark mode na tema para sa Google Classroom, na nagse-save ng iyong mga mata para sa klase. Para sa mga huling gabi ng pag-aaral o maagang umaga ng takdang-aralin, magpaalam sa pagkapagod ng mata at kumusta sa dilim.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Ang Google Classroom ay bahagi ng Google Workspace for Education at ginagamit ito ng mga mag-aaral at guro. Ang isang nakamamatay na depekto ay ang kawalan nito ng dark mode, ang extension na ito ay naglalayong ayusin iyon sa pamamagitan ng paglalapat ng madilim na tema sa Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Maganda ang disenyo: Dinisenyo gamit ang mga alituntunin sa Disenyong Materyal upang magkasya mismo sa iba pang mga produkto ng Google
+- Mabilis at Maliit: Mas mababa sa 50KB ang laki at walang recordable memory footprint, asahan ang zero slowdown sa iyong device
+- Secure at Pribado: Minimal na mga pahintulot ang kinakailangan at walang data na nakolekta o naibenta kailanman ginagawang lubos na ligtas ang extension na ito
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Para magamit ang extension na ito, i-install ang Classroom Dark Mode at i-refresh ang Google Classroom.
+Upang i-disable ang extension na ito, pumunta sa page ng mga extension ng iyong browser, huwag paganahin ang "Classroom Dark Mode", at i-refresh ang Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Gumagana ang extension na ito sa mga account ng guro at mag-aaral sa Google Classroom at sa 55 iba't ibang wika.
