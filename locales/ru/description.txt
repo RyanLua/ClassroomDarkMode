@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Тема темного режима для Google Classroom, позволяющая сэкономить глаза на занятиях. В те поздние ночи учебы или ранние утренние домашние задания попрощайтесь с напряжением глаз и здравствуйте темнотой.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom является частью Google Workspace for Education и используется учащимися и преподавателями. Одним из фатальных недостатков является отсутствие темного режима. Это расширение призвано исправить это, применив темную тему в Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Красивый дизайн: разработан с учетом рекомендаций Material Design и идеально сочетается с другими продуктами Google.
+- Быстрый и маленький: размер менее 50 КБ и отсутствие записываемого объема памяти позволяют ожидать нулевого замедления работы вашего устройства.
+- Безопасность и конфиденциальность: требуются минимальные разрешения, а данные не собираются и не продаются, что делает это расширение исключительно безопасным.
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Чтобы использовать это расширение, установите Classroom Dark Mode и обновите Google Classroom.
+Чтобы отключить это расширение, перейдите на страницу расширений вашего браузера, отключите «Тёмный режим Класса» и обновите Google Класс.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Это расширение работает как с учетными записями учителей, так и с учетными записями учащихся в Google Classroom и на 55 разных языках.
