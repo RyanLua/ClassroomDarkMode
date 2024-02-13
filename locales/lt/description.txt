@@ -1,0 +1,12 @@
+Tamsiojo režimo tema, skirta „Google Classroom“, taupanti jūsų akis pamokoms. Vėlyvais studijų vakarais ar ankstyvais namų darbų rytais atsisveikinkite su akių įtempimu ir pasisveikinkite su tamsa.
+
+„Google Classroom“ yra „Google Workspace for Education“ dalis, kurią naudoja mokiniai ir mokytojai. Vienas lemtingas trūkumas yra tamsaus režimo nebuvimas. Šiuo plėtiniu siekiama tai ištaisyti pritaikius tamsią temą „Google Classroom“.
+
+– Gražus dizainas: sukurtas pagal materialaus dizaino gaires, kad tiktų su kitais „Google“ produktais
+– Greitas ir mažas: mažesnis nei 50 KB dydis ir nėra įrašomosios atminties, todėl jūsų įrenginys nesulėtės.
+– Saugus ir privatus: reikalaujama minimalių leidimų, o jokie duomenys nėra renkami ar parduodami, todėl šis plėtinys yra ypač saugus
+
+Norėdami naudoti šį plėtinį, įdiekite „Classroom Dark Mode“ ir atnaujinkite „Google Classroom“.
+Norėdami išjungti šį plėtinį, eikite į naršyklės plėtinių puslapį, išjunkite „Classroom Dark Mode“ ir atnaujinkite „Google Classroom“.
+
+Šis plėtinys veikia tiek mokytojų, tiek mokinių paskyrose „Google Classroom“ ir 55 skirtingomis kalbomis.
