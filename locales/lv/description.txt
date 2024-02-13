@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Tumšā režīma motīvs pakalpojumam Google Classroom, kas ļauj jums ietaupīt mācību stundu. Vēlās mācīšanās vakaros vai agros mājasdarbu rītos atvadieties no acu noguruma un sveiciniet tumsu.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom ir daļa no Google Workspace for Education, un to izmanto skolēni un skolotāji. Viens no liktenīgajiem trūkumiem ir tumšā režīma trūkums. Šī paplašinājuma mērķis ir to novērst, pakalpojumā Google Classroom piemērojot tumšu motīvu.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Labs dizains: izstrādāts, ievērojot materiāla dizaina vadlīnijas, lai tie atbilstu citiem Google produktiem
+- Ātrs un mazs: tā izmērs ir mazāks par 50 KB un nav ierakstāmas atmiņas vietas, tāpēc jūsu ierīcei nebūs palēninājuma.
+- Drošs un privāts: nepieciešamas minimālas atļaujas, un nekādi savāktie vai pārdotie dati padara šo paplašinājumu īpaši drošu
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Lai izmantotu šo paplašinājumu, instalējiet Classroom tumšo režīmu un atsvaidziniet pakalpojumu Google Classroom.
+Lai atspējotu šo paplašinājumu, atveriet pārlūkprogrammas paplašinājumu lapu, atspējojiet "Classroom Dark Mode" un atsvaidziniet pakalpojumu Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Šis paplašinājums darbojas gan skolotāju, gan skolēnu kontos pakalpojumā Google Classroom un 55 dažādās valodās.
