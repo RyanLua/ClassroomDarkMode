@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Tamsiojo režimo tema, skirta „Google Classroom“, taupanti jūsų akis pamokoms. Vėlyvais studijų vakarais ar ankstyvais namų darbų rytais atsisveikinkite su akių įtempimu ir pasisveikinkite su tamsa.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+„Google Classroom“ yra „Google Workspace for Education“ dalis, kurią naudoja mokiniai ir mokytojai. Vienas lemtingas trūkumas yra tamsaus režimo nebuvimas. Šiuo plėtiniu siekiama tai ištaisyti pritaikius tamsią temą „Google Classroom“.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+– Gražus dizainas: sukurtas pagal Material Design gaires, kad tiktų su kitais „Google“ produktais
+- Greitas ir mažas: mažesnis nei 50 KB dydis ir nėra įrašomosios atminties talpos, todėl jūsų įrenginys nesulėtės.
+- Saugus ir privatus: reikalingi minimalūs leidimai, o jokie duomenys nėra renkami ar parduodami, todėl šis plėtinys yra ypač saugus
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Norėdami naudoti šį plėtinį, įdiekite „Classroom Dark Mode“ ir atnaujinkite „Google Classroom“.
+Norėdami išjungti šį plėtinį, eikite į naršyklės plėtinių puslapį, išjunkite „Classroom Dark Mode“ ir atnaujinkite „Google Classroom“.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Šis plėtinys veikia tiek mokytojo, tiek mokinio paskyrose „Google Classroom“ ir 55 skirtingomis kalbomis.
