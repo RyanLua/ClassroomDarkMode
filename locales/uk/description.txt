@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Темна тема для Google Classroom, що збереже ваші очі під час уроку. Під час навчання пізно ввечері або рано вранці, коли виконуєте домашнє завдання, попрощайтеся з напругою очей і привіт темряві.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom є частиною Google Workspace for Education і використовується студентами та викладачами. Одним із фатальних недоліків є відсутність темного режиму, це розширення має на меті виправити це, застосувавши темну тему в Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Прекрасний дизайн: розроблено відповідно до вказівок щодо матеріального дизайну, щоб ідеально відповідати іншим продуктам Google
+- Швидкий і малий: з розміром менше 50 Кб і без пам'яті для запису очікуйте нульового уповільнення роботи вашого пристрою
+- Безпека та конфіденційність: необхідні мінімальні дозволи та відсутність збору чи продажу даних роблять це розширення надзвичайно безпечним
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Щоб використовувати це розширення, інсталюйте темний режим Classroom і оновіть Google Classroom.
+Щоб вимкнути це розширення, перейдіть на сторінку розширень свого браузера, вимкніть «Темний режим класу» та оновіть Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Це розширення працює в облікових записах викладачів і студентів у Google Classroom і 55 різними мовами.
