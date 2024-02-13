@@ -1,0 +1,12 @@
+El tema del mode fosc per a Google Classroom, guarda els teus ulls per a la classe. Per a les nits d'estudi o els deures primerencs al matí, digueu adéu a la fatiga visual i saludeu a la foscor.
+
+Google Classroom forma part de Google Workspace for Education i l'utilitzen estudiants i professors. Un defecte fatal és la seva manca de mode fosc, aquesta extensió pretén solucionar-ho aplicant un tema fosc a Google Classroom.
+
+- Disseny meravellós: dissenyat amb les directrius de disseny de materials per adaptar-se perfectament a altres productes de Google
+- Ràpid i petit: amb menys de 50 KB de mida i sense empremta de memòria enregistrable, espereu zero alentiments al vostre dispositiu
+- Segur i privat: es requereixen permisos mínims i cap dada recopilada o venuda fa que aquesta extensió sigui excepcionalment segura
+
+Per utilitzar aquesta extensió, instal·leu Classroom Dark Mode i actualitzeu Google Classroom.
+Per desactivar aquesta extensió, aneu a la pàgina d'extensions del vostre navegador, desactiveu el "Mode fosc de Classroom" i actualitzeu Google Classroom.
+
+Aquesta extensió funciona tant en comptes de professor com d'estudiant a Google Classroom i en 55 idiomes diferents.
