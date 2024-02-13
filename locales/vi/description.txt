@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Chủ đề chế độ tối cho Lớp học Google, giúp bạn tiết kiệm thời gian cho lớp học. Đối với những đêm học bài muộn hoặc những buổi sáng sớm làm bài tập về nhà, hãy tạm biệt tình trạng mỏi mắt và chào đón bóng tối.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Lớp học là một phần của Google Workspace for Education và được học sinh cũng như giáo viên sử dụng. Một lỗ hổng nghiêm trọng là thiếu chế độ tối, tiện ích mở rộng này nhằm mục đích khắc phục điều đó bằng cách áp dụng chủ đề tối trên Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Được thiết kế đẹp mắt: Được thiết kế theo nguyên tắc Material Design để phù hợp với các sản phẩm khác của Google
+- Nhanh & Nhỏ: Với kích thước dưới 50KB và không có dung lượng bộ nhớ có thể ghi, thiết bị của bạn sẽ không bị chậm
+- Bảo mật & Riêng tư: Yêu cầu quyền tối thiểu và không có dữ liệu nào được thu thập hoặc bán khiến tiện ích mở rộng này đặc biệt an toàn
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Để sử dụng tiện ích mở rộng này, hãy cài đặt Chế độ tối của Lớp học và làm mới Lớp học Google.
+Để tắt tiện ích mở rộng này, hãy truy cập trang tiện ích mở rộng của trình duyệt của bạn, tắt "Chế độ tối của lớp học" và làm mới Lớp học Google.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Tiện ích mở rộng này hoạt động trên cả tài khoản giáo viên và học sinh trên Google Classroom và bằng 55 ngôn ngữ khác nhau.
