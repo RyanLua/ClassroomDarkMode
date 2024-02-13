@@ -1,0 +1,12 @@
+Thema in de donkere modus voor Google Classroom, zodat u geen aandacht hoeft te besteden aan de les. Zeg vaarwel tegen vermoeide ogen en hallo tegen de duisternis, voor die late avonden met studeren of vroege ochtenden met huiswerk.
+
+Google Classroom is onderdeel van Google Workspace for Education en wordt gebruikt door leerlingen en docenten. Een fataal minpunt is het ontbreken van een donkere modus. Deze extensie heeft tot doel dit op te lossen door een donker thema toe te passen op Google Classroom.
+
+- Prachtig ontwerp: ontworpen volgens de richtlijnen voor materiaalontwerp, zodat deze perfect bij andere Google-producten passen
+- Snel en klein: met een grootte van minder dan 50 KB en geen opneembare geheugenruimte, kunt u geen vertragingen op uw apparaat verwachten
+- Veilig en privé: minimale machtigingen vereist en er worden nooit gegevens verzameld of verkocht, waardoor deze extensie uitzonderlijk veilig is
+
+Om deze extensie te gebruiken, installeert u Classroom Dark Mode en vernieuwt u Google Classroom.
+Om deze extensie uit te schakelen, gaat u naar de extensiepagina van uw browser, schakelt u 'Classroom Dark Mode' uit en vernieuwt u Google Classroom.
+
+Deze extensie werkt op zowel docenten- als leerlingaccounts op Google Classroom en in 55 verschillende talen.
