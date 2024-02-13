@@ -1,12 +1,12 @@
 طرح زمینه حالت تاریک برای Google Classroom، چشمان شما را برای کلاس ذخیره می کند. برای آن شب‌های آخر مطالعه یا صبح زود مشق شب، با خستگی چشم خداحافظی کنید و به تاریکی سلام کنید.
 
-Google Classroom بخشی از Google Workspace for Education است و دانش‌آموزان و معلمان از آن استفاده می‌کنند. یکی از عیب های مرگبار عدم وجود حالت تاریک آن است، هدف این افزونه رفع آن با اعمال یک تم تیره در Google Classroom است.
+Google Classroom بخشی از Google Workspace for Education است و دانش آموزان و معلمان از آن استفاده می کنند. یکی از عیب های مرگبار عدم وجود حالت تاریک آن است، هدف این افزونه رفع آن با اعمال یک تم تیره در Google Classroom است.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- طراحی زیبا: طراحی شده با دستورالعمل های طراحی متریال برای تطبیق با سایر محصولات Google
+- سریع و کوچک: با اندازه کمتر از 50 کیلوبایت و بدون حافظه قابل ضبط، انتظار کاهش سرعت دستگاه خود را نداشته باشید
+- ایمن و خصوصی: حداقل مجوزها مورد نیاز است و هیچ داده ای جمع آوری یا فروخته نشده است، این برنامه افزودنی را فوق العاده ایمن می کند
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-برای غیرفعال کردن این برنامه افزودنی، به صفحه برنامه های افزودنی مرورگر خود بروید، «حالت تاریک Classroom» را غیرفعال کنید و Google Classroom را بازخوانی کنید.
+برای استفاده از این برنامه افزودنی، Classroom Dark Mode را نصب کنید و Google Classroom را بازخوانی کنید.
+برای غیرفعال کردن این برنامه افزودنی، به صفحه برنامه های افزودنی مرورگر خود بروید، "Classroom Dark Mode" را غیرفعال کنید و Google Classroom را بازخوانی کنید.
 
 این برنامه افزودنی بر روی حساب معلم و دانش آموز در Google Classroom و به 55 زبان مختلف کار می کند.
