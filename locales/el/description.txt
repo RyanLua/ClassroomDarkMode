@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Θέμα Dark mode για το Google Classroom, εξοικονομώντας τα μάτια σας για το μάθημα. Για εκείνα τα αργά βράδια μελέτης ή τα ξημερώματα για το σπίτι, πείτε αντίο στην καταπόνηση των ματιών και γεια στο σκοτάδι.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Το Google Classroom είναι μέρος του Google Workspace for Education και χρησιμοποιείται από μαθητές και καθηγητές. Ένα μοιραίο ελάττωμα είναι η έλλειψη σκοτεινής λειτουργίας, αυτή η επέκταση στοχεύει να το διορθώσει εφαρμόζοντας ένα σκοτεινό θέμα στο Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Όμορφα σχεδιασμένο: Σχεδιασμένο με οδηγίες σχεδιασμού υλικού για να ταιριάζει απόλυτα με άλλα προϊόντα Google
+- Γρήγορο και μικρό: Με μέγεθος μικρότερο από 50 KB και χωρίς αποτύπωμα εγγράψιμης μνήμης, περιμένετε μηδενικές επιβραδύνσεις στη συσκευή σας
+- Ασφαλής & Ιδιωτική: Απαιτούνται ελάχιστες άδειες και κανένα στοιχείο που συλλέγεται ή πωλείται ποτέ καθιστά αυτήν την επέκταση εξαιρετικά ασφαλή
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Για να χρησιμοποιήσετε αυτήν την επέκταση, εγκαταστήστε τη σκοτεινή λειτουργία Classroom και ανανεώστε το Google Classroom.
+Για να απενεργοποιήσετε αυτήν την επέκταση, μεταβείτε στη σελίδα επεκτάσεων του προγράμματος περιήγησής σας, απενεργοποιήστε τη "Σκοτεινή λειτουργία Classroom" και ανανεώστε το Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Αυτή η επέκταση λειτουργεί τόσο σε λογαριασμούς καθηγητών όσο και μαθητών στο Google Classroom και σε 55 διαφορετικές γλώσσες.
