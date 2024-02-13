@@ -2,11 +2,11 @@
 
 Το Google Classroom είναι μέρος του Google Workspace for Education και χρησιμοποιείται από μαθητές και καθηγητές. Ένα μοιραίο ελάττωμα είναι η έλλειψη σκοτεινής λειτουργίας, αυτή η επέκταση στοχεύει να το διορθώσει εφαρμόζοντας ένα σκοτεινό θέμα στο Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Όμορφα σχεδιασμένο: Σχεδιασμένο με οδηγίες σχεδίασης υλικού για να ταιριάζει με άλλα προϊόντα Google
+- Γρήγορο και μικρό: Με μέγεθος μικρότερο από 50 KB και χωρίς αποτύπωμα εγγράψιμης μνήμης, περιμένετε μηδενικές επιβραδύνσεις στη συσκευή σας
+- Ασφαλές και απόρρητο: Απαιτούνται ελάχιστες άδειες και χωρίς δεδομένα που συλλέγονται ή πωλούνται ποτέ, καθιστούν αυτήν την επέκταση εξαιρετικά ασφαλή
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+Για να χρησιμοποιήσετε αυτήν την επέκταση, εγκαταστήστε τη σκοτεινή λειτουργία Classroom και ανανεώστε το Google Classroom.
 Για να απενεργοποιήσετε αυτήν την επέκταση, μεταβείτε στη σελίδα επεκτάσεων του προγράμματος περιήγησής σας, απενεργοποιήστε τη "Σκοτεινή λειτουργία Classroom" και ανανεώστε το Google Classroom.
 
 Αυτή η επέκταση λειτουργεί τόσο σε λογαριασμούς καθηγητών όσο και μαθητών στο Google Classroom και σε 55 διαφορετικές γλώσσες.
