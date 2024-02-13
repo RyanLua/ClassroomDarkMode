@@ -2,11 +2,11 @@ Mørk tilstandstema til Google Classroom, der sparer dine øjne til klassen. For
 
 Google Classroom er en del af Google Workspace for Education og bruges af elever og lærere. En fatal fejl er dens mangel på mørk tilstand, denne udvidelse har til formål at rette op på det ved at anvende et mørkt tema på Google Classroom.
 
-- Smukt designet: Designet med retningslinjer for materialedesign, så de passer ind i andre Google-produkter
-- Hurtig og lille: Med mindre end 50 KB i størrelse og intet optageligt hukommelsesfodaftryk, kan du forvente nul opbremsninger på din enhed
-- Sikker og privat: Minimale tilladelser påkrævet, og ingen data indsamlet eller solgt nogensinde gør denne udvidelse usædvanlig sikker
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-For at bruge denne udvidelse skal du installere Classroom Dark Mode og opdatere Google Classroom.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 For at deaktivere denne udvidelse skal du gå til din browsers udvidelsesside, deaktivere "Classroom Dark Mode" og opdatere Google Classroom.
 
 Denne udvidelse fungerer på både lærer- og elevkonti på Google Classroom og på 55 forskellige sprog.
