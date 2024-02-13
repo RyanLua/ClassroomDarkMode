@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Tema della modalità oscura per Google Classroom, che ti fa risparmiare gli occhi per la lezione. Per quelle notti trascorse a studiare o le prime mattine a fare i compiti, dì addio all'affaticamento degli occhi e benvenuto all'oscurità.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom fa parte di Google Workspace for Education ed è utilizzato da studenti e insegnanti. Un difetto fatale è la mancanza della modalità oscura, questa estensione mira a risolverlo applicando un tema scuro su Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Design accattivante: progettato secondo le linee guida di Material Design per adattarsi perfettamente ad altri prodotti Google
+- Veloce e piccolo: con meno di 50KB di dimensione e nessun ingombro di memoria registrabile, non aspettarti alcun rallentamento per il tuo dispositivo
+- Sicuro e privato: autorizzazioni minime richieste e nessun dato raccolto o venduto rendono questa estensione eccezionalmente sicura
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Per utilizzare questa estensione, installa Classroom Dark Mode e aggiorna Google Classroom.
+Per disattivare questa estensione, vai alla pagina delle estensioni del tuo browser, disattiva la "Modalità oscura di Classroom" e aggiorna Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Questa estensione funziona sia sugli account insegnante che su quello studente su Google Classroom e in 55 lingue diverse.
