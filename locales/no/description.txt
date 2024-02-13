@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Mørk modus-tema for Google Classroom, sparer øynene dine for klassen. For de sene nettene med studier eller tidlige morgener med lekser, si farvel til anstrengte øyne og hei til mørket.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom er en del av Google Workspace for Education og brukes av elever og lærere. En fatal feil er mangelen på mørk modus, denne utvidelsen tar sikte på å fikse det ved å bruke et mørkt tema på Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Vakkert designet: Designet med retningslinjer for materialdesign for å passe inn med andre Google-produkter
+- Rask og liten: Med mindre enn 50 kB i størrelse og ingen skrivbar minnefotavtrykk, forvent null bremser for enheten din
+- Sikkert og privat: Minimale tillatelser kreves og ingen data samlet inn eller solgt gjør denne utvidelsen eksepsjonelt sikker
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+For å bruke denne utvidelsen, installer Classroom Dark Mode og oppdater Google Classroom.
+For å deaktivere denne utvidelsen, gå til nettleserens utvidelsesside, deaktiver «Mørk modus i Classroom» og oppdater Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+Denne utvidelsen fungerer på både lærer- og elevkontoer på Google Classroom og på 55 forskjellige språk.
