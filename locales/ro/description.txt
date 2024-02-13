@@ -1,12 +1,12 @@
-Tema modului întunecat pentru Google Classroom, salvându-ți ochii pentru curs. Pentru acele nopți târzii de studiu sau diminețile devreme de teme, spuneți la revedere oboselii ochilor și salutați întunericului.
+Tema modului întunecat pentru Google Classroom, salvându-ți ochii pentru curs. Pentru acele nopți târzii de studiu sau dimineața devreme de teme, spune adio oboselii ochilor și salută întunericul.
 
 Google Classroom face parte din Google Workspace for Education și este folosit de studenți și profesori. Un defect fatal este lipsa modului întunecat, această extensie își propune să remedieze acest lucru prin aplicarea unei teme întunecate pe Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Design frumos: proiectat în conformitate cu instrucțiunile de design de materiale pentru a se potrivi perfect cu alte produse Google.
+- Rapid și mic: cu o dimensiune mai mică de 50 KB și fără amprentă de memorie care poate fi înregistrată, așteptați-vă la zero încetiniri pentru dispozitivul dvs.
+- Securizat și privat: permisiunile minime necesare și nicio dată colectată sau vândută face ca această extensie să fie excepțional de sigură
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+Pentru a utiliza această extensie, instalați Classroom Dark Mode și reîmprospătați Google Classroom.
 Pentru a dezactiva această extensie, accesați pagina cu extensii a browserului dvs., dezactivați „Modul întunecat Classroom” și reîmprospătați Google Classroom.
 
 Această extensie funcționează atât pe conturile de profesor, cât și pe conturile de student din Google Classroom și în 55 de limbi diferite.
