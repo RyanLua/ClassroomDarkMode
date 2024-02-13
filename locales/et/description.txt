@@ -1,12 +1,12 @@
-Tumeda režiimi teema Google Classroomile, säästes teie pilku tunni jaoks. Hilisõhtul õppimise või kodutööde varahommikul jätke silmade väsimisega hüvasti ja tere pimedusega.
+Tumeda režiimi teema Google Classroomile, säästes teie pilku tunni jaoks. Nendeks hilisteks õhtuteks õppimiseks või varahommikusteks kodutöödeks jätke silmade väsimusega hüvasti ja tere pimedusega.
 
 Google Classroom on osa Google Workspace for Educationist ning seda kasutavad õpilased ja õpetajad. Üks saatuslik viga on tumeda režiimi puudumine. Selle laienduse eesmärk on see parandada, rakendades Google Classroomis tumedat teemat.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+– Kauni kujundusega: disainitud vastavalt materjalidisaini juhistele, et sobituda täpselt teiste Google'i toodetega
+– Kiire ja väike: vähem kui 50 kB suuruse ja salvestatava mälumahu puudumise tõttu ei pea teie seade aeglustuma
+– Turvaline ja privaatne: nõutavad minimaalsed õigused ning kogutud ega müüdud andmed muudavad selle laienduse erakordselt turvaliseks
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+Selle laienduse kasutamiseks installige Classroomi tume režiim ja värskendage Google Classroomi.
 Selle laienduse keelamiseks minge oma brauseri laienduste lehele, keelake "Classroomi tume režiim" ja värskendage Google Classroomi.
 
-See laiendus töötab nii õpetaja kui ka õpilase kontodel teenuses Google Classroom ja 55 erinevas keeles.
+See laiendus töötab nii õpetajate kui ka õpilaste Google Classroomi kontodel ja 55 erinevas keeles.
