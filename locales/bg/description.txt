@@ -2,11 +2,11 @@
 
 Google Classroom е част от Google Workspace for Education и се използва от ученици и учители. Един фатален недостатък е липсата на тъмен режим, това разширение има за цел да поправи това чрез прилагане на тъмна тема в Google Classroom.
 
-- Красив дизайн: Проектиран с указанията за материален дизайн, за да пасне точно на други продукти на Google
-- Бърз и малък: С размер под 50 KB и без отпечатък на паметта за запис, очаквайте нулево забавяне на вашето устройство
-- Сигурно и лично: Необходими са минимални разрешения и никакви събрани или продадени данни правят това разширение изключително безопасно
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-За да използвате това разширение, инсталирайте тъмния режим на Classroom и обновете Google Classroom.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 За да деактивирате това разширение, отидете на страницата с разширения на браузъра си, деактивирайте „Тъмен режим на класната стая“ и опреснете Google Classroom.
 
 Това разширение работи както на учителски, така и на ученически акаунти в Google Classroom и на 55 различни езика.
