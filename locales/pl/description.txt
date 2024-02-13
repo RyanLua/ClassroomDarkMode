@@ -1,12 +1,12 @@
-Dark mode theme for Google Classroom, saving your eyes for class. For those late nights of studying or early mornings of homework, say goodbye to eye strain and hello to darkness.
+Motyw trybu ciemnego dla Google Classroom, oszczędzający wzrok na zajęciach. W przypadku późnych nocy spędzonych na nauce lub wczesnych poranków odrabiania zadań domowych, pożegnaj zmęczenie oczu i przywitaj się z ciemnością.
 
-Google Classroom is part of Google Workspace for Education and is used by students and teachers. One fatal flaw is its lack of dark mode, this extension aims to fix that by applying a dark theme on Google Classroom.
+Google Classroom jest częścią Google Workspace for Education i jest używany przez uczniów i nauczycieli. Fatalną wadą jest brak trybu ciemnego. To rozszerzenie ma na celu naprawienie tego problemu poprzez zastosowanie ciemnego motywu w Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Pięknie zaprojektowane: zaprojektowane zgodnie z wytycznymi Material Design, aby idealnie pasować do innych produktów Google
+- Szybki i mały: przy rozmiarze mniejszym niż 50 KB i braku nagrywalnej pamięci nie należy spodziewać się żadnego spowolnienia działania urządzenia
+- Bezpieczne i prywatne: wymagane są minimalne uprawnienia, a żadne dane nie są gromadzone ani sprzedawane, co czyni to rozszerzenie wyjątkowo bezpiecznym
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
-To disable this extension, go to your browser's extensions page, disable "Classroom Dark Mode", and refresh Google Classroom.
+Aby skorzystać z tego rozszerzenia, zainstaluj Classroom Dark Mode i odśwież Google Classroom.
+Aby wyłączyć to rozszerzenie, przejdź do strony rozszerzeń swojej przeglądarki, wyłącz „Tryb ciemny Classroom” i odśwież Google Classroom.
 
-This extension works on both teacher and student accounts on Google Classroom and in 55 different languages.
+To rozszerzenie działa zarówno na kontach nauczycieli, jak i uczniów w Google Classroom oraz w 55 różnych językach.
