@@ -2,11 +2,11 @@ Tema de modo oscuro para Google Classroom, que guarda tus ojos para la clase. Pa
 
 Google Classroom es parte de Google Workspace for Education y lo utilizan estudiantes y profesores. Un defecto fatal es la falta de modo oscuro; esta extensión tiene como objetivo solucionarlo aplicando un tema oscuro en Google Classroom.
 
-- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
-- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
-- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
+- Bellamente diseñado: diseñado con pautas de Material Design para encajar perfectamente con otros productos de Google
+- Rápido y pequeño: con menos de 50 KB de tamaño y sin espacio de memoria grabable, no espere ninguna desaceleración en su dispositivo
+- Seguro y privado: se requieren permisos mínimos y ningún dato recopilado o vendido hace que esta extensión sea excepcionalmente segura
 
-To use this extension, install Classroom Dark Mode and refresh Google Classroom.
+Para usar esta extensión, instale Classroom Dark Mode y actualice Google Classroom.
 Para desactivar esta extensión, vaya a la página de extensiones de su navegador, desactive el "Modo oscuro de Classroom" y actualice Google Classroom.
 
 Esta extensión funciona tanto en cuentas de profesores como de estudiantes en Google Classroom y en 55 idiomas diferentes.
