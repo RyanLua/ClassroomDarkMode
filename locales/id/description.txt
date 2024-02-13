@@ -2,11 +2,11 @@ Tema mode gelap untuk Google Kelas, sehingga tidak perlu memperhatikan kelas. Un
 
 Google Classroom adalah bagian dari Google Workspace for Education dan digunakan oleh siswa dan guru. Salah satu kelemahan fatalnya adalah kurangnya mode gelap, ekstensi ini bertujuan untuk memperbaikinya dengan menerapkan tema gelap di Google Classroom.
 
-- Didesain dengan indah: Dirancang dengan pedoman Desain Material agar sesuai dengan produk Google lainnya
-- Cepat & Kecil: Dengan ukuran kurang dari 50KB dan tidak ada jejak memori yang dapat direkam, tidak ada perlambatan pada perangkat Anda
-- Aman & Pribadi: Izin minimal yang diperlukan dan tidak ada data yang dikumpulkan atau dijual membuat ekstensi ini sangat aman
+- Beautifully designed: Designed with Material Design guidelines to fit right in with other Google products
+- Fast & Small: With less than 50KB in size and no recordable memory footprint, expect zero slowdowns to your device
+- Secure & Private: Minimal permissions required and no data collected or sold ever makes this extension exceptionally safe
 
-Untuk menggunakan ekstensi ini, instal Mode Gelap Kelas dan segarkan Google Kelas.
+To use this extension, install Classroom Dark Mode and refresh Google Classroom.
 Untuk menonaktifkan ekstensi ini, buka laman ekstensi browser Anda, nonaktifkan "Mode Gelap Kelas", dan segarkan Google Kelas.
 
 Ekstensi ini berfungsi pada akun guru dan siswa di Google Kelas dan dalam 55 bahasa berbeda.
