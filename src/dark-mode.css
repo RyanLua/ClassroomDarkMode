@@ -498,6 +498,10 @@ body {
     0 2px 6px 2px var(--shadow-medium) !important;
 }
 
+.neggzd {
+  text-shadow: 0 0 0.7em rgb(255 255 255 / 55%);
+}
+
 .tUJKGd:not(:first-child) {
   border-color: var(--bd-secondary-color) !important;
 }
