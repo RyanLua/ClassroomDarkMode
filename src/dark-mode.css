@@ -40,6 +40,17 @@ body {
 }
 
 /* Navbar */
+.gb_Pa svg,
+.gb_Tc svg,
+.gb_fd .gb_od,
+.gb_5c .gb_od {
+  color: var(--font-color) !important;
+}
+
+.gb_d[aria-expanded="true"] .gb_h {
+  fill: var(--font-color) !important;
+}
+
 .joJglb {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
