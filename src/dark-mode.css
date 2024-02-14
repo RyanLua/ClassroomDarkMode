@@ -499,7 +499,7 @@ body {
 }
 
 .neggzd {
-  text-shadow: 0 0 0.7em rgb(255 255 255 / 55%);
+  text-shadow: 0 0 0.7em rgb(255 255 255 / 55%) !important;
 }
 
 .tUJKGd:not(:first-child) {
@@ -941,7 +941,8 @@ body {
   background-color: var(--bg-color) !important;
 }
 
-.hYt5f.FRDm8d .WkZsyc:not(:last-child), .hYt5f.FRDm8d .Kql9ed:not(:last-child) {
+.hYt5f.FRDm8d .WkZsyc:not(:last-child),
+.hYt5f.FRDm8d .Kql9ed:not(:last-child) {
   border-color: var(--bd-color) !important;
 }
 
@@ -1312,17 +1313,17 @@ input.tAUuQ {
 .UvHKof .VnOHwf-Tvm9db,
 .UvHKof.CNpREd.VnOHwf-Tvm9db,
 .UvHKof.CNpREd .VnOHwf-Tvm9db {
-  color: #fff;
-  fill: #fff;
+  color: #fff !important;
+  fill: #fff !important;
 }
 
 .UvHKof.bFjUmb-Tvm9db,
 .UvHKof .bFjUmb-Tvm9db,
 .UvHKof.CNpREd.bFjUmb-Tvm9db,
 .UvHKof.CNpREd .bFjUmb-Tvm9db {
-  background-color: #606367;
+  background-color: #606367 !important;
 }
 
 .UvHKof .eumXzf:after {
-  border-color: #606367;
+  border-color: #606367 !important;
 }
