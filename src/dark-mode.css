@@ -90,6 +90,10 @@ body {
     0 8px 12px 6px var(--shadow-medium) !important;
 }
 
+.gb_Ra svg, .gb_Vc svg, .gb_hd .gb_pd, .gb_7c .gb_pd {
+  color: var(--font-color) !important;
+}
+
 /* Sidebar */
 .ETRkCe {
   background-color: var(--bg-color) !important;
