@@ -83,8 +83,18 @@ body {
     0 8px 12px 6px var(--shadow-medium) !important;
 }
 
-.gb_Ra svg, .gb_Vc svg, .gb_hd .gb_pd, .gb_7c .gb_pd {
+.gb_Ra svg,
+.gb_Vc svg,
+.gb_hd .gb_pd,
+.gb_7c .gb_pd {
   color: var(--font-color) !important;
+}
+
+.kYtXye.bFjUmb-Ysl7Fe,
+.kYtXye .bFjUmb-Ysl7Fe,
+.kYtXye.CNpREd.bFjUmb-Ysl7Fe,
+.kYtXye.CNpREd .bFjUmb-Ysl7Fe {
+  background-color: var(--blue-hover) !important;
 }
 
 /* Sidebar */
