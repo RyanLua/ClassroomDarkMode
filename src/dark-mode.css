@@ -572,6 +572,14 @@ body {
   color: var(--font-secondary-color) !important;
 }
 
+.RcHwO {
+  border-bottom-color: var(--bd-color) !important;
+}
+
+.Iwp0Ue:not(:first-child) {
+  border-top-color: var(--bd-secondary-color) !important;
+}
+
 /* Classwork hover */
 .tfGBod.rZXyy:not(.xp2dJ):hover .jWCzBe {
   background-color: var(--gray-hover) !important;
