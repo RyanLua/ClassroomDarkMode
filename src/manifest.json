@@ -14,7 +14,8 @@
   "content_scripts": [
     {
       "matches": ["https://classroom.google.com/*"],
-      "css": ["dark-mode.css"]
+      "css": ["dark-mode.css"],
+      "run_at": "document_start"
     }
   ],
   "author": "ryan.luu@ryanluu.dev"
