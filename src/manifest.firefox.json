@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "__MSG_application_title__",
   "description": "__MSG_application_description__",
   "homepage_url": "https://classroomdarkmode.ryanluu.dev/",
@@ -13,10 +13,14 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://classroom.google.com/*"],
-      "css": ["dark-mode.css"],
-      "run_at": "document_start"
+      "matches": ["https://classroom.google.com/*"],
+      "css": ["dark-mode.css"]
     }
   ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "classroomdarkmode@ryanluu.dev"
+    }
+  },
   "author": "ryan.luu@ryanluu.dev"
 }
