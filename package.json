@@ -1,0 +1,18 @@
+{
+  "name": "classroomdarkmode",
+  "version": "0.1.1",
+  "description": "Dark mode for Google Classroom based on Material Design",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanLua/ClassroomDarkMode.git"
+  },
+  "author": "Ryan Luu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/RyanLua/ClassroomDarkMode/issues"
+  },
+  "homepage": "https://github.com/RyanLua/ClassroomDarkMode#readme"
+}
