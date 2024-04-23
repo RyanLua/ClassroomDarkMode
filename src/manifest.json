@@ -13,7 +13,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://classroom.google.com/*"],
+      "matches": ["*://classroom.google.com/*"],
       "css": ["dark-mode.css"],
       "run_at": "document_start"
     }
