@@ -13,8 +13,9 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://classroom.google.com/*"],
-      "css": ["dark-mode.css"]
+      "matches": ["*://classroom.google.com/*"],
+      "css": ["dark-mode.css"],
+      "run_at": "document_start"
     }
   ],
   "browser_specific_settings": {
