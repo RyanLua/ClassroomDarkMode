@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/RyanLua/ClassroomDarkMode#readme",
   "devDependencies": {
-    "eslint": "8.57.0",
+    "eslint": "9.4.0",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-jest": "^27.9.0",
