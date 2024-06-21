@@ -10,10 +10,3 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "daily"
-    allow:
-      # Allow both direct and indirect updates for all packages
-      - dependency-type: "all"
