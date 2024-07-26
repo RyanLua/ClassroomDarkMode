@@ -113,19 +113,23 @@ body {
   background-color: var(--green-hover) !important;
 }
 
-.ez2f3.bFjUmb-Ysl7Fe.Fh209b, .ez2f3 .bFjUmb-Ysl7Fe.Fh209b {
+.ez2f3.bFjUmb-Ysl7Fe.Fh209b,
+.ez2f3 .bFjUmb-Ysl7Fe.Fh209b {
   background-color: var(--pink-hover) !important;
 }
 
-.IqjVqf.bFjUmb-Ysl7Fe.Fh209b, .IqjVqf .bFjUmb-Ysl7Fe.Fh209b {
+.IqjVqf.bFjUmb-Ysl7Fe.Fh209b,
+.IqjVqf .bFjUmb-Ysl7Fe.Fh209b {
   background-color: var(--orange-hover) !important;
 }
 
-.kiR7tf.bFjUmb-Ysl7Fe.Fh209b, .kiR7tf .bFjUmb-Ysl7Fe.Fh209b {
+.kiR7tf.bFjUmb-Ysl7Fe.Fh209b,
+.kiR7tf .bFjUmb-Ysl7Fe.Fh209b {
   background-color: var(--teal-hover) !important;
 }
 
-.KrJjFb.bFjUmb-Ysl7Fe.Fh209b, .KrJjFb .bFjUmb-Ysl7Fe.Fh209b {
+.KrJjFb.bFjUmb-Ysl7Fe.Fh209b,
+.KrJjFb .bFjUmb-Ysl7Fe.Fh209b {
   background-color: var(--purple-hover) !important;
 }
 
@@ -1034,6 +1038,10 @@ body {
 }
 
 /* Customize */
+.b9hyVd:not(:disabled) {
+  background-color: var(--bg-color) !important;
+}
+
 .YhQJj {
   background-color: var(--bg-color) !important;
 }
