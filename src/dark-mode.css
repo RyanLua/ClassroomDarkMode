@@ -549,6 +549,33 @@ body {
 }
 
 /* Classwork */
+.Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover.rXdid,
+.Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover.h7Ww0,
+.Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover .rXdid,
+.Iwp0Ue:not(.xp2dJ):not(.rZXyy):hover .h7Ww0,
+.xWw7yd:hover.rXdid,
+.xWw7yd:hover.h7Ww0,
+.xWw7yd:hover .rXdid,
+.xWw7yd:hover .h7Ww0 {
+  background-color: var(--gray-hover) !important;
+}
+
+.uO32ac,
+.ypv4re {
+  border-bottom-color: var(--bd-secondary-color) !important;
+}
+
+.Iwp0Ue:not(.xp2dJ):focus-within.JiTjnd,
+.Iwp0Ue:not(.xp2dJ):focus-within.h7Ww0,
+.Iwp0Ue:not(.xp2dJ) :focus-within.JiTjnd,
+.Iwp0Ue:not(.xp2dJ) :focus-within.h7Ww0,
+.xWw7yd:focus-within.JiTjnd,
+.xWw7yd:focus-within.h7Ww0,
+.xWw7yd :focus-within.JiTjnd,
+.xWw7yd :focus-within.h7Ww0 {
+  background-color: var(--white-hover) !important;
+}
+
 .lXuxY,
 .pO6AMc,
 .PqkECe {
