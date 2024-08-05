@@ -47,6 +47,13 @@ body {
   color: var(--font-color) !important;
 }
 
+.gb_ha svg,
+.gb_Mc svg,
+.gb_8c .gb_gd,
+.gb_Xc .gb_gd {
+  color: var(--font-color) !important;
+}
+
 .gb_d[aria-expanded="true"] .gb_h {
   fill: var(--font-color) !important;
 }
