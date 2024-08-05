@@ -1405,7 +1405,7 @@ thead .vvqDLc {
 }
 
 .RMrItf {
-  color: var(--font-secondary-color) !important;
+  color: var(--font-color) !important;
 }
 
 .gEOtL {
@@ -1421,21 +1421,21 @@ thead .vvqDLc {
   color: var(--font-secondary-color) !important;
 }
 
-.jlfrG:before {
-  background-color: transparent !important;
-}
-
-.jlfrG:after {
-  background-color: transparent !important;
-}
-
 .R5iLrf.u3bW4e,
 .R5iLrf.yXgmRe:hover {
   background-color: var(--white-hover) !important;
 }
 
 .jlfrG:before {
-  background-color: var(--bd-secondary-color) !important;
+  background: transparent !important;
+}
+
+.jlfrG:after {
+  background: transparent !important;
+}
+
+.OK1tJe {
+  background-color: var(--bd-color) !important;
 }
 
 /* Return work */
