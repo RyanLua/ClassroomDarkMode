@@ -1603,3 +1603,11 @@ input.tAUuQ {
 .UvHKof .eumXzf:after {
   border-color: #606367 !important;
 }
+
+/* Grading */
+
+.WbZEIe {
+  background-color: var(--bg-secondary-color) !important;
+  display: flex;
+  overflow: hidden;
+}
