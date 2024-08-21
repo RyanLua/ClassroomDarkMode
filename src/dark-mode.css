@@ -47,6 +47,14 @@ body {
   color: var(--font-color) !important;
 }
 
+.gb_Da svg,
+.gb_Nc svg,
+.gb_pd .gb_qd,
+.gb_0c .gb_qd {
+  color: var(--font-color) !important;
+  opacity: 1;
+}
+
 .gb_ha svg,
 .gb_Mc svg,
 .gb_8c .gb_gd,
