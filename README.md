@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" alt="Classroom Dark Mode Logo" src="assets/Logo.png" />
+  <img width="100" alt="Classroom Dark Mode Logo" src="assets/Logo.svg" />
   <h1 align="center">Classroom Dark Mode</h1>
 </p>
 
@@ -16,10 +16,10 @@ An extension that enables dark mode for Google Classroom using custom CSS based 
 
 ## Installation
 
-[![Chrome Web Store](https://img.shields.io/badge/download-chrome?logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
-[![Edge Add-ons](https://img.shields.io/badge/download-edge?logo=microsoftedge&label=Edge%20Add-ons)](https://microsoftedge.microsoft.com/addons/detail/fhpldkanibjpfcecmiibplfmbhnabogo)
-[![Firefox Add-ons](https://img.shields.io/badge/download-Firefox?logo=firefox&logoColor=white&label=Firefox%20add-ons)](https://addons.mozilla.org/en-US/firefox/addon/classroom-dark-mode/)
-[![Opera Add-ons](https://img.shields.io/badge/download-opera?logo=opera&logoColor=white&label=Opera%20add-ons)](https://addons.opera.com/en/extensions/details/classroom-dark-mode)
+[<img src="assets/ChromeBadge.svg" alt="Chrome Web Store" height="64">](https://chromewebstore.google.com/detail/aaaccioflcfjgpdjonmjcmjkkgonpjfc)
+[<img src="assets/EdgeBadge.svg" alt="Edge Add-ons" height="64">](https://microsoftedge.microsoft.com/addons/detail/fhpldkanibjpfcecmiibplfmbhnabogo)
+[<img src="assets/FirefoxBadge.svg" alt="Firefox Add-ons" height="64">](https://addons.mozilla.org/en-US/firefox/addon/classroom-dark-mode/)
+[<img src="assets/OperaBadge.svg" alt="Opera Add-ons" height="64">](https://addons.opera.com/en/extensions/details/classroom-dark-mode)
 
 ### Install from store (Recommended)
 
