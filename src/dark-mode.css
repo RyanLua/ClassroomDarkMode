@@ -39,6 +39,10 @@ body {
   background-color: var(--bg-color) !important;
 }
 
+.N6nSod {
+  background-color: rgba(var(--bg-color-rgb), 0.85) !important;
+}
+
 /* Navbar */
 .gb_Pa svg,
 .gb_Tc svg,
