@@ -1,0 +1,11 @@
+{
+	"name": "Classroom Dark Mode",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"stylelint.vscode-stylelint"
+			]
+		}
+	}
+}
