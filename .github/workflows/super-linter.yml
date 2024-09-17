@@ -5,6 +5,7 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
+
 jobs:
   run-lint:
     runs-on: ubuntu-latest
@@ -18,5 +19,6 @@ jobs:
       - name: Lint Code Base
         uses: github/super-linter@v4
         env:
-          DEFAULT_BRANCH: "main"
+          FIX_CSS: true
+          VALIDATE_ALL_CODEBASE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
