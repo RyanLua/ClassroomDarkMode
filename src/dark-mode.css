@@ -489,10 +489,6 @@ body {
 }
 
 /* Stream */
-body {
-  color: var(--font-color) !important;
-}
-
 .dDKhVc {
   color: var(--font-secondary-color) !important;
 }
@@ -649,7 +645,6 @@ body {
   border-color: var(--bd-secondary-color) !important;
 }
 
-.lXuxY,
 .pO6AMc,
 .PqkECe {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy),
@@ -1333,10 +1328,6 @@ thead .vvqDLc {
 
 .Pbki4b.O0HS9e::before {
   border-color: var(--bd-color) !important;
-}
-
-.dDKhVc {
-  color: var(--font-secondary-color) !important;
 }
 
 /* Reuse post */
