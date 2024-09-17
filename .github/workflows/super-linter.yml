@@ -21,6 +21,8 @@ jobs:
         env:
           LINTER_RULES_PATH: "/"
           FIX_CSS: true
+          FIX_JSON: true
           VALIDATE_CSS: true
+          VALIDATE_JSON: true
           VALIDATE_ALL_CODEBASE: false
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
