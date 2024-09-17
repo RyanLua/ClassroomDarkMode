@@ -21,7 +21,12 @@ jobs:
         env:
           FIX_CSS: true
           FIX_JSON: true
+          FIX_MARKDOWN: true
           VALIDATE_CSS: true
+          VALIDATE_GITHUB_ACTIONS: true
           VALIDATE_JSON: true
-          VALIDATE_ALL_CODEBASE: false
+          VALIDATE_MARKDOWN: true
+          VALIDATE_MARKDOWN_PRETTIER: true
+          VALIDATE_YAML: true
+          VALIDATE_YAML_PRETTIER: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
