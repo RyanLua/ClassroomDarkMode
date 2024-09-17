@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  lint:
+  run-lint:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -17,9 +17,9 @@ jobs:
           fetch-depth: 0
 
       - name: Lint Code Base
-        uses: super-linter/super-linter@v7.1.0
+        uses: github/super-linter@v7
         env:
-          CSS_FILE_NAME: ".stylelintrc.json"
+          LINTER_RULES_PATH: "/"
           FIX_CSS: true
           FIX_JSON: true
           VALIDATE_CSS: true
