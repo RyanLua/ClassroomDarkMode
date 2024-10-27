@@ -1014,6 +1014,14 @@ body {
   background-color: var(--white-hover) !important;
 }
 
+.CAntkd:focus, .S6Vdac:focus {
+  background-color: var(--white-hover) !important;
+}
+
+.LKmtKf:hover, .S6Vdac:hover {
+  background-color: var(--gray-hover) !important;
+}
+
 /* Archived classes */
 .onkcGd,
 .onkcGd:visited,
