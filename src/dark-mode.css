@@ -986,6 +986,10 @@ body {
   background-color: var(--gray-hover) !important;
 }
 
+.VKRoqe {
+  border-color: var(--bd-secondary-color) !important;
+}
+
 /* Calendar */
 .RIDjNe {
   border-color: var(--bd-color) !important;
