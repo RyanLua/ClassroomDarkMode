@@ -448,6 +448,10 @@ body {
   background-color: var(--gray-hover) !important;
 }
 
+.hN1OOc.eumXzf:hover, .hN1OOc.eumXzf:focus {
+  background-color: var(--blue-hover) !important;
+}
+
 /* Submenu */
 .VfPpkd-xl07Ob-XxIAqe {
   background-color: var(--bg-color) !important;
