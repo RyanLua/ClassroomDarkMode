@@ -4,22 +4,32 @@ set -e
 echo "Building Classroom Dark Mode extension..."
 
 VERSION=$(grep -oP '"version":\s*"\K[0-9.]+(?=")' src/manifest.json)
-CHROMIUM_BUILD_DIR="builds/ClassroomDarkMode-$VERSION-chromium"
-FIREFOX_BUILD_DIR="builds/ClassroomDarkMode-$VERSION-firefox"
+BUILD_DIR="builds"
+CHROMIUM_FOLDER="ClassroomDarkMode-$VERSION-chromium"
+FIREFOX_FOLDER="ClassroomDarkMode-$VERSION-firefox"
+
+# Setup build directory
+rm -rf "$BUILD_DIR"
+mkdir -p "$BUILD_DIR"
+cd "$BUILD_DIR"
 
 # Build Chromium extension
-mkdir -p "$CHROMIUM_BUILD_DIR"
-cp -r src/* "$CHROMIUM_BUILD_DIR"
-rm "$CHROMIUM_BUILD_DIR/manifest.firefox.json"
-zip -rq "$CHROMIUM_BUILD_DIR.zip" "$CHROMIUM_BUILD_DIR"
+mkdir -p "$CHROMIUM_FOLDER"
+cp -r ../src/* "$CHROMIUM_FOLDER"
+rm "$CHROMIUM_FOLDER/manifest.firefox.json"
+cd "$CHROMIUM_FOLDER"
+zip -rq "../$CHROMIUM_FOLDER.zip" *
+cd ..
 echo "Chromium extension built successfully"
 
 # Build Firefox extension
-mkdir -p "$FIREFOX_BUILD_DIR"
-cp -r src/* "$FIREFOX_BUILD_DIR"
-cp "$FIREFOX_BUILD_DIR/manifest.firefox.json" "$FIREFOX_BUILD_DIR/manifest.json"
-rm "$FIREFOX_BUILD_DIR/manifest.firefox.json"
-zip -rq "$FIREFOX_BUILD_DIR.zip" "$FIREFOX_BUILD_DIR"
+mkdir -p "$FIREFOX_FOLDER"
+cp -r ../src/* "$FIREFOX_FOLDER"
+cp "$FIREFOX_FOLDER/manifest.firefox.json" "$FIREFOX_FOLDER/manifest.json"
+rm "$FIREFOX_FOLDER/manifest.firefox.json"
+cd "$FIREFOX_FOLDER"
+zip -rq "../$FIREFOX_FOLDER.zip" *
+cd ..
 echo "Firefox extension built successfully"
 
 echo "Build completed successfully!"
