@@ -7,5 +7,6 @@
 				"stylelint.vscode-stylelint"
 			]
 		}
-	}
+	},
+	"postCreateCommand": "chmod +x ./scripts/build.sh"
 }
