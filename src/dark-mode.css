@@ -1010,6 +1010,10 @@ body {
   background-color: var(--bg-color) !important;
 }
 
+.EN2Rfc:not(.RDPZE) .XTO5bf.y7OZL {
+  background-color: var(--white-hover) !important;
+}
+
 /* Archived classes */
 .onkcGd,
 .onkcGd:visited,
