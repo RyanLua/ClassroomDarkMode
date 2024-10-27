@@ -9,6 +9,7 @@ CHROMIUM_FOLDER="ClassroomDarkMode-$VERSION-chromium"
 FIREFOX_FOLDER="ClassroomDarkMode-$VERSION-firefox"
 
 # Setup build directory
+echo "Cleaning up build directory..."
 rm -rf "$BUILD_DIR"
 mkdir -p "$BUILD_DIR"
 cd "$BUILD_DIR"
