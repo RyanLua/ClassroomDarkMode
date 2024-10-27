@@ -6,7 +6,7 @@
         {
             "label": "Build extension",
             "type": "shell",
-            "command": "chmod +x ./scripts/build.sh && ./scripts/build.sh",
+            "command": "./scripts/build.sh",
             "group": {
                 "kind": "build",
                 "isDefault": true
