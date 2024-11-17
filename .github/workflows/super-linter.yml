@@ -1,15 +1,24 @@
-name: Lint Code Base
+name: Lint
 
 on:
   push:
     branches: [ "main" ]
+    paths:
+      - '.github/workflows/super-linter.yml'
+      - '**.css'
+      - '**.json'
   pull_request:
     branches: [ "main" ]
+    paths:
+      - '.github/workflows/super-linter.yml'
+      - '**.css'
+      - '**.json'
 
 permissions: {}
 
 jobs:
   run-lint:
+    name: Super-linter
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -23,7 +32,7 @@ jobs:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0
 
-      - name: Lint Code Base
+      - name: Run Super-linter
         uses: github/super-linter@v7
         env:
           LINTER_RULES_PATH: "/"
