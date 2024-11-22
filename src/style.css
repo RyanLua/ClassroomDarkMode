@@ -337,6 +337,11 @@ body {
   border-color: var(--bd-secondary-color) !important;
 }
 
+.TisIWb .kKn9Nc::before {
+  border: none !important;
+  background-color: var(--bg-secondary-color) !important;
+}
+
 /* Classroom tabs */
 .F4Ol1b .KEDCCd {
   border-color: var(--bd-color) !important;
@@ -461,6 +466,10 @@ body {
 /* Submenu */
 .VfPpkd-xl07Ob-XxIAqe {
   background-color: var(--bg-color) !important;
+}
+
+.VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-ibnC6b:hover {
+  background-color: var(--bg-secondary-color) !important;
 }
 
 .q6oraf .VfPpkd-StrnGf-rymPhb {
@@ -1658,4 +1667,53 @@ input.tAUuQ {
   background-color: var(--bg-secondary-color) !important;
   display: flex;
   overflow: hidden;
+}
+
+/* Introducing Generative AI for Educators */
+.GQLaCd .EvT0id .x1YNF {
+  background-color: var(--bd-secondary-color) !important;
+}
+
+/* Assets -> More actions */
+
+.ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-xl07Ob.ndfHFb-c4YZDc-z5C9Gb-xl07Ob {
+  background-color: var(--bg-secondary-color) !important;
+}
+
+.ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-xl07Ob-hgDUwe {
+  border-color: var(--bd-color) !important;
+}
+
+.ndfHFb-c4YZDc-j7LFlb:hover {
+  background-color: var(--bd-secondary-color) !important;
+}
+
+.ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-j7LFlb-Bz112c.ndfHFb-c4YZDc-C7uZwb-LgbsSe-Bz112c, .ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-bN97Pc-nupQLb-LgbsSe-Bz112c {
+  filter: invert(1) !important;
+}
+
+/* Assets -> Open with */
+
+.ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-xl07Ob, .ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-mg9Pef {
+  background-color: var(--bg-secondary-color) !important;
+}
+
+.ndfHFb-c4YZDc-j7LFlb:hover {
+  background-color: var(--bd-secondary-color) !important;
+}
+
+/* Tooltip */
+
+.tk3N6e-suEOdc {
+  background-color: var(--bg-secondary-color) !important;
+}
+
+/* Archived classes */
+.TQYOZc {
+  z-index: 1 !important;
+  background-color: var(--bg-color) !important;
+}
+
+.OmA97e {
+  z-index: 0 !important;
 }
