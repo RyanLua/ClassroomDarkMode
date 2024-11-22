@@ -490,7 +490,8 @@ body {
   box-shadow: 0 0 0 1px var(--bd-color) inset;
 }
 
-.TCFlue, .c1x9qf {
+.TCFlue,
+.c1x9qf {
   background-color: var(--bg-color) !important;
 }
 
@@ -1682,13 +1683,15 @@ input.tAUuQ {
   background-color: var(--bd-secondary-color) !important;
 }
 
-.ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-j7LFlb-Bz112c.ndfHFb-c4YZDc-C7uZwb-LgbsSe-Bz112c, .ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-bN97Pc-nupQLb-LgbsSe-Bz112c {
+.ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-j7LFlb-Bz112c.ndfHFb-c4YZDc-C7uZwb-LgbsSe-Bz112c,
+.ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-bN97Pc-nupQLb-LgbsSe-Bz112c {
   filter: invert(1) !important;
 }
 
 /* Assets -> Open with */
 
-.ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-xl07Ob, .ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-mg9Pef {
+.ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-xl07Ob,
+.ndfHFb-c4YZDc-i5oIFb.ndfHFb-c4YZDc-mg9Pef {
   background-color: var(--bg-secondary-color) !important;
 }
 
