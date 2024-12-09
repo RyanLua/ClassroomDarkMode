@@ -650,9 +650,10 @@ body {
   border-color: var(--bd-color) !important;
 }
 
-.Rj2Mlf:not(:disabled) {
+/*.Rj2Mlf:not(:disabled) {
   border-color: var(--bd-color) !important;
 }
+*/
 
 .V8apv {
   background-color: var(--gray-hover) !important;
