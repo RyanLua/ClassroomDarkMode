@@ -1711,10 +1711,12 @@ input.tAUuQ {
   z-index: 0 !important;
 }
 
+/* Header Tag FIX*/
 .fOvfyc .B7SYid{
   color: #ffffff;
 }
 
+/* Mark As Done/Unsubmit Tab*/
 .qyKend{
   color:#ffffff;
 }
@@ -1723,13 +1725,14 @@ input.tAUuQ {
   color:#ffffff !important;
 }
 
-
+/* Remove Shadow On Mark As Done/Unsubmit Tabs*/
 .cC1eCc .VfPpkd-P5QLlc{
   background-color: #454545 !important;
   border-width: 0 !important;
   box-shadow: 0 1px 3px 0 rgb(60 64 67 / 0%), 0 4px 8px 3px rgb(60 64 67 / 0%)!important;
 }
 
+/* Change Color For Readability of Adding Comment Buttons And Also Confirm Buttons i.e. "Submit/Unsubmit/Cancel"*/
 .ksBjEc:not(:disabled) {
   color: rgb(0 0 0)!important;
   color: var(--gm-colortextbutton-ink-color, rgb(0, 212, 250))!important;
