@@ -1711,9 +1711,8 @@ input.tAUuQ {
   z-index: 0 !important;
 }
 
-/* Remove Shadow On Mark As Done/Unsubmit Tabs*/
+/* Mark As Done/Unsubmit Confirmation */
 .cC1eCc .VfPpkd-P5QLlc{
-  background-color: #454545 !important;
-  border-width: 0 !important;
-  box-shadow: 0 1px 3px 0 rgb(60 64 67 / 0%), 0 4px 8px 3px rgb(60 64 67 / 0%)!important;
+  background-color: var(--bg-color) !important;
+  box-shadow: 0 1px 3px 0 var(--shadow-heavy), 0 4px 8px 3px var(--shadow-medium) !important;
 }
