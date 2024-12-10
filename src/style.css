@@ -650,10 +650,9 @@ body {
   border-color: var(--bd-color) !important;
 }
 
-/*.Rj2Mlf:not(:disabled) {
+.Rj2Mlf:not(:disabled) {
   border-color: var(--bd-color) !important;
 }
-*/
 
 .V8apv {
   background-color: var(--gray-hover) !important;
@@ -1717,15 +1716,4 @@ input.tAUuQ {
   background-color: #454545 !important;
   border-width: 0 !important;
   box-shadow: 0 1px 3px 0 rgb(60 64 67 / 0%), 0 4px 8px 3px rgb(60 64 67 / 0%)!important;
-}
-
-/* Change Color For Readability of Adding Comment Buttons And Also Confirm Buttons i.e. "Submit/Unsubmit/Cancel"*/
-.ksBjEc:not(:disabled) {
-  color: rgb(0 0 0)!important;
-  color: var(--gm-colortextbutton-ink-color, rgb(0, 212, 250))!important;
-}
-
-.Rj2Mlf:not(:disabled) {
-  color: rgb(0 0 0)!important;
-  color: var(--gm-colortextbutton-ink-color, rgb(0, 212, 250))!important;
 }
