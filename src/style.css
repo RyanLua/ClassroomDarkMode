@@ -1710,3 +1710,9 @@ input.tAUuQ {
 .OmA97e {
   z-index: 0 !important;
 }
+
+/* Mark As Done/Unsubmit Confirmation */
+.cC1eCc .VfPpkd-P5QLlc{
+  background-color: var(--bg-color) !important;
+  box-shadow: 0 1px 3px 0 var(--shadow-heavy), 0 4px 8px 3px var(--shadow-medium) !important;
+}
