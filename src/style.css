@@ -1719,5 +1719,5 @@ input.tAUuQ {
 
 /* Quick Links */
 .YLFC3e:hover, .YLFC3e:focus, .YLFC3e:focus-within {
-  background-color: var(--white-hover);
+  background-color: var(--white-hover) !important;
 }
