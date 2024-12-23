@@ -1721,3 +1721,9 @@ input.tAUuQ {
 .YLFC3e:hover, .YLFC3e:focus, .YLFC3e:focus-within {
   background-color: var(--white-hover) !important;
 }
+
+/* Skip to main content */
+.EXL71e {
+  box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium);
+  background: var(--bg-color) !important;
+}
