@@ -42,6 +42,10 @@ body {
 }
 
 /* Navbar */
+.gb_Ea svg,.gb_Oc svg, .gb_rd .gb_sd, .gb_1c .gb_sd {
+  color: var(--font-color) !important;
+}
+
 .gb_Pa svg,
 .gb_Tc svg,
 .gb_fd .gb_od,
