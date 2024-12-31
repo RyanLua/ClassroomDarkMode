@@ -30,8 +30,8 @@ Installing from the extension store is the easiest method and allows for automat
    - [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/fhpldkanibjpfcecmiibplfmbhnabogo)
    - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/classroom-dark-mode/)
    - [Opera Add-ons](https://addons.opera.com/en/extensions/details/classroom-dark-mode)
-2. Click **Add extension**.
-3. We may need certain permissions or data. To approve, click **Add extension**.
+1. Click **Add extension**.
+1. We may need certain permissions or data. To approve, click **Add extension**.
    - **Important:** Make sure you only approve extensions that you trust.
 
 ### Install from file
@@ -39,10 +39,10 @@ Installing from the extension store is the easiest method and allows for automat
 Installing from a file or loading an unpacked extension is intended if you are to help contribute. Installing from files **does NOT allow for automatic updates**.
 
 1. Download the latest `.zip` from [GitHub Releases](/releases).
-2. Extract the `.zip` you downloaded into a folder.
-3. Go to your browser's Extensions page. (`chrome://extensions` for Google Chrome.)
-4. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
-5. Click the **Load unpacked** button and select the folder you extracted to earlier.
+1. Extract the `.zip` you downloaded into a folder.
+1. Go to your browser's Extensions page. (`chrome://extensions` for Google Chrome.)
+1. Enable Developer Mode by clicking the toggle switch next to **Developer mode**.
+1. Click the **Load unpacked** button and select the folder you extracted to earlier.
 
 ## Translations
 
