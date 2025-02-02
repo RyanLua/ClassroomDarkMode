@@ -1731,3 +1731,8 @@ input.tAUuQ {
   box-shadow: 0 1px 2px 0 var(--shadow-heavy), 0 2px 6px 2px var(--shadow-medium) !important;
   background: var(--bg-color) !important;
 }
+
+/* Embed background */
+iframe {
+  color-scheme: light;
+}
