@@ -1188,6 +1188,10 @@ body {
 }
 
 /* Assignment */
+.nl5VRd {
+  border-color: var(--bd-color) !important;
+}
+
 .RpYYWb {
   background-color: var(--bg-color) !important;
   border-color: var(--bd-color) !important;
