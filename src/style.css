@@ -9,7 +9,7 @@
   --hover-color: rgb(255 255 255 / 100%);
   --font-secondary-color: #9aa0a6;
   --icon-color: #9aa0a6;
-  --blue-hover: rgb(50 101 203 / 12%);
+  --dark-blue-hover: rgb(23 78 166 / 12%);
   --green-hover: rgb(19 115 51 / 12%);
   --pink-hover: rgb(169 36 112 / 12%);
   --orange-hover: rgb(182 105 37 / 12%);
@@ -128,7 +128,12 @@ body {
 /* Sidebar */
 .JJgbTc {
   background-color: rgb(13, 101, 45) !important;
-  color: rgb(206,234,214) !important;
+  color: rgb(206, 234, 214) !important;
+}
+
+.Ag4wUb.bFjUmb-Ysl7Fe,
+.Ag4wUb .bFjUmb-Ysl7Fe {
+  background-color: var(--dark-blue-hover) !important;
 }
 
 .Gfjxy.bFjUmb-Ysl7Fe.Fh209b,
