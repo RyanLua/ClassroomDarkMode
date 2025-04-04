@@ -1780,6 +1780,64 @@ input.tAUuQ {
   background: var(--bg-color) !important;
 }
 
+/* Resources Page */
+.YXlSVc {
+  border-color: var(--bd-color) !important;
+  background-color: white !important;
+}
+
+.U4nGSe {
+  color: var(--bg-secondary-color) !important;
+}
+
+.Usd1Ac {
+  background-color: var(--bg-color) !important;
+  border-color: var(--bd-color) !important;
+}
+
+.sCAI4d {
+  border-color: var(--bd-color) !important;
+  background-color: var(--bg-color) !important;
+}
+
+.IxWunc.IxWunc.IxWunc {
+  background-color: var(--gray-hover) !important;
+}
+
+.CWLF1e {
+  color: var(--font-color) !important;
+}
+
+.hmG2yf:hover {
+  box-shadow: 0 1px 2px 0 var(--shadow-medium), 0 2px 6px 2px var(--shadow-medium) !important;
+}
+
+.Rvesne {
+  background-color: var(--bg-color) !important;
+}
+
+.VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-IhFlZd,
+.VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-f7MjDc {
+  color: var(--font-color) !important;
+}
+
+/* Practice set */
+html .mat-mdc-outlined-button.mat-primary {
+  --mdc-outlined-button-outline-color: var(--bd-color) !important;
+}
+
+.mat-mdc-card {
+  background-color: var(--bg-color) !important;
+}
+
+button[_ngcontent-ng-c3487231784] {
+  color: var(--font-color) !important;
+}
+
+.prompt-message[_ngcontent-ng-c888528256] {
+  color: var(--font-color) !important;
+}
+
 /* Embed background */
 iframe {
   color-scheme: light;
