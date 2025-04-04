@@ -49,6 +49,13 @@ body {
   color: var(--font-color) !important;
 }
 
+.gb_Fa svg,
+.gb_Pc svg,
+.gb_sd .gb_td,
+.gb_2c .gb_td {
+  color: var(--font-color) !important;
+}
+
 .gb_Pa svg,
 .gb_Tc svg,
 .gb_fd .gb_od,
