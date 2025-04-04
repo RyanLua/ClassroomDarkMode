@@ -1797,6 +1797,7 @@ input.tAUuQ {
 
 .sCAI4d {
   border-color: var(--bd-color) !important;
+  background-color: var(--bg-color) !important;
 }
 
 .IxWunc.IxWunc.IxWunc {
@@ -1809,10 +1810,6 @@ input.tAUuQ {
 
 .hmG2yf:hover {
   box-shadow: 0 1px 2px 0 var(--shadow-medium), 0 2px 6px 2px var(--shadow-medium) !important;
-}
-
-.sCAI4d {
-  background-color: var(--bg-color) !important;
 }
 
 .Rvesne {
