@@ -1819,7 +1819,8 @@ input.tAUuQ {
   background-color: var(--bg-color) !important;
 }
 
-.VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-IhFlZd, .VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-f7MjDc {
+.VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-IhFlZd,
+.VfPpkd-xl07Ob .VfPpkd-StrnGf-rymPhb-f7MjDc {
   color: var(--font-color) !important;
 }
 
@@ -1838,8 +1839,9 @@ button[_ngcontent-ng-c3487231784] {
 
 .prompt-message[_ngcontent-ng-c888528256] {
   color: var(--font-color) !important;
+}
 
- /* Embed background */
+/* Embed background */
 iframe {
   color-scheme: light;
 }
