@@ -1863,3 +1863,12 @@ iframe {
 .ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-j7LFlb-Bz112c.ndfHFb-c4YZDc-GSQQnc-LgbsSe {
   background-position: 0 -1516px !important;
 }
+
+/* Document viewer icons */
+.ndfHFb-c4YZDc-Bz112c
+  .ndfHFb-c4YZDc-j7LFlb-Bz112c
+  .ndfHFb-c4YZDc-MZArnb-Bz112c
+  .ndfHFb-c4YZDc-C7uZwb-LgbsSe {
+  color: white !important;
+  background-color: var(--bg-secondary-color) !important;
+}
