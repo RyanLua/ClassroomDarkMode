@@ -133,6 +133,14 @@ body {
 }
 
 /* Sidebar */
+.yWU57c.AjWMy .rknsod {
+  background-color: var(--bg-color);
+}
+
+.yWU57c.AjWMy {
+  border-color: var(--bd-color) !important;
+}
+
 .JJgbTc {
   background-color: rgb(13, 101, 45) !important;
   color: rgb(206, 234, 214) !important;
