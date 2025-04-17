@@ -72,7 +72,7 @@ body {
 .gb_pd .gb_qd,
 .gb_0c .gb_qd {
   color: var(--font-color) !important;
-  opacity: 1;
+  opacity: 1 !important;
 }
 
 .gb_ha svg,
@@ -138,7 +138,7 @@ body {
 
 /* Sidebar */
 .yWU57c.AjWMy .rknsod {
-  background-color: var(--bg-color);
+  background-color: var(--bg-color) !important;
 }
 
 .yWU57c.AjWMy {
@@ -601,14 +601,14 @@ body {
 
 /* People */
 .f8nwhd-qb23S-b9nz9e-OWXEXe-uqeOfd .f8nwhd-qb23S-b9nz9e-V67aGc {
-  color: var(--font-color);
+  color: var(--font-color) !important;
 }
 
 .f8nwhd-qb23S-b9nz9e-OWXEXe-gk6SMd {
   background-color: var(
     --gm3-segmented-button-outlined-selected-container-color,
     var(--gm3-sys-color-secondary-container, #c2e7ff)
-  );
+  ) !important;
 }
 
 .ycbm1d {
@@ -1728,11 +1728,10 @@ input.tAUuQ {
 }
 
 /* Grading */
-
 .WbZEIe {
   background-color: var(--bg-secondary-color) !important;
-  display: flex;
-  overflow: hidden;
+  display: flex !important;
+  overflow: hidden !important;
 }
 
 /* Assets -> More actions */
@@ -1860,7 +1859,7 @@ button[_ngcontent-ng-c3487231784] {
 
 /* Embed background */
 iframe {
-  color-scheme: light;
+  color-scheme: light !important;
 }
 
 /* More actions icons */
