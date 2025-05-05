@@ -29,11 +29,3 @@ body:
       label: Additional context
       description: Add any other context or screenshots about the feature request here.
       placeholder: Anything else? You can attach files here, this includes screenshots, videos, etc.
-  - type: checkboxes
-    id: terms
-    attributes:
-      label: Code of Conduct
-      description: This project has a Code of Conduct that all participants are expected to understand and follow.
-      options:
-        - label: I have read and agree to the project's [Code of Conduct](https://github.com/RyanLua/ClassroomDarkMode?tab=coc-ov-file)
-          required: true
