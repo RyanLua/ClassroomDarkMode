@@ -2,7 +2,7 @@ blank_issues_enabled: true
 contact_links:
   - name: Get community support
     url: https://github.com/RyanLua/ClassroomDarkMode/discussions/new?category=support
-    about: Get support/help from the GitHub Discussions community.
+    about: Get support/help from the GitHub Discussions community
   - name: Fix/report a translation issue
     url: https://crowdin.com/project/classroom-dark-mode
-    about: Translation related issues should be redirected to our Crowdin project.
+    about: Translation related issues should be redirected to our Crowdin project
