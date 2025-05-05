@@ -1,5 +1,5 @@
 name: Report a bug
-description: File a bug report.
+description: File a bug report
 labels: ["bug"]
 body:
   - type: textarea
