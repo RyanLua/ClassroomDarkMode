@@ -12,11 +12,15 @@
     "128": "images/icon-128.png"
   },
   "action": {
+    "default_state": "disabled",
     "default_title": "Click to toggle dark mode"
   },
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["activeTab", "scripting"],
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
   "author": "ryan.luu@ryanluu.dev"
 }
