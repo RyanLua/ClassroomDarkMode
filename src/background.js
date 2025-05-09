@@ -1,8 +1,10 @@
 chrome.action.onClicked.addListener(async (tab) => {
-  await chrome.scripting.removeCSS({
-    files: ['style.css'],
-    target: { tabId: tab.id }
-  });
+  if (tab.url && tab.url.startsWith('https://classroom.google.com')) {
+    await chrome.scripting.removeCSS({
+      files: ['style.css'],
+      target: { tabId: tab.id }
+    });
+  }
 });
 
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
