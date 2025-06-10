@@ -11,6 +11,9 @@
 
 </div>
 
+> [!IMPORTANT]  
+> Google Classroom recently updated to change major parts of the UI, breaking this extension. We're working on a fix but it is recommended you disable or uninstall the extension to still be able to use Google Classroom.
+
 An extension that enables dark mode for Google Classroom using custom CSS based on Material Design.
 
 ## Installation
